@@ -5,10 +5,12 @@
         "credits": 3,
         "desc": "Written and oral communication in business correspondence, engineering design methods, report preparation and oral presentations of technical material. Restricted to students in second year of the Manufacturing Engineering Program. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.\nEquivalency: APSC 201.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 176"
+        ],
         "postreqs": [],
-        "x": -486,
-        "y": 124,
+        "x": -500,
+        "y": 0,
         "group": "manu"
     },
     {
@@ -19,8 +21,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -491,
-        "y": 155,
+        "x": -504,
+        "y": 30,
         "group": "manu"
     },
     {
@@ -28,15 +30,11 @@
         "title": "Thermodynamics",
         "credits": 3,
         "desc": "Thermodynamic system and properties, thermodynamic processes; work and heat interactions. Conservation of energy and First Law, internal energy and enthalpy, the Second Law and entropy, application to manufacturing processes. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: All of MATH 101, MATH 152, PHYS 158.\nCorequisite: MATH 255.\n",
-        "coreqs": [
-            "MATH 255"
-        ],
-        "prereqs": [
-            "MATH 255"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": -505,
-        "y": 183,
+        "x": -519,
+        "y": 58,
         "group": "manu"
     },
     {
@@ -44,15 +42,11 @@
         "title": "Machine Dynamics",
         "credits": 3,
         "desc": "Classifications of mechanisms, velocity, acceleration and force analysis, graphical and computer-oriented vector and matrix methods, balancing, flywheels, gears, gear trains, cams. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: All of MATH 101, MATH 152, PHYS 158, PHYS 170.\nCorequisite: MATH 255.\n",
-        "coreqs": [
-            "MATH 255"
-        ],
-        "prereqs": [
-            "MATH 255"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": -528,
-        "y": 205,
+        "x": -541,
+        "y": 80,
         "group": "manu"
     },
     {
@@ -63,8 +57,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -555,
-        "y": 219,
+        "x": -569,
+        "y": 95,
         "group": "manu"
     },
     {
@@ -73,10 +67,12 @@
         "credits": 6,
         "desc": "Project-based, multi-step manufacturing engineering design and problem solving. This course is not eligible for Credit/D/Fail grading. [1-4-0; 1-4-0]\nPrerequisite: MANU 230.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MANU 230"
+        ],
         "postreqs": [],
-        "x": -586,
-        "y": 224,
+        "x": -600,
+        "y": 100,
         "group": "manu"
     },
     {
@@ -85,10 +81,12 @@
         "credits": 3,
         "desc": "Functional area of production and operations management. Decision-making, capacity planning, aggregate planning, inventory management, distribution planning, materials requirements planning and quality control. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: MANU 270.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MANU 270"
+        ],
         "postreqs": [],
-        "x": -617,
-        "y": 219,
+        "x": -630,
+        "y": 95,
         "group": "manu"
     },
     {
@@ -97,10 +95,12 @@
         "credits": 3,
         "desc": "Materials selection for different design criteria; importance of shape and processing variables; computer software in selection. Credit will be granted for only one of MTRL 280 or MANU 378. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: APSC 278.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
         "postreqs": [],
-        "x": -645,
-        "y": 205,
+        "x": -658,
+        "y": 80,
         "group": "manu"
     },
     {
@@ -109,10 +109,17 @@
         "credits": 3,
         "desc": "Correlation between material properties and processibility for practical engineering manufacturing routes.  Calculations and design. Application of heat/mass/fluid transport, mechanics and thermodynamics to manufacturing processes. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: All of APSC 278, APSC 279, MTRL 264, MECH 260 and one of MANU 261, MTRL 250 and one of MECH 280, MTRL 263.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278",
+            "APSC 279",
+            "MTRL 264",
+            "MANU 261",
+            "MTRL 250",
+            "MTRL 263"
+        ],
         "postreqs": [],
-        "x": -667,
-        "y": 183,
+        "x": -680,
+        "y": 58,
         "group": "manu"
     },
     {
@@ -124,11 +131,11 @@
             "MANU 330"
         ],
         "prereqs": [
-            "MANU 330"
+            "MANU 265"
         ],
         "postreqs": [],
-        "x": -681,
-        "y": 155,
+        "x": -695,
+        "y": 30,
         "group": "manu"
     },
     {
@@ -139,8 +146,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -686,
-        "y": 124,
+        "x": -700,
+        "y": 0,
         "group": "manu"
     },
     {
@@ -151,8 +158,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -681,
-        "y": 93,
+        "x": -695,
+        "y": -30,
         "group": "manu"
     },
     {
@@ -161,10 +168,12 @@
         "credits": 6,
         "desc": "Project-based, multi-step, multi-part Capstone design project involving manufacturing engineering design methods, problem solving. This course is not eligible for Credit/D/Fail grading. [1-4-0; 1-4-0]\nPrerequisite: MANU 230.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MANU 230"
+        ],
         "postreqs": [],
-        "x": -667,
-        "y": 65,
+        "x": -680,
+        "y": -58,
         "group": "manu"
     },
     {
@@ -175,8 +184,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -645,
-        "y": 43,
+        "x": -658,
+        "y": -80,
         "group": "manu"
     },
     {
@@ -187,8 +196,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -617,
-        "y": 29,
+        "x": -630,
+        "y": -95,
         "group": "manu"
     },
     {
@@ -197,10 +206,12 @@
         "credits": 3,
         "desc": "Numerical modelling of manufacturing processes, linkage between material, process, properties and product geometry, heat/mass transport, thermodynamics and design principles applied to practical engineering processes. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: MANU 380.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MANU 380"
+        ],
         "postreqs": [],
-        "x": -586,
-        "y": 24,
+        "x": -600,
+        "y": -99,
         "group": "manu"
     },
     {
@@ -209,10 +220,12 @@
         "credits": 3,
         "desc": "Integrating concepts of primary (casting), secondary (deformation), and tertiary (machining and surface treatment) processes and economic and environmental assessment. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: MANU 380.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MANU 380"
+        ],
         "postreqs": [],
-        "x": -555,
-        "y": 29,
+        "x": -569,
+        "y": -95,
         "group": "manu"
     },
     {
@@ -223,8 +236,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -528,
-        "y": 43,
+        "x": -541,
+        "y": -80,
         "group": "manu"
     },
     {
@@ -236,11 +249,11 @@
             "MANU 430"
         ],
         "prereqs": [
-            "MANU 430"
+            "MANU 265"
         ],
         "postreqs": [],
-        "x": -505,
-        "y": 65,
+        "x": -519,
+        "y": -58,
         "group": "manu"
     },
     {
@@ -251,8 +264,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -491,
-        "y": 93,
+        "x": -504,
+        "y": -30,
         "group": "manu"
     }
 ]

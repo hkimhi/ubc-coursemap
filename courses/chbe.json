@@ -8,11 +8,11 @@
             "CHBE 220"
         ],
         "prereqs": [
-            "CHBE 220"
+            "APSC 176"
         ],
         "postreqs": [],
-        "x": 285,
-        "y": 570,
+        "x": 524,
+        "y": 424,
         "group": "chbe"
     },
     {
@@ -23,12 +23,10 @@
         "coreqs": [
             "CHBE 201"
         ],
-        "prereqs": [
-            "CHBE 201"
-        ],
+        "prereqs": [],
         "postreqs": [],
-        "x": 285,
-        "y": 576,
+        "x": 524,
+        "y": 430,
         "group": "chbe"
     },
     {
@@ -37,10 +35,12 @@
         "credits": 4,
         "desc": "Introduction to Chemical and Biological Engineering profession with emphasis on the biological sciences that form the founding principles of the discipline. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: CHBE 220.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 220"
+        ],
         "postreqs": [],
-        "x": 284,
-        "y": 583,
+        "x": 523,
+        "y": 436,
         "group": "chbe"
     },
     {
@@ -48,15 +48,13 @@
         "title": "Computational Methods",
         "credits": 3,
         "desc": "Mathematical formulation of chemical and biological engineering problems; standard techniques of numerical analysis and their application to chemical, environmental and biotechnological systems; program development; use of commercial numerical analysis software. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: APSC 160.\nCorequisite: MATH 256.\n",
-        "coreqs": [
-            "MATH 256"
-        ],
+        "coreqs": [],
         "prereqs": [
-            "MATH 256"
+            "APSC 160"
         ],
         "postreqs": [],
-        "x": 283,
-        "y": 589,
+        "x": 522,
+        "y": 443,
         "group": "chbe"
     },
     {
@@ -67,8 +65,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 282,
-        "y": 595,
+        "x": 521,
+        "y": 449,
         "group": "chbe"
     },
     {
@@ -79,8 +77,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 280,
-        "y": 601,
+        "x": 519,
+        "y": 455,
         "group": "chbe"
     },
     {
@@ -89,10 +87,12 @@
         "credits": 3,
         "desc": "Energy and the first law; second law of thermodynamics; entropy; availability (energy) analysis; thermodynamic properties of fluids, application to power generation, refrigeration, and liquefaction, as well as biological, environmental, and electrochemical systems. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: CHBE 241.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 241"
+        ],
         "postreqs": [],
-        "x": 278,
-        "y": 607,
+        "x": 517,
+        "y": 461,
         "group": "chbe"
     },
     {
@@ -100,15 +100,11 @@
         "title": "Transport Phenomena I",
         "credits": 3,
         "desc": "Fluid Mechanics. Momentum-transfer in fluids in laminar and turbulent flow; microscopic and macroscopic material; momentum and energy balances; rheology; dimensional analysis; flow in conduits; pumps; fluid metering. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: PHYS 170.\nCorequisite: MATH 256.\n",
-        "coreqs": [
-            "MATH 256"
-        ],
-        "prereqs": [
-            "MATH 256"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": 275,
-        "y": 613,
+        "x": 514,
+        "y": 466,
         "group": "chbe"
     },
     {
@@ -123,8 +119,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 273,
-        "y": 618,
+        "x": 511,
+        "y": 472,
         "group": "chbe"
     },
     {
@@ -138,8 +134,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 269,
-        "y": 624,
+        "x": 508,
+        "y": 477,
         "group": "chbe"
     },
     {
@@ -152,12 +148,11 @@
             "CHBE 251"
         ],
         "prereqs": [
-            "CHBE 244",
-            "CHBE 251"
+            "CHBE 263"
         ],
         "postreqs": [],
-        "x": 266,
-        "y": 629,
+        "x": 505,
+        "y": 483,
         "group": "chbe"
     },
     {
@@ -166,10 +161,13 @@
         "credits": 3,
         "desc": "Foundational concepts and design equations for basic unit operations such as: comminution, screening, filtration, centrifugal separations, evaporation and crystallization. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: All of CHBE 241, CHBE 244.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 244"
+        ],
         "postreqs": [],
-        "x": 262,
-        "y": 634,
+        "x": 501,
+        "y": 488,
         "group": "chbe"
     },
     {
@@ -178,10 +176,13 @@
         "credits": 4,
         "desc": "Stage-wise mass transfer operations; extraction and absorption; single and stage-wise binary and multi-component distillation; principles and equipment design for continuous contact mass transfer operations including absorption, binary distillation and others such as extraction, drying, and humidification. This course is not eligible for Credit/D/Fail grading. [4-0-2*]\nPrerequisite: All of CHBE 346, CHBE 352.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 346",
+            "CHBE 352"
+        ],
         "postreqs": [],
-        "x": 258,
-        "y": 639,
+        "x": 497,
+        "y": 492,
         "group": "chbe"
     },
     {
@@ -190,10 +191,14 @@
         "credits": 3,
         "desc": "Volumetric and thermodynamic properties of fluids; equations of state; heat effects; ideal and non-ideal mixtures; fugacities and activity coefficients; vapor-liquid and liquid-liquid phase equilibrium; solubility of gases and solids in liquids; chemical reaction equilibrium; equilibrium partitioning of pollutants. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: All of CHBE 220, CHBE 241, CHBE 244.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 220",
+            "CHBE 241",
+            "CHBE 244"
+        ],
         "postreqs": [],
-        "x": 253,
-        "y": 643,
+        "x": 492,
+        "y": 497,
         "group": "chbe"
     },
     {
@@ -202,10 +207,13 @@
         "credits": 1,
         "desc": "Mass transfer; molecular diffusion; convective transfer; analogies among heat, mass and momentum transfer; mass transfer coefficients; interphase mass transfer. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: All of CHBE 251, CHBE 351, MATH 253.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 251",
+            "CHBE 351"
+        ],
         "postreqs": [],
-        "x": 249,
-        "y": 647,
+        "x": 488,
+        "y": 501,
         "group": "chbe"
     },
     {
@@ -214,10 +222,12 @@
         "credits": 4,
         "desc": "Heat and mass transfer; conduction and molecular diffusion; convective transfer; analogies among heat, mass and momentum transfer; heat exchanger design; mass transfer coefficients; interphase mass transfer. This course is not eligible for Credit/D/Fail grading. [4-0-2*]\nPrerequisite: All of CHBE 251, MATH 253.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 251"
+        ],
         "postreqs": [],
-        "x": 244,
-        "y": 651,
+        "x": 483,
+        "y": 505,
         "group": "chbe"
     },
     {
@@ -226,10 +236,14 @@
         "credits": 3,
         "desc": "Kinetics of homogeneous chemical and biological reactions, isothermal ideal reactor design, analysis of non-ideal reactors using residence time distribution and mixing models. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: All of CHBE 230, CHBE 346, CHBE 352.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 230",
+            "CHBE 346",
+            "CHBE 352"
+        ],
         "postreqs": [],
-        "x": 238,
-        "y": 655,
+        "x": 477,
+        "y": 508,
         "group": "chbe"
     },
     {
@@ -240,8 +254,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 233,
-        "y": 658,
+        "x": 472,
+        "y": 511,
         "group": "chbe"
     },
     {
@@ -254,12 +268,14 @@
             "CHBE 352"
         ],
         "prereqs": [
-            "CHBE 370",
-            "CHBE 352"
+            "CHBE 201",
+            "CHBE 241",
+            "CHBE 251",
+            "CHBE 264"
         ],
         "postreqs": [],
-        "x": 227,
-        "y": 661,
+        "x": 466,
+        "y": 514,
         "group": "chbe"
     },
     {
@@ -272,8 +288,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 222,
-        "y": 663,
+        "x": 461,
+        "y": 517,
         "group": "chbe"
     },
     {
@@ -285,11 +301,14 @@
             "CHBE 381"
         ],
         "prereqs": [
-            "CHBE 381"
+            "CHBE 201",
+            "CHBE 241",
+            "CHBE 264",
+            "CHBE 221"
         ],
         "postreqs": [],
-        "x": 216,
-        "y": 665,
+        "x": 455,
+        "y": 519,
         "group": "chbe"
     },
     {
@@ -302,12 +321,14 @@
             "CHBE 356"
         ],
         "prereqs": [
-            "CHBE 345",
-            "CHBE 356"
+            "CHBE 201",
+            "CHBE 241",
+            "CHBE 251",
+            "CHBE 264"
         ],
         "postreqs": [],
-        "x": 210,
-        "y": 667,
+        "x": 449,
+        "y": 521,
         "group": "chbe"
     },
     {
@@ -316,10 +337,13 @@
         "credits": 3,
         "desc": "Introduction to sustainable practice for Chemical and Biological Engineers.  Pollution prevention, cleaner production, green chemistry and engineering, and sustainable design; environmental impact assessment including life-cycle assessment, total cost analysis and environmental systems analysis; applications in chemical and biological process industries. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: All of CHBE 241, CHBE 244.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 244"
+        ],
         "postreqs": [],
-        "x": 204,
-        "y": 668,
+        "x": 443,
+        "y": 522,
         "group": "chbe"
     },
     {
@@ -328,10 +352,13 @@
         "credits": 4,
         "desc": "Legal, environmental and physicochemical aspects of industrial water pollution and its abatement will be surveyed; techniques for design of wastewater treatment processes currently used in industry; case studies from chemical and process industries will be considered in detail. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: One of CHBE 251, CIVL 215, MECH 280, MTRL 263.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 251",
+            "MTRL 263"
+        ],
         "postreqs": [],
-        "x": 197,
-        "y": 669,
+        "x": 436,
+        "y": 523,
         "group": "chbe"
     },
     {
@@ -344,12 +371,11 @@
             "CHBE 355"
         ],
         "prereqs": [
-            "CHBE 345",
-            "CHBE 355"
+            "CHBE 241"
         ],
         "postreqs": [],
-        "x": 191,
-        "y": 670,
+        "x": 430,
+        "y": 524,
         "group": "chbe"
     },
     {
@@ -358,10 +384,13 @@
         "credits": 3,
         "desc": "Biological process engineering in the fields of biotechnology and biomedical engineering; enzymatic and cellular kinetics; cell culture, process development and product recovery; bioreactor design and operation. Credit will be granted for only one of CHBE 381, CHBE 560. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: One of CHBE 221, BMEG 245 and one of MATH 101, MATH 103, MATH 105. Third or fourth year standing.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 221",
+            "BMEG 245"
+        ],
         "postreqs": [],
-        "x": 185,
-        "y": 670,
+        "x": 424,
+        "y": 524,
         "group": "chbe"
     },
     {
@@ -372,8 +401,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 179,
-        "y": 670,
+        "x": 417,
+        "y": 524,
         "group": "chbe"
     },
     {
@@ -384,8 +413,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 172,
-        "y": 669,
+        "x": 411,
+        "y": 523,
         "group": "chbe"
     },
     {
@@ -396,8 +425,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 166,
-        "y": 668,
+        "x": 405,
+        "y": 522,
         "group": "chbe"
     },
     {
@@ -406,10 +435,13 @@
         "credits": 3,
         "desc": "Classical thermodynamic relations from a molecular perspective. Pressure-volume-temperature relations; chemical equilibria by Gibbs' method; vapor-liquid equilibria; thermodynamic calculations based on macroscopic and statistical methods; nonequilibrium processes; molecular simulations. Credit will be granted for only one of CHBE 451, CHBE 551. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: One of CHBE 346, MTRL 350. Or equivalent.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 346",
+            "MTRL 350"
+        ],
         "postreqs": [],
-        "x": 160,
-        "y": 667,
+        "x": 399,
+        "y": 521,
         "group": "chbe"
     },
     {
@@ -423,13 +455,17 @@
             "CHBE 485"
         ],
         "prereqs": [
-            "CHBE 457",
-            "CHBE 459",
-            "CHBE 485"
+            "CHBE 241",
+            "CHBE 254",
+            "CHBE 344",
+            "CHBE 346",
+            "CHBE 351",
+            "CHBE 356",
+            "CHBE 373"
         ],
         "postreqs": [],
-        "x": 154,
-        "y": 665,
+        "x": 393,
+        "y": 519,
         "group": "chbe"
     },
     {
@@ -442,12 +478,15 @@
             "CHBE 481"
         ],
         "prereqs": [
-            "CHBE 459",
-            "CHBE 481"
+            "CHBE 241",
+            "CHBE 345",
+            "CHBE 356",
+            "CHBE 376",
+            "CHBE 381"
         ],
         "postreqs": [],
-        "x": 148,
-        "y": 663,
+        "x": 387,
+        "y": 517,
         "group": "chbe"
     },
     {
@@ -460,12 +499,14 @@
             "CHBE 471"
         ],
         "prereqs": [
-            "CHBE 459",
-            "CHBE 471"
+            "CHBE 241",
+            "CHBE 345",
+            "CHBE 356",
+            "CHBE 376"
         ],
         "postreqs": [],
-        "x": 142,
-        "y": 661,
+        "x": 381,
+        "y": 514,
         "group": "chbe"
     },
     {
@@ -476,8 +517,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 137,
-        "y": 658,
+        "x": 376,
+        "y": 511,
         "group": "chbe"
     },
     {
@@ -486,10 +527,14 @@
         "credits": 3,
         "desc": "Definition of heterogeneous catalysis; properties of catalysts; kinetics of catalytic reactions; ideal heterogeneous reactors; non-isothermal reactor design; mass and heat transfer effects in heterogeneous reactors; examples of industrial reactors. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: All of CHBE 230, CHBE 352, CHBE 355.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 230",
+            "CHBE 352",
+            "CHBE 355"
+        ],
         "postreqs": [],
-        "x": 131,
-        "y": 655,
+        "x": 370,
+        "y": 508,
         "group": "chbe"
     },
     {
@@ -498,10 +543,15 @@
         "credits": 3,
         "desc": "Strategy for the conceptual design of industrial chemical and biological processes; rules of thumb for chemical engineers, simulation to assist process synthesis, reactor-separator network synthesis, introduction to product design and molecular structure design, efficiency and sustainability in the chemical industry. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: All of CHBE 241, CHBE 346, CHBE 376, CHBE 344.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 346",
+            "CHBE 376",
+            "CHBE 344"
+        ],
         "postreqs": [],
-        "x": 126,
-        "y": 651,
+        "x": 365,
+        "y": 505,
         "group": "chbe"
     },
     {
@@ -512,8 +562,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 121,
-        "y": 647,
+        "x": 360,
+        "y": 501,
         "group": "chbe"
     },
     {
@@ -522,10 +572,17 @@
         "credits": 4,
         "desc": "Experiments in unit operations relating to process, environmental and biological engineering. Experiments are designed to provide experience in instrumentation and control. Field trips may be required. This course is not eligible for Credit/D/Fail grading. [0-6-0; 0-6-0]\nPrerequisite: All of CHBE 345, CHBE 355, CHBE 356, CHBE 362 and one of CHBE 365, CHBE 366.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 345",
+            "CHBE 355",
+            "CHBE 356",
+            "CHBE 362",
+            "CHBE 365",
+            "CHBE 366"
+        ],
         "postreqs": [],
-        "x": 116,
-        "y": 643,
+        "x": 355,
+        "y": 497,
         "group": "chbe"
     },
     {
@@ -534,10 +591,12 @@
         "credits": 3,
         "desc": "Modelling the effects of the environment and nutrient availability on growth and waste production; designing closed and open environments for aquatic organisms; developing prescriptions for habitat rehabilitation. This course is not eligible for Credit/D/Fail grading. [2-2*-2*]\nPrerequisite: CHBE 221 or equivalent and third-year standing required.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 221"
+        ],
         "postreqs": [],
-        "x": 112,
-        "y": 639,
+        "x": 351,
+        "y": 492,
         "group": "chbe"
     },
     {
@@ -546,10 +605,13 @@
         "credits": 3,
         "desc": "Mass transport and fluid flow, including physiological tissues and tissue constructs. Mass transport deficiencies that lead to the development of pathological tissue and drug delivery to these tissues. Biological engineering for the design of tissue constructs and artificial organs. Credit will be granted for only one of CHBE 470, CHBE 570, BMEG 371. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: One of CHBE 221, BMEG 245.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 221",
+            "BMEG 245"
+        ],
         "postreqs": [],
-        "x": 108,
-        "y": 634,
+        "x": 347,
+        "y": 488,
         "group": "chbe"
     },
     {
@@ -558,10 +620,15 @@
         "credits": 4,
         "desc": "Selection and design of major equipment used in chemical process plants, including heat exchangers, separators, reactors. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: All of CHBE 345, CHBE 352, CHBE 355, CHBE 376.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 345",
+            "CHBE 352",
+            "CHBE 355",
+            "CHBE 376"
+        ],
         "postreqs": [],
-        "x": 104,
-        "y": 629,
+        "x": 343,
+        "y": 483,
         "group": "chbe"
     },
     {
@@ -570,10 +637,13 @@
         "credits": 3,
         "desc": "Frequency response analysis; advanced control techniques; multivariable control systems; mathematical tools for computer control systems; design of computer control systems; engineering design of industrial control applications; plant wide control concepts; distributed control systems concepts. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: All of CHBE 356, CHBE 376.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 356",
+            "CHBE 376"
+        ],
         "postreqs": [],
-        "x": 100,
-        "y": 624,
+        "x": 339,
+        "y": 477,
         "group": "chbe"
     },
     {
@@ -582,10 +652,13 @@
         "credits": 3,
         "desc": "Mathematical modelling of chemical plants and processes; computer simulation; introduction to numerical optimization techniques. This course is not eligible for Credit/D/Fail grading. [3-2*-0]\nPrerequisite: All of CHBE 344, CHBE 376.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 344",
+            "CHBE 376"
+        ],
         "postreqs": [],
-        "x": 97,
-        "y": 618,
+        "x": 336,
+        "y": 472,
         "group": "chbe"
     },
     {
@@ -594,10 +667,14 @@
         "credits": 3,
         "desc": "Stoichiometry, thermodynamics and kinetics of electrode reactions; conductivity and mass transport in electrolytes; material, energy and voltage balances; design of  electrosynthesis, electrorecovery of metals, and energy generation of batteries and fuel cells. Credit will be granted for only one of CHBE 477, CHBE 577. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of CHBE 220, CHBE 241, CHBE 346.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 220",
+            "CHBE 241",
+            "CHBE 346"
+        ],
         "postreqs": [],
-        "x": 94,
-        "y": 613,
+        "x": 333,
+        "y": 466,
         "group": "chbe"
     },
     {
@@ -606,10 +683,12 @@
         "credits": 3,
         "desc": "Introduction to polymer chemistry, polymer properties, polymer processing and technological applications This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of CHEM 260, CHBE 251 or equivalent\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 251"
+        ],
         "postreqs": [],
-        "x": 92,
-        "y": 607,
+        "x": 331,
+        "y": 461,
         "group": "chbe"
     },
     {
@@ -620,8 +699,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 90,
-        "y": 601,
+        "x": 329,
+        "y": 455,
         "group": "chbe"
     },
     {
@@ -632,8 +711,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 88,
-        "y": 595,
+        "x": 327,
+        "y": 449,
         "group": "chbe"
     },
     {
@@ -642,10 +721,12 @@
         "credits": 4,
         "desc": "Bioprocess flowsheeting; production-scale fermenter design; product recovery and purification; bioseparations; chromatography; viral inactivation and removal; process validation. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: CHBE 381.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 381"
+        ],
         "postreqs": [],
-        "x": 87,
-        "y": 589,
+        "x": 326,
+        "y": 443,
         "group": "chbe"
     },
     {
@@ -654,10 +735,14 @@
         "credits": 3,
         "desc": "Petroleum feed stocks testing methods, pseudocomponents, and property methods. Design and simulation of separation and reaction systems. Steady state and dynamic simulation. This course is not eligible for Credit/D/Fail grading. [3-1-0]\nPrerequisite: All of CHBE 345, CHBE 355, CHBE 376.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 345",
+            "CHBE 355",
+            "CHBE 376"
+        ],
         "postreqs": [],
-        "x": 86,
-        "y": 583,
+        "x": 325,
+        "y": 436,
         "group": "chbe"
     },
     {
@@ -668,8 +753,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 85,
-        "y": 576,
+        "x": 324,
+        "y": 430,
         "group": "chbe"
     },
     {
@@ -678,10 +763,13 @@
         "credits": 3,
         "desc": "Pollution prevention, cleaner production, green chemistry and engineering, industrial ecology, eco-industrial parks, and sustainable development; environmental impact assessment including life-cycle assessment, total cost analysis and environmental systems analysis; reduce/recycling/reuse of wastes and by-products. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of CHBE 241, CHBE 244.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 244"
+        ],
         "postreqs": [],
-        "x": 85,
-        "y": 570,
+        "x": 324,
+        "y": 424,
         "group": "chbe"
     },
     {
@@ -692,8 +780,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 85,
-        "y": 564,
+        "x": 324,
+        "y": 417,
         "group": "chbe"
     },
     {
@@ -702,10 +790,14 @@
         "credits": 3,
         "desc": "Physico-chemical, thermal, and biological methods for purification of solid waste and wastewater, and conversion to bioproducts/industrial products, energy and clean water. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of CHBE 241, CHBE 244, CHBE 370.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 244",
+            "CHBE 370"
+        ],
         "postreqs": [],
-        "x": 86,
-        "y": 558,
+        "x": 325,
+        "y": 411,
         "group": "chbe"
     },
     {
@@ -714,10 +806,12 @@
         "credits": 3,
         "desc": "Outline of the physics and chemistry of interfaces; discussion of the part played by surface effects in technical processes. Credit will be granted for only one of CHBE 357, CHBE 487, CHBE 587. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of CHBE 241, FNH  300.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 241"
+        ],
         "postreqs": [],
-        "x": 87,
-        "y": 551,
+        "x": 326,
+        "y": 405,
         "group": "chbe"
     },
     {
@@ -726,10 +820,15 @@
         "credits": 3,
         "desc": "Examination of carbon capture technologies, and CO2 conversion and sequestration options. Technical foundations on carbon cycle, thermodynamics, transport, absorption, adsorption, sequestration, mineralization and conversion. Analysis of cases in the context of technology, policy and regulatory framework. Credit will be granted for only one of CHBE 488 or CHBE 588. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: One of CHBE 244, MTRL 252 and one of CHBE 251, CIVL 215, MTRL 263.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 244",
+            "MTRL 252",
+            "CHBE 251",
+            "MTRL 263"
+        ],
         "postreqs": [],
-        "x": 88,
-        "y": 545,
+        "x": 327,
+        "y": 399,
         "group": "chbe"
     },
     {
@@ -740,8 +839,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 90,
-        "y": 539,
+        "x": 329,
+        "y": 393,
         "group": "chbe"
     },
     {
@@ -750,10 +849,13 @@
         "credits": 1,
         "desc": "Literature searching, planning, equipment design, experimental design for an individual research project leading to a written proposal and oral presentation. This course is not eligible for Credit/D/Fail grading. [0-2-0]\nPrerequisite: All of CHBE 362, CHBE 366.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 362",
+            "CHBE 366"
+        ],
         "postreqs": [],
-        "x": 92,
-        "y": 533,
+        "x": 331,
+        "y": 387,
         "group": "chbe"
     },
     {
@@ -762,10 +864,12 @@
         "credits": 5,
         "desc": "Research project under the direction of a staff member. This course is not eligible for Credit/D/Fail grading. [0-8-0]\nPrerequisite: CHBE 491.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 491"
+        ],
         "postreqs": [],
-        "x": 94,
-        "y": 528,
+        "x": 333,
+        "y": 381,
         "group": "chbe"
     },
     {
@@ -774,10 +878,13 @@
         "credits": 1,
         "desc": "Literature search, planning, equipment design for an individual research project leading to a written proposal and oral presentation. Topic to be chosen from a selection of environmental topics offered by the department. This course is not eligible for Credit/D/Fail grading. [0-2-0]\nPrerequisite: All of CHBE 362, CHBE 364.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 362",
+            "CHBE 364"
+        ],
         "postreqs": [],
-        "x": 97,
-        "y": 522,
+        "x": 336,
+        "y": 376,
         "group": "chbe"
     },
     {
@@ -786,10 +893,12 @@
         "credits": 5,
         "desc": "Environmental engineering research topic. This course is not eligible for Credit/D/Fail grading. [0-8-0]\nPrerequisite: CHBE 493.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 493"
+        ],
         "postreqs": [],
-        "x": 100,
-        "y": 517,
+        "x": 339,
+        "y": 370,
         "group": "chbe"
     },
     {
@@ -798,10 +907,13 @@
         "credits": 1,
         "desc": "Literature search, planning, equipment design for an individual research project leading to a written proposal and oral presentation. Topic to be chosen from a selection of biotechnology topics offered by the department. This course is not eligible for Credit/D/Fail grading. [0-2-0]\nPrerequisite: All of CHBE 362, CHBE 365.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 362",
+            "CHBE 365"
+        ],
         "postreqs": [],
-        "x": 104,
-        "y": 511,
+        "x": 343,
+        "y": 365,
         "group": "chbe"
     },
     {
@@ -810,10 +922,12 @@
         "credits": 5,
         "desc": "Biotechnological engineering research topic. This course is not eligible for Credit/D/Fail grading. [0-8-0]\nPrerequisite: CHBE 495.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 495"
+        ],
         "postreqs": [],
-        "x": 108,
-        "y": 506,
+        "x": 347,
+        "y": 360,
         "group": "chbe"
     },
     {
@@ -824,8 +938,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 112,
-        "y": 502,
+        "x": 351,
+        "y": 355,
         "group": "chbe"
     },
     {
@@ -836,8 +950,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 116,
-        "y": 497,
+        "x": 355,
+        "y": 351,
         "group": "chbe"
     },
     {
@@ -848,8 +962,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 121,
-        "y": 493,
+        "x": 360,
+        "y": 347,
         "group": "chbe"
     },
     {
@@ -860,8 +974,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 126,
-        "y": 489,
+        "x": 365,
+        "y": 343,
         "group": "chbe"
     },
     {
@@ -872,8 +986,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 131,
-        "y": 486,
+        "x": 370,
+        "y": 339,
         "group": "chbe"
     },
     {
@@ -884,8 +998,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 137,
-        "y": 483,
+        "x": 376,
+        "y": 336,
         "group": "chbe"
     },
     {
@@ -896,8 +1010,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 142,
-        "y": 480,
+        "x": 381,
+        "y": 333,
         "group": "chbe"
     },
     {
@@ -908,8 +1022,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 148,
-        "y": 477,
+        "x": 387,
+        "y": 331,
         "group": "chbe"
     },
     {
@@ -920,8 +1034,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 154,
-        "y": 475,
+        "x": 393,
+        "y": 329,
         "group": "chbe"
     },
     {
@@ -932,8 +1046,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 160,
-        "y": 473,
+        "x": 399,
+        "y": 327,
         "group": "chbe"
     },
     {
@@ -944,8 +1058,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 166,
-        "y": 472,
+        "x": 405,
+        "y": 326,
         "group": "chbe"
     },
     {
@@ -956,8 +1070,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 172,
-        "y": 471,
+        "x": 411,
+        "y": 325,
         "group": "chbe"
     },
     {
@@ -968,8 +1082,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 179,
-        "y": 470,
+        "x": 417,
+        "y": 324,
         "group": "chbe"
     },
     {
@@ -980,8 +1094,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 185,
-        "y": 470,
+        "x": 424,
+        "y": 324,
         "group": "chbe"
     },
     {
@@ -992,8 +1106,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 191,
-        "y": 470,
+        "x": 430,
+        "y": 324,
         "group": "chbe"
     },
     {
@@ -1004,8 +1118,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 197,
-        "y": 471,
+        "x": 436,
+        "y": 325,
         "group": "chbe"
     },
     {
@@ -1016,8 +1130,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 204,
-        "y": 472,
+        "x": 443,
+        "y": 326,
         "group": "chbe"
     },
     {
@@ -1028,8 +1142,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 210,
-        "y": 473,
+        "x": 449,
+        "y": 327,
         "group": "chbe"
     },
     {
@@ -1040,8 +1154,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 216,
-        "y": 475,
+        "x": 455,
+        "y": 329,
         "group": "chbe"
     },
     {
@@ -1052,8 +1166,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 222,
-        "y": 477,
+        "x": 461,
+        "y": 331,
         "group": "chbe"
     },
     {
@@ -1064,8 +1178,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 227,
-        "y": 480,
+        "x": 466,
+        "y": 333,
         "group": "chbe"
     },
     {
@@ -1076,8 +1190,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 233,
-        "y": 483,
+        "x": 472,
+        "y": 336,
         "group": "chbe"
     },
     {
@@ -1088,8 +1202,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 238,
-        "y": 486,
+        "x": 477,
+        "y": 339,
         "group": "chbe"
     },
     {
@@ -1100,8 +1214,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 244,
-        "y": 489,
+        "x": 483,
+        "y": 343,
         "group": "chbe"
     },
     {
@@ -1112,8 +1226,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 249,
-        "y": 493,
+        "x": 488,
+        "y": 347,
         "group": "chbe"
     },
     {
@@ -1124,8 +1238,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 253,
-        "y": 497,
+        "x": 492,
+        "y": 351,
         "group": "chbe"
     },
     {
@@ -1136,8 +1250,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 258,
-        "y": 502,
+        "x": 497,
+        "y": 355,
         "group": "chbe"
     },
     {
@@ -1148,8 +1262,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 262,
-        "y": 506,
+        "x": 501,
+        "y": 360,
         "group": "chbe"
     },
     {
@@ -1160,8 +1274,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 266,
-        "y": 511,
+        "x": 505,
+        "y": 365,
         "group": "chbe"
     },
     {
@@ -1172,8 +1286,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 269,
-        "y": 517,
+        "x": 508,
+        "y": 370,
         "group": "chbe"
     },
     {
@@ -1184,8 +1298,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 273,
-        "y": 522,
+        "x": 511,
+        "y": 376,
         "group": "chbe"
     },
     {
@@ -1196,8 +1310,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 275,
-        "y": 528,
+        "x": 514,
+        "y": 381,
         "group": "chbe"
     },
     {
@@ -1208,8 +1322,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 278,
-        "y": 533,
+        "x": 517,
+        "y": 387,
         "group": "chbe"
     },
     {
@@ -1220,8 +1334,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 280,
-        "y": 539,
+        "x": 519,
+        "y": 393,
         "group": "chbe"
     },
     {
@@ -1232,8 +1346,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 282,
-        "y": 545,
+        "x": 521,
+        "y": 399,
         "group": "chbe"
     },
     {
@@ -1244,8 +1358,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 283,
-        "y": 551,
+        "x": 522,
+        "y": 405,
         "group": "chbe"
     },
     {
@@ -1256,8 +1370,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 284,
-        "y": 558,
+        "x": 523,
+        "y": 411,
         "group": "chbe"
     },
     {
@@ -1268,8 +1382,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 285,
-        "y": 564,
+        "x": 524,
+        "y": 417,
         "group": "chbe"
     }
 ]

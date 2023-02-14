@@ -5,10 +5,12 @@
         "credits": 5,
         "desc": "Practice in engineering design and instrument development including mechanical and electrical design, and communications with sensors, actuators. Micro-controller implementation and system integration. Engineering design review process and presentations. Engineering communication in design and product release. [3-6-0]\nPrerequisite: ENPH 259.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ENPH 259"
+        ],
         "postreqs": [],
-        "x": 501,
-        "y": 445,
+        "x": 700,
+        "y": 0,
         "group": "enph"
     },
     {
@@ -19,8 +21,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 482,
-        "y": 504,
+        "x": 680,
+        "y": 58,
         "group": "enph"
     },
     {
@@ -29,10 +31,12 @@
         "credits": 3,
         "desc": "Basic experimental techniques in acquisition, analysis, and presentation and communication of data and technical results. [2-3-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150 and either (a) all of PHYS 108, PHYS 109 or (b) one of PHYS 102, PHYS 153 or (c) SCIE 001 or (d) all of PHYS 157, PHYS 158, PHYS 159 or (e) all of PHYS 118, PHYS 119 or (f) all of PHYS 108, PHYS 119.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 176"
+        ],
         "postreqs": [],
-        "x": 432,
-        "y": 540,
+        "x": 630,
+        "y": 95,
         "group": "enph"
     },
     {
@@ -43,8 +47,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 370,
-        "y": 540,
+        "x": 569,
+        "y": 95,
         "group": "enph"
     },
     {
@@ -55,8 +59,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 320,
-        "y": 504,
+        "x": 519,
+        "y": 58,
         "group": "enph"
     },
     {
@@ -65,10 +69,12 @@
         "credits": 3,
         "desc": "Engineering project planning, execution and reporting. The course involves carrying out an open-ended Engineering project to meet specific performance metrics on an industry relevant topic selected by instructors. Reporting on progress is both oral and written. This course is not eligible for Credit/D/Fail grading. [0-6-1]\nPrerequisite: All of ENPH 253, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ENPH 253"
+        ],
         "postreqs": [],
-        "x": 301,
-        "y": 445,
+        "x": 500,
+        "y": 0,
         "group": "enph"
     },
     {
@@ -77,10 +83,12 @@
         "credits": 5,
         "desc": "Project planning, management and reporting. This course involves writing a project proposal, carrying out an open-ended Engineering project, and reporting the results both orally and in writing. This course is not eligible for Credit/D/Fail grading. [1-3-0; 0-6-1]\nPrerequisite: ENPH 253.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ENPH 253"
+        ],
         "postreqs": [],
-        "x": 320,
-        "y": 387,
+        "x": 519,
+        "y": -58,
         "group": "enph"
     },
     {
@@ -89,10 +97,12 @@
         "credits": 6,
         "desc": "Projects designed to give students research development and design experience. Projects are provided by research faculty in Science and Engineering and from local industry. This course is not eligible for Credit/D/Fail grading. [1-5-1;0-4-0]\nPrerequisite: ENPH 459.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ENPH 459"
+        ],
         "postreqs": [],
-        "x": 370,
-        "y": 350,
+        "x": 569,
+        "y": -95,
         "group": "enph"
     },
     {
@@ -101,10 +111,12 @@
         "credits": 3,
         "desc": "An optional course for those students wishing to continue their project work beyond the development in ENPH 479. This course is not eligible for Credit/D/Fail grading. [0-6-0]\nPrerequisite: ENPH 479.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ENPH 479"
+        ],
         "postreqs": [],
-        "x": 432,
-        "y": 350,
+        "x": 630,
+        "y": -95,
         "group": "enph"
     },
     {
@@ -113,10 +125,12 @@
         "credits": 3,
         "desc": "A project course for students pursuing entrepreneurial training within Engineering Physics, and wishing to further develop projects resulting from ENPH 459. This course is not eligible for Credit/D/Fail grading. [0-5-1]\nPrerequisite: ENPH 459.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ENPH 459"
+        ],
         "postreqs": [],
-        "x": 482,
-        "y": 387,
+        "x": 680,
+        "y": -58,
         "group": "enph"
     }
 ]

@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -385,
-        "y": -352,
+        "x": -324,
+        "y": -424,
         "group": "mine"
     },
     {
@@ -17,10 +17,12 @@
         "credits": 3,
         "desc": "The design, planning, and operation, and closure of mining operations, with a focus on mineral processing technologies, plant design, waste and tailings management, and the future of mining. This course is not eligible for Credit/D/Fail grading. [3-2-0]\nPrerequisite: MINE 200.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 200"
+        ],
         "postreqs": [],
-        "x": -385,
-        "y": -344,
+        "x": -324,
+        "y": -416,
         "group": "mine"
     },
     {
@@ -31,8 +33,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -386,
-        "y": -337,
+        "x": -325,
+        "y": -408,
         "group": "mine"
     },
     {
@@ -43,8 +45,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -388,
-        "y": -329,
+        "x": -326,
+        "y": -401,
         "group": "mine"
     },
     {
@@ -53,10 +55,12 @@
         "credits": 3,
         "desc": "Overview; extracting a mineral or final product from an ore. This course is not eligible for Credit/D/Fail grading. [3-2-0]\nPrerequisite: MINE 224.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 224"
+        ],
         "postreqs": [],
-        "x": -390,
-        "y": -322,
+        "x": -329,
+        "y": -393,
         "group": "mine"
     },
     {
@@ -67,8 +71,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -392,
-        "y": -314,
+        "x": -331,
+        "y": -386,
         "group": "mine"
     },
     {
@@ -77,10 +81,12 @@
         "credits": 4,
         "desc": "Selection, design, and development of underground mining methods based upon physical, geological, economic, and environmental constraints. Underground excavation methods and equipment selection. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: MINE 291.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 291"
+        ],
         "postreqs": [],
-        "x": -396,
-        "y": -307,
+        "x": -334,
+        "y": -379,
         "group": "mine"
     },
     {
@@ -91,8 +97,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -399,
-        "y": -301,
+        "x": -338,
+        "y": -372,
         "group": "mine"
     },
     {
@@ -101,10 +107,12 @@
         "credits": 3,
         "desc": "Theory and practice of rock fragmentation by drilling and blasting; introduction to explosives and initiation systems; design of surface and underground blasts; machine excavation systems for tunneling and stoping; environmental impacts, safety, and risk assessment. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: MINE 291.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 291"
+        ],
         "postreqs": [],
-        "x": -404,
-        "y": -294,
+        "x": -342,
+        "y": -366,
         "group": "mine"
     },
     {
@@ -113,10 +121,13 @@
         "credits": 4,
         "desc": "Surface mining methods, calculation of pit limits, cutoff grades, break-even criteria, stripping ratios, ultimate pit depth and dimensions, and pit sequencing.  Geotechnical inputs to surface mine design.  Loading and hauling equipment, production rates, capacity and systems. This course is not eligible for Credit/D/Fail grading. [3-2-0]\nPrerequisite: All of MINE 291, MINE 292.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 291",
+            "MINE 292"
+        ],
         "postreqs": [],
-        "x": -408,
-        "y": -288,
+        "x": -347,
+        "y": -359,
         "group": "mine"
     },
     {
@@ -127,8 +138,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -414,
-        "y": -282,
+        "x": -352,
+        "y": -354,
         "group": "mine"
     },
     {
@@ -139,8 +150,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -419,
-        "y": -277,
+        "x": -358,
+        "y": -348,
         "group": "mine"
     },
     {
@@ -151,8 +162,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -425,
-        "y": -272,
+        "x": -364,
+        "y": -344,
         "group": "mine"
     },
     {
@@ -163,8 +174,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -432,
-        "y": -268,
+        "x": -370,
+        "y": -339,
         "group": "mine"
     },
     {
@@ -175,8 +186,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -438,
-        "y": -264,
+        "x": -377,
+        "y": -335,
         "group": "mine"
     },
     {
@@ -185,10 +196,13 @@
         "credits": 3,
         "desc": "Types of mineral deposits. Exploration and sampling methods. Methods for data analysis and computer modelling of mineral deposits and their use in production planning and design. This course is not eligible for Credit/D/Fail grading. [2-1-1]\nPrerequisite: All of MINE 291, MINE 292.\nCorequisite: STAT 251.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 291",
+            "MINE 292"
+        ],
         "postreqs": [],
-        "x": -445,
-        "y": -260,
+        "x": -384,
+        "y": -332,
         "group": "mine"
     },
     {
@@ -199,8 +213,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -453,
-        "y": -258,
+        "x": -391,
+        "y": -329,
         "group": "mine"
     },
     {
@@ -209,10 +223,12 @@
         "credits": 3,
         "desc": "Design and analysis for ventilation systems for mining. Topics such as ventilation design, ventilation surveys, thermodynamic aspects, psychrometry of air and air conditioning. This course is not eligible for Credit/D/Fail grading. [3-2-0]\nPrerequisite: MINE 291.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 291"
+        ],
         "postreqs": [],
-        "x": -460,
-        "y": -255,
+        "x": -399,
+        "y": -327,
         "group": "mine"
     },
     {
@@ -221,10 +237,13 @@
         "credits": 3,
         "desc": "The design of rock slopes and underground openings with respect to stress, structure and the rock mass. Stabilization and monitoring of rock movement. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of MINE 303, MINE 305.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 303",
+            "MINE 305"
+        ],
         "postreqs": [],
-        "x": -468,
-        "y": -254,
+        "x": -406,
+        "y": -325,
         "group": "mine"
     },
     {
@@ -235,8 +254,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -475,
-        "y": -253,
+        "x": -414,
+        "y": -324,
         "group": "mine"
     },
     {
@@ -247,8 +266,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -483,
-        "y": -252,
+        "x": -422,
+        "y": -324,
         "group": "mine"
     },
     {
@@ -257,10 +276,12 @@
         "credits": 3,
         "desc": "Mineral economics and finance. Analytical tools and techniques used in the valuation of mining companies and the financial analysis and risk assessment methods. [2-2-0]\nPrerequisite: MINE 396.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 396"
+        ],
         "postreqs": [],
-        "x": -491,
-        "y": -252,
+        "x": -430,
+        "y": -324,
         "group": "mine"
     },
     {
@@ -271,8 +292,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -498,
-        "y": -253,
+        "x": -437,
+        "y": -325,
         "group": "mine"
     },
     {
@@ -283,8 +304,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -506,
-        "y": -254,
+        "x": -445,
+        "y": -326,
         "group": "mine"
     },
     {
@@ -293,10 +314,12 @@
         "credits": 3,
         "desc": "Process alternatives and mineralogical considerations; physical and chemical recovery technologies; environmental protection; flowsheet studies. This course is not eligible for Credit/D/Fail grading. [2-2-0]\nPrerequisite: MINE 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 331"
+        ],
         "postreqs": [],
-        "x": -514,
-        "y": -256,
+        "x": -452,
+        "y": -328,
         "group": "mine"
     },
     {
@@ -305,10 +328,12 @@
         "credits": 3,
         "desc": "Design of unit operations in a mineral processing plant including crushing, grinding, classification, gravity separation, magnetic separation, flotation, thickening and filtration. Equipment selection and sizing, flowsheet design, circuit analysis and processing options. This course is not eligible for Credit/D/Fail grading. [2-3-0]\nPrerequisite: MINE 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 331"
+        ],
         "postreqs": [],
-        "x": -521,
-        "y": -259,
+        "x": -460,
+        "y": -330,
         "group": "mine"
     },
     {
@@ -319,8 +344,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -528,
-        "y": -262,
+        "x": -467,
+        "y": -334,
         "group": "mine"
     },
     {
@@ -329,10 +354,12 @@
         "credits": 3,
         "desc": "Textural parameters, such as mineral liberation size and mineral associations in connection with the mineral processing techniques for mineral recovery. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: MINE 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 331"
+        ],
         "postreqs": [],
-        "x": -535,
-        "y": -266,
+        "x": -474,
+        "y": -337,
         "group": "mine"
     },
     {
@@ -341,10 +368,13 @@
         "credits": 3,
         "desc": "Mine water management covering integrated water resource management, water balances, sources, water use optimization, water quality and treatment and long term stewardship. [2-2-0]\nPrerequisite: One of MINE 291, MINE 292.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 291",
+            "MINE 292"
+        ],
         "postreqs": [],
-        "x": -541,
-        "y": -270,
+        "x": -480,
+        "y": -341,
         "group": "mine"
     },
     {
@@ -353,10 +383,13 @@
         "credits": 3,
         "desc": "Thermal and metallurgical coals: objectives of their cleaning; coal washability and flotability fundamentals; coal preparation unit operations; performance characteristics of coal washing equipment; products dewatering; plant flowsheets. This course is not eligible for Credit/D/Fail grading. [2-3-0]\nPrerequisite: All of MINE 292, MINE 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 292",
+            "MINE 331"
+        ],
         "postreqs": [],
-        "x": -548,
-        "y": -274,
+        "x": -487,
+        "y": -346,
         "group": "mine"
     },
     {
@@ -365,10 +398,13 @@
         "credits": 3,
         "desc": "Knowledge and understanding of equipment used in mining operations, including diesel, electro-mechanical, hydraulic and pneumatic equipment as well as conveyors, load-haul-dump trucks and pumps. [2-2-0]\nPrerequisite: One of MINE 302, MINE 310.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 302",
+            "MINE 310"
+        ],
         "postreqs": [],
-        "x": -554,
-        "y": -279,
+        "x": -492,
+        "y": -351,
         "group": "mine"
     },
     {
@@ -379,8 +415,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -559,
-        "y": -285,
+        "x": -498,
+        "y": -357,
         "group": "mine"
     },
     {
@@ -391,8 +427,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -564,
-        "y": -291,
+        "x": -503,
+        "y": -363,
         "group": "mine"
     },
     {
@@ -401,10 +437,13 @@
         "credits": 3,
         "desc": "Designs, planning, and leading practices are applied to underground mining systems reliant on induced and controlled rock mass caving. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Two of MINE 302, MINE 303, EOSC 323.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 302",
+            "MINE 303"
+        ],
         "postreqs": [],
-        "x": -568,
-        "y": -297,
+        "x": -507,
+        "y": -369,
         "group": "mine"
     },
     {
@@ -415,8 +454,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -572,
-        "y": -304,
+        "x": -511,
+        "y": -375,
         "group": "mine"
     },
     {
@@ -425,10 +464,12 @@
         "credits": 3,
         "desc": "Life cycle of the production of Oil Sands resources, including mining, bitumen extraction, and reclamation. This course is not eligible for Credit/D/Fail grading. [2-3-0]\nPrerequisite: MINE 310.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 310"
+        ],
         "postreqs": [],
-        "x": -576,
-        "y": -311,
+        "x": -515,
+        "y": -382,
         "group": "mine"
     },
     {
@@ -437,10 +478,19 @@
         "credits": 6,
         "desc": "Mining Engineering design project from scope definition to final design and project feasibility. Based on a problem from industry and/or research. This course is not eligible for Credit/D/Fail grading. [2-2-0; 2-2-0]\nPrerequisite: All of MINE 302, MINE 303, MINE 304, MINE 310, MINE 331, MINE 333, MINE 350, MINE 396. Fourth-year standing in Mining Engineering is required.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 302",
+            "MINE 303",
+            "MINE 304",
+            "MINE 310",
+            "MINE 331",
+            "MINE 333",
+            "MINE 350",
+            "MINE 396"
+        ],
         "postreqs": [],
-        "x": -579,
-        "y": -318,
+        "x": -518,
+        "y": -390,
         "group": "mine"
     },
     {
@@ -451,8 +501,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -581,
-        "y": -325,
+        "x": -520,
+        "y": -397,
         "group": "mine"
     },
     {
@@ -463,8 +513,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -583,
-        "y": -333,
+        "x": -522,
+        "y": -404,
         "group": "mine"
     },
     {
@@ -475,8 +525,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -584,
-        "y": -341,
+        "x": -523,
+        "y": -412,
         "group": "mine"
     },
     {
@@ -487,8 +537,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -585,
-        "y": -348,
+        "x": -524,
+        "y": -420,
         "group": "mine"
     },
     {
@@ -499,8 +549,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -585,
-        "y": -356,
+        "x": -524,
+        "y": -428,
         "group": "mine"
     },
     {
@@ -511,8 +561,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -584,
-        "y": -364,
+        "x": -523,
+        "y": -435,
         "group": "mine"
     },
     {
@@ -523,8 +573,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -583,
-        "y": -371,
+        "x": -522,
+        "y": -443,
         "group": "mine"
     },
     {
@@ -535,8 +585,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -581,
-        "y": -379,
+        "x": -520,
+        "y": -451,
         "group": "mine"
     },
     {
@@ -547,8 +597,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -579,
-        "y": -386,
+        "x": -518,
+        "y": -458,
         "group": "mine"
     },
     {
@@ -559,8 +609,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -576,
-        "y": -394,
+        "x": -515,
+        "y": -465,
         "group": "mine"
     },
     {
@@ -571,8 +621,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -572,
-        "y": -400,
+        "x": -511,
+        "y": -472,
         "group": "mine"
     },
     {
@@ -583,8 +633,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -568,
-        "y": -407,
+        "x": -507,
+        "y": -479,
         "group": "mine"
     },
     {
@@ -595,8 +645,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -564,
-        "y": -413,
+        "x": -503,
+        "y": -485,
         "group": "mine"
     },
     {
@@ -607,8 +657,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -559,
-        "y": -419,
+        "x": -498,
+        "y": -491,
         "group": "mine"
     },
     {
@@ -619,8 +669,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -554,
-        "y": -425,
+        "x": -492,
+        "y": -497,
         "group": "mine"
     },
     {
@@ -629,10 +679,13 @@
         "credits": 3,
         "desc": "Mineral process simulators including off-line optimization strategies; optimal flow sheet design. Credit will be granted for only one of MINE 527 or MINE 576. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of MINE 526, MINE 575.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 526",
+            "MINE 575"
+        ],
         "postreqs": [],
-        "x": -548,
-        "y": -430,
+        "x": -487,
+        "y": -502,
         "group": "mine"
     },
     {
@@ -643,8 +696,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -541,
-        "y": -435,
+        "x": -480,
+        "y": -506,
         "group": "mine"
     },
     {
@@ -655,8 +708,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -535,
-        "y": -439,
+        "x": -474,
+        "y": -510,
         "group": "mine"
     },
     {
@@ -667,8 +720,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -528,
-        "y": -442,
+        "x": -467,
+        "y": -514,
         "group": "mine"
     },
     {
@@ -679,8 +732,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -521,
-        "y": -445,
+        "x": -460,
+        "y": -517,
         "group": "mine"
     },
     {
@@ -691,8 +744,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -514,
-        "y": -448,
+        "x": -452,
+        "y": -520,
         "group": "mine"
     },
     {
@@ -703,8 +756,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -506,
-        "y": -450,
+        "x": -445,
+        "y": -521,
         "group": "mine"
     },
     {
@@ -715,8 +768,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -498,
-        "y": -451,
+        "x": -437,
+        "y": -523,
         "group": "mine"
     },
     {
@@ -727,8 +780,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -491,
-        "y": -452,
+        "x": -430,
+        "y": -524,
         "group": "mine"
     },
     {
@@ -739,8 +792,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -483,
-        "y": -452,
+        "x": -422,
+        "y": -524,
         "group": "mine"
     },
     {
@@ -751,8 +804,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -475,
-        "y": -452,
+        "x": -414,
+        "y": -523,
         "group": "mine"
     },
     {
@@ -763,8 +816,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -468,
-        "y": -451,
+        "x": -406,
+        "y": -522,
         "group": "mine"
     },
     {
@@ -775,8 +828,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -460,
-        "y": -449,
+        "x": -399,
+        "y": -521,
         "group": "mine"
     },
     {
@@ -787,8 +840,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -453,
-        "y": -447,
+        "x": -391,
+        "y": -518,
         "group": "mine"
     },
     {
@@ -799,8 +852,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -445,
-        "y": -444,
+        "x": -384,
+        "y": -516,
         "group": "mine"
     },
     {
@@ -811,8 +864,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -438,
-        "y": -441,
+        "x": -377,
+        "y": -512,
         "group": "mine"
     },
     {
@@ -821,10 +874,12 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: MINE 581.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 581"
+        ],
         "postreqs": [],
-        "x": -432,
-        "y": -437,
+        "x": -370,
+        "y": -508,
         "group": "mine"
     },
     {
@@ -835,8 +890,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -425,
-        "y": -432,
+        "x": -364,
+        "y": -504,
         "group": "mine"
     },
     {
@@ -847,8 +902,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -419,
-        "y": -428,
+        "x": -358,
+        "y": -499,
         "group": "mine"
     },
     {
@@ -859,8 +914,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -414,
-        "y": -422,
+        "x": -352,
+        "y": -494,
         "group": "mine"
     },
     {
@@ -871,8 +926,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -408,
-        "y": -416,
+        "x": -347,
+        "y": -488,
         "group": "mine"
     },
     {
@@ -883,8 +938,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -404,
-        "y": -410,
+        "x": -342,
+        "y": -482,
         "group": "mine"
     },
     {
@@ -895,8 +950,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -399,
-        "y": -404,
+        "x": -338,
+        "y": -475,
         "group": "mine"
     },
     {
@@ -905,10 +960,12 @@
         "credits": 3,
         "desc": "Mining or mineral processing engineering internship in which concepts, theory and practice of mining and mineral processing engineering are applied by working with industry on appropriate technical projects. Pass/fail. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MINE 591.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MINE 591"
+        ],
         "postreqs": [],
-        "x": -396,
-        "y": -397,
+        "x": -334,
+        "y": -469,
         "group": "mine"
     },
     {
@@ -919,8 +976,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -392,
-        "y": -390,
+        "x": -331,
+        "y": -462,
         "group": "mine"
     },
     {
@@ -931,8 +988,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -390,
-        "y": -383,
+        "x": -329,
+        "y": -454,
         "group": "mine"
     },
     {
@@ -943,8 +1000,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -388,
-        "y": -375,
+        "x": -326,
+        "y": -447,
         "group": "mine"
     },
     {
@@ -955,8 +1012,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -386,
-        "y": -368,
+        "x": -325,
+        "y": -439,
         "group": "mine"
     },
     {
@@ -967,8 +1024,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -385,
-        "y": -360,
+        "x": -324,
+        "y": -432,
         "group": "mine"
     }
 ]

@@ -8,11 +8,11 @@
             "MTRL 280"
         ],
         "prereqs": [
-            "MTRL 280"
+            "APSC 176"
         ],
         "postreqs": [],
-        "x": -200,
-        "y": -519,
+        "x": 99,
+        "y": -600,
         "group": "mtrl"
     },
     {
@@ -23,8 +23,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -200,
-        "y": -509,
+        "x": 99,
+        "y": -590,
         "group": "mtrl"
     },
     {
@@ -33,10 +33,12 @@
         "credits": 4,
         "desc": "Behaviour of solutions, phase diagrams, electrochemistry, chemical potential and free energy diagrams applied to materials processing and thermodynamic modelling. [3-0-2]\nPrerequisite: MTRL 250.\nEquivalency: MTRL 350.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 250"
+        ],
         "postreqs": [],
-        "x": -201,
-        "y": -500,
+        "x": 98,
+        "y": -580,
         "group": "mtrl"
     },
     {
@@ -47,8 +49,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -204,
-        "y": -490,
+        "x": 95,
+        "y": -570,
         "group": "mtrl"
     },
     {
@@ -59,8 +61,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -207,
-        "y": -481,
+        "x": 92,
+        "y": -561,
         "group": "mtrl"
     },
     {
@@ -71,8 +73,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -211,
-        "y": -472,
+        "x": 88,
+        "y": -552,
         "group": "mtrl"
     },
     {
@@ -81,10 +83,12 @@
         "credits": 2,
         "desc": "Fundamental communication and inter- personal skills, as well as operational processes, that engineers require to effectively work in design teams. Concepts and best practices around project management tools and techniques, team dynamics, planning, and organization. This course is not eligible for Credit/D/Fail grading. [1-0-2]\nPrerequisite: MTRL 201.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 201"
+        ],
         "postreqs": [],
-        "x": -216,
-        "y": -464,
+        "x": 83,
+        "y": -544,
         "group": "mtrl"
     },
     {
@@ -93,10 +97,12 @@
         "credits": 3,
         "desc": "Manufacturing processes from a materials perspective; metal casting, heat treating processes, forming processes, machining, and joining. Role of manufacturing in microstructure and material properties development and on component performance. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: APSC 278.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
         "postreqs": [],
-        "x": -222,
-        "y": -456,
+        "x": 77,
+        "y": -536,
         "group": "mtrl"
     },
     {
@@ -107,8 +113,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -229,
-        "y": -448,
+        "x": 70,
+        "y": -529,
         "group": "mtrl"
     },
     {
@@ -121,8 +127,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": -236,
-        "y": -442,
+        "x": 63,
+        "y": -522,
         "group": "mtrl"
     },
     {
@@ -133,8 +139,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -244,
-        "y": -436,
+        "x": 55,
+        "y": -516,
         "group": "mtrl"
     },
     {
@@ -143,10 +149,13 @@
         "credits": 3,
         "desc": "Diffusion and mass transfer with chemical reaction; gas-liquid, gas-solid and liquid-liquid systems; analysis of mass transfer processes in metallurgical operations; mixing in continuous and batch processes. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: All of MTRL 263, MTRL 264.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 263",
+            "MTRL 264"
+        ],
         "postreqs": [],
-        "x": -252,
-        "y": -431,
+        "x": 47,
+        "y": -511,
         "group": "mtrl"
     },
     {
@@ -155,10 +164,12 @@
         "credits": 3,
         "desc": "Polycrystalline and single crystal deformation; dislocation theory; strengthening mechanisms; fracture mechanics; fatigue; high temperature deformation mechanisms. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of APSC 278, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
         "postreqs": [],
-        "x": -261,
-        "y": -427,
+        "x": 38,
+        "y": -507,
         "group": "mtrl"
     },
     {
@@ -169,8 +180,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -270,
-        "y": -423,
+        "x": 29,
+        "y": -504,
         "group": "mtrl"
     },
     {
@@ -184,8 +195,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": -280,
-        "y": -421,
+        "x": 19,
+        "y": -501,
         "group": "mtrl"
     },
     {
@@ -196,8 +207,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -290,
-        "y": -420,
+        "x": 9,
+        "y": -500,
         "group": "mtrl"
     },
     {
@@ -206,10 +217,13 @@
         "credits": 2,
         "desc": "Written and oral technical communication. Report preparation and oral presentation of technical information. This course is not eligible for Credit/D/Fail grading. [1-0-2]\nPrerequisite: One of APSC 201, MTRL 201.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 201",
+            "MTRL 201"
+        ],
         "postreqs": [],
-        "x": -300,
-        "y": -419,
+        "x": 0,
+        "y": -500,
         "group": "mtrl"
     },
     {
@@ -220,8 +234,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -309,
-        "y": -420,
+        "x": -9,
+        "y": -500,
         "group": "mtrl"
     },
     {
@@ -230,10 +244,13 @@
         "credits": 1,
         "desc": "Written communication in engineering. Reporting of technical material. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of APSC 201, MTRL 201.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 201",
+            "MTRL 201"
+        ],
         "postreqs": [],
-        "x": -319,
-        "y": -421,
+        "x": -19,
+        "y": -501,
         "group": "mtrl"
     },
     {
@@ -242,10 +259,12 @@
         "credits": 3,
         "desc": "Strategies for ceramic and metallic coatings by melting-solidification, from the vapour state and from solution, and methods of surface modification. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: APSC 278.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
         "postreqs": [],
-        "x": -329,
-        "y": -423,
+        "x": -29,
+        "y": -504,
         "group": "mtrl"
     },
     {
@@ -256,8 +275,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -338,
-        "y": -427,
+        "x": -38,
+        "y": -507,
         "group": "mtrl"
     },
     {
@@ -268,8 +287,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -347,
-        "y": -431,
+        "x": -47,
+        "y": -511,
         "group": "mtrl"
     },
     {
@@ -280,8 +299,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -355,
-        "y": -436,
+        "x": -55,
+        "y": -516,
         "group": "mtrl"
     },
     {
@@ -290,10 +309,12 @@
         "credits": 3,
         "desc": "Leaching, purification, precipitation, regeneration; thermodynamics and kinetics of separation steps; electrochemical applications. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of MMAT 358, MTRL 358.\nEquivalency: MMAT 458.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 358"
+        ],
         "postreqs": [],
-        "x": -363,
-        "y": -442,
+        "x": -63,
+        "y": -522,
         "group": "mtrl"
     },
     {
@@ -302,10 +323,12 @@
         "credits": 3,
         "desc": "Measurement systems for materials processing and evaluation, methods of data collection and analysis in materials engineering, materials processing monitoring and control, design of experiments for materials processing and optimization. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: All of STAT 251, APSC 278.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
         "postreqs": [],
-        "x": -370,
-        "y": -448,
+        "x": -70,
+        "y": -529,
         "group": "mtrl"
     },
     {
@@ -316,8 +339,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -377,
-        "y": -456,
+        "x": -77,
+        "y": -536,
         "group": "mtrl"
     },
     {
@@ -328,8 +351,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -383,
-        "y": -464,
+        "x": -83,
+        "y": -544,
         "group": "mtrl"
     },
     {
@@ -338,10 +361,13 @@
         "credits": 3,
         "desc": "Various casting technologies related to the automotive and aerospace sectorswill be covered, including upstream liquid metal processing. [2-0-2]\nPrerequisite: All of APSC 278, MTRL 378.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278",
+            "MTRL 378"
+        ],
         "postreqs": [],
-        "x": -388,
-        "y": -472,
+        "x": -88,
+        "y": -552,
         "group": "mtrl"
     },
     {
@@ -352,8 +378,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -392,
-        "y": -481,
+        "x": -92,
+        "y": -561,
         "group": "mtrl"
     },
     {
@@ -362,10 +388,13 @@
         "credits": 3,
         "desc": "Case studies addressing temperature modelling in welding and joining, material selection for welds and joints, calculation of properties for welds and joints, mechanical analysis of joints, and design of welding and joining procedures. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: All of MTRL 365, MTRL 378.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 365",
+            "MTRL 378"
+        ],
         "postreqs": [],
-        "x": -395,
-        "y": -490,
+        "x": -95,
+        "y": -570,
         "group": "mtrl"
     },
     {
@@ -374,10 +403,13 @@
         "credits": 3,
         "desc": "Follows the production of metallurgical products, focusing on process design models used to describe solidification, recrystallization, and precipitation. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: All of MTRL 365, MTRL 378.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 365",
+            "MTRL 378"
+        ],
         "postreqs": [],
-        "x": -398,
-        "y": -500,
+        "x": -98,
+        "y": -580,
         "group": "mtrl"
     },
     {
@@ -388,8 +420,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -399,
-        "y": -509,
+        "x": -99,
+        "y": -590,
         "group": "mtrl"
     },
     {
@@ -398,10 +430,12 @@
         "credits": 3,
         "desc": "Failure by excess deformation, fracture, fatigue, and environmental effects. Failure theories and case studies of engineering failures. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: All of MECH 260, MTRL 365.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 365"
+        ],
         "postreqs": [],
-        "x": -400,
-        "y": -519,
+        "x": -100,
+        "y": -600,
         "group": "mtrl"
     },
     {
@@ -412,8 +446,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -399,
-        "y": -529,
+        "x": -99,
+        "y": -609,
         "group": "mtrl"
     },
     {
@@ -424,8 +458,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -398,
-        "y": -539,
+        "x": -98,
+        "y": -619,
         "group": "mtrl"
     },
     {
@@ -434,10 +468,12 @@
         "credits": 3,
         "desc": "Engineered materials in medical applications with an emphasis on material properties, functionality, design, and material response in the biological environment. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: APSC 278.\nEquivalency: MMAT 495.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
         "postreqs": [],
-        "x": -395,
-        "y": -548,
+        "x": -95,
+        "y": -629,
         "group": "mtrl"
     },
     {
@@ -446,10 +482,12 @@
         "credits": 3,
         "desc": "Concepts of life cycle analysis, circular economy and critical materials.  Project-based introduction to key concepts, calculations, and design. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: MTRL 250.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 250"
+        ],
         "postreqs": [],
-        "x": -392,
-        "y": -557,
+        "x": -92,
+        "y": -638,
         "group": "mtrl"
     },
     {
@@ -460,8 +498,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -388,
-        "y": -566,
+        "x": -88,
+        "y": -647,
         "group": "mtrl"
     },
     {
@@ -472,8 +510,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -383,
-        "y": -575,
+        "x": -83,
+        "y": -655,
         "group": "mtrl"
     },
     {
@@ -484,8 +522,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -377,
-        "y": -583,
+        "x": -77,
+        "y": -663,
         "group": "mtrl"
     },
     {
@@ -496,8 +534,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -370,
-        "y": -590,
+        "x": -70,
+        "y": -670,
         "group": "mtrl"
     },
     {
@@ -506,10 +544,12 @@
         "credits": 2,
         "desc": "Application of advanced thermodynamic principles in metallurgical processes. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of MMAT 350, MTRL 350.\nEquivalency: MMAT 550.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 350"
+        ],
         "postreqs": [],
-        "x": -363,
-        "y": -596,
+        "x": -63,
+        "y": -677,
         "group": "mtrl"
     },
     {
@@ -520,8 +560,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -355,
-        "y": -602,
+        "x": -55,
+        "y": -683,
         "group": "mtrl"
     },
     {
@@ -530,10 +570,12 @@
         "credits": 3,
         "desc": "Modern theories relating to corrosion and corrosion protection of metals. Thermodynamic and kinetic phenomena, corrosion measurements, inhibition and passivation, design for corrosive environments, stress corrosion cracking theory. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of MMAT 456, MTRL 456.\nEquivalency: MMAT 558.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MTRL 456"
+        ],
         "postreqs": [],
-        "x": -347,
-        "y": -607,
+        "x": -47,
+        "y": -688,
         "group": "mtrl"
     },
     {
@@ -544,8 +586,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -338,
-        "y": -612,
+        "x": -38,
+        "y": -692,
         "group": "mtrl"
     },
     {
@@ -556,8 +598,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -329,
-        "y": -615,
+        "x": -29,
+        "y": -695,
         "group": "mtrl"
     },
     {
@@ -568,8 +610,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -319,
-        "y": -617,
+        "x": -19,
+        "y": -698,
         "group": "mtrl"
     },
     {
@@ -580,8 +622,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -309,
-        "y": -619,
+        "x": -9,
+        "y": -699,
         "group": "mtrl"
     },
     {
@@ -592,8 +634,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -300,
-        "y": -619,
+        "x": 0,
+        "y": -700,
         "group": "mtrl"
     },
     {
@@ -604,8 +646,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -290,
-        "y": -619,
+        "x": 9,
+        "y": -699,
         "group": "mtrl"
     },
     {
@@ -616,8 +658,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -280,
-        "y": -617,
+        "x": 19,
+        "y": -698,
         "group": "mtrl"
     },
     {
@@ -628,8 +670,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -270,
-        "y": -615,
+        "x": 29,
+        "y": -695,
         "group": "mtrl"
     },
     {
@@ -640,8 +682,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -261,
-        "y": -612,
+        "x": 38,
+        "y": -692,
         "group": "mtrl"
     },
     {
@@ -652,8 +694,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -252,
-        "y": -607,
+        "x": 47,
+        "y": -688,
         "group": "mtrl"
     },
     {
@@ -664,8 +706,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -244,
-        "y": -602,
+        "x": 55,
+        "y": -683,
         "group": "mtrl"
     },
     {
@@ -676,8 +718,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -236,
-        "y": -596,
+        "x": 63,
+        "y": -677,
         "group": "mtrl"
     },
     {
@@ -688,8 +730,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -229,
-        "y": -590,
+        "x": 70,
+        "y": -670,
         "group": "mtrl"
     },
     {
@@ -700,8 +742,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -222,
-        "y": -583,
+        "x": 77,
+        "y": -663,
         "group": "mtrl"
     },
     {
@@ -712,8 +754,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -216,
-        "y": -575,
+        "x": 83,
+        "y": -655,
         "group": "mtrl"
     },
     {
@@ -724,8 +766,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -211,
-        "y": -566,
+        "x": 88,
+        "y": -647,
         "group": "mtrl"
     },
     {
@@ -736,8 +778,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -207,
-        "y": -557,
+        "x": 92,
+        "y": -638,
         "group": "mtrl"
     },
     {
@@ -748,8 +790,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -204,
-        "y": -548,
+        "x": 95,
+        "y": -629,
         "group": "mtrl"
     },
     {
@@ -760,8 +802,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -201,
-        "y": -539,
+        "x": 98,
+        "y": -619,
         "group": "mtrl"
     },
     {
@@ -772,8 +814,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -200,
-        "y": -529,
+        "x": 99,
+        "y": -609,
         "group": "mtrl"
     }
 ]

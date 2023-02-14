@@ -8,11 +8,11 @@
             "IGEN 230"
         ],
         "prereqs": [
-            "IGEN 230"
+            "APSC 176"
         ],
         "postreqs": [],
-        "x": -385,
-        "y": 352,
+        "x": -324,
+        "y": 424,
         "group": "igen"
     },
     {
@@ -23,8 +23,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -414,
-        "y": 423,
+        "x": -353,
+        "y": 494,
         "group": "igen"
     },
     {
@@ -35,8 +35,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -485,
-        "y": 452,
+        "x": -424,
+        "y": 524,
         "group": "igen"
     },
     {
@@ -47,8 +47,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -556,
-        "y": 423,
+        "x": -494,
+        "y": 494,
         "group": "igen"
     },
     {
@@ -59,8 +59,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -585,
-        "y": 352,
+        "x": -524,
+        "y": 424,
         "group": "igen"
     },
     {
@@ -69,10 +69,13 @@
         "credits": 3,
         "desc": "Pipeline materials and material selection; fracture mechanics; manufacturing and processing; welding and corrosion; soil-pipe interactions; surveying and site investigations; slope stability; natural hazards; pipeline loads and response. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Either (a) MECH 221 or (b) APSC 278 and one of CIVL 215, MTRL 263 and one of CIVL 230, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278",
+            "MTRL 263"
+        ],
         "postreqs": [],
-        "x": -556,
-        "y": 281,
+        "x": -494,
+        "y": 353,
         "group": "igen"
     },
     {
@@ -81,10 +84,13 @@
         "credits": 3,
         "desc": "Energy infrastructure; pipe flows; equipment and facilities including compressors, pumping stations, coolers, and controls; terminals; pipeline integrity; corrosion control. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Either (a) MECH 221 or (b) APSC 278 and one of CIVL 215, MTRL 263 and one of CIVL 230, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 278",
+            "MTRL 263"
+        ],
         "postreqs": [],
-        "x": -485,
-        "y": 252,
+        "x": -424,
+        "y": 324,
         "group": "igen"
     },
     {
@@ -93,10 +99,12 @@
         "credits": 3,
         "desc": "Pipeline and pipeline system design reflecting technical, regulatory, environmental, societal, professional, and economic aspects; pipeline design project. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: IGEN 450.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "IGEN 450"
+        ],
         "postreqs": [],
-        "x": -414,
-        "y": 281,
+        "x": -353,
+        "y": 353,
         "group": "igen"
     }
 ]

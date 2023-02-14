@@ -50,7 +50,7 @@ def scrape(IGNORE_CACHE):
                 if("Prerequisite" in i.text):
                     prereqs = i.text.split("Prerequisite: ")[1].split('.')[0]
                     prereqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", prereqs)
-                    prereqs = [elem for elem in coreqs if elem.split(' ')[0] in CODES]
+                    prereqs = [elem for elem in prereqs if elem.split(' ')[0] in CODES]
 
                 course_dict['coreqs'] = coreqs
                 course_dict['prereqs'] = prereqs

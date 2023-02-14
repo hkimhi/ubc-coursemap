@@ -4,16 +4,8 @@
         "title": "Circuit Analysis I",
         "credits": 4,
         "desc": "The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits. This course is not eligible for Credit/D/Fail grading. [4-2*-2*]\nPrerequisite: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: One of MATH 255, MATH 256, MATH 265.\n",
-        "coreqs": [
-            "MATH 255",
-            "MATH 256",
-            "MATH 265"
-        ],
-        "prereqs": [
-            "MATH 255",
-            "MATH 256",
-            "MATH 265"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": 700,
         "y": 0,
@@ -25,7 +17,10 @@
         "credits": 4,
         "desc": "Phasor analysis and AC three phase systems power; transfer functions; Bode plots; filters and resonance; Laplace transforms; transformers and mutual inductance; two-port networks. First and second order circuits. This course is not eligible for Credit/D/Fail grading. [4-0-1]\nPrerequisite: All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 203"
+        ],
         "postreqs": [],
         "x": 699,
         "y": 7,
@@ -36,10 +31,7 @@
         "title": "Basic Circuit Analysis",
         "credits": 3,
         "desc": "Ideal passive elements and sources; Kirchhoff's Laws; DC circuits; natural and complete response of first order circuits; operational amplifiers; impedance; phasors; complex power. Not open to students in Electrical and Computer Engineering. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nCorequisite: One of MATH 255, MATH 256.\n",
-        "coreqs": [
-            "MATH 255",
-            "MATH 256"
-        ],
+        "coreqs": [],
         "prereqs": [],
         "postreqs": [],
         "x": 698,
@@ -51,14 +43,8 @@
         "title": "Linear Circuits",
         "credits": 4,
         "desc": "Basic concepts and analysis techniques in the context of electric and electronic circuits including Bode plots and the Laplace transform. Treatment of RLC circuits, phasors, op-amps. Introduction to nonlinear circuit elements, diodes, BJT, FET circuits. This course is not eligible for Credit/D/Fail grading. [4-0-1]\nPrerequisite: MATH 152 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: One of MATH 256, MATH 255.\n",
-        "coreqs": [
-            "MATH 256",
-            "MATH 255"
-        ],
-        "prereqs": [
-            "MATH 256",
-            "MATH 255"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": 697,
         "y": 21,
@@ -83,12 +69,8 @@
         "title": "Engineering Electromagnetics",
         "credits": 2,
         "desc": "Electrostatics, electric currents, dielectrics, capacitance, electrostatic potential, magnetostatics. This course is not eligible for Credit/D/Fail grading. [2-0-1]\nPrerequisite: One of MATH 263, MATH 253 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: MATH 264.\n",
-        "coreqs": [
-            "MATH 264"
-        ],
-        "prereqs": [
-            "MATH 264"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": 693,
         "y": 34,
@@ -126,7 +108,9 @@
         "credits": 3,
         "desc": "Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs. Credit will be granted for only one of ELEC 281, CPEN 281, BMEG 201 or APSC 201. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 176"
+        ],
         "postreqs": [],
         "x": 684,
         "y": 54,
@@ -138,7 +122,9 @@
         "credits": 6,
         "desc": "Design projects involving electronic devices and circuits, electromagnetics, signals and systems, and microcomputers. This course is not eligible for Credit/D/Fail grading. [2-6-0]\nPrerequisite: All of ELEC 201, CPEN 211.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 201"
+        ],
         "postreqs": [],
         "x": 680,
         "y": 59,
@@ -151,7 +137,6 @@
         "desc": "Design projects involving electronic devices and circuits, electromagnetics, signals and systems, microcomputers with applications in biomedical engineering. Final group project requiring oral presentation of student-prepared slides. This course is not eligible for Credit/D/Fail grading. [2-6-0]\nCorequisite: All of ELEC 201, CPEN 211, ELEC 221.\n",
         "coreqs": [
             "ELEC 201",
-            "CPEN 211",
             "ELEC 221"
         ],
         "prereqs": [],
@@ -166,7 +151,12 @@
         "credits": 4,
         "desc": "Analysis and design of electronic circuits; biasing of and small-signal models for transistors; frequency response of amplifiers; feedback and stability aspects of amplifier design; OP-AMPs; active filters; oscillators; IC specification and selection. Credit will only be given for one of EECE 356, ELEC 301, and EECE 374. This course is not eligible for Credit/D/Fail grading. [4-0-0]\nPrerequisite: Either (a) one of ELEC 201, ELEC 203 and ELEC 202;  or (b) ELEC 204.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 203",
+            "ELEC 202",
+            "ELEC 204"
+        ],
         "postreqs": [],
         "x": 670,
         "y": 70,
@@ -178,7 +168,11 @@
         "credits": 3,
         "desc": "Semiconductor fundamentals; modelling of electronic devices including diodes and transistors; design of power supplies, waveform generators and logic circuits; signals in time and frequency domains; operational amplifiers; active filters; oscillators; device specification and selection. This course is not eligible for Credit/D/Fail grading. [3-2*-0]\nPrerequisite: One of ELEC 201, ELEC 203, ELEC 204, MECH 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 203",
+            "ELEC 204"
+        ],
         "postreqs": [],
         "x": 665,
         "y": 75,
@@ -190,7 +184,9 @@
         "credits": 4,
         "desc": "Waves and propagation; Maxwell's equations; applications including transmission lines; impedance matching and Smith charts; reflection and refraction; waveguides and antennas. This course is not eligible for Credit/D/Fail grading. [4-0-0]\nPrerequisite: ELEC 211 and either (a) all of MATH 101, MATH 263, MATH 265, MATH 267 or (b) all of MATH 101, MATH 253, MATH 264, MATH 265, MATH 267 or (c) all of MATH 101, MATH 253, MATH 256, MATH 264.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 211"
+        ],
         "postreqs": [],
         "x": 659,
         "y": 80,
@@ -202,7 +198,10 @@
         "credits": 4,
         "desc": "Fundamental aspects of electronic materials such as: semiconductors, metals, dielectrics, piezoelectrics, magnetic materials, and their applications in devices such as diodes, transistors, and transducers. This course is not eligible for Credit/D/Fail grading. [4-0-0]\nPrerequisite: One of ELEC 211, ENPH 253.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 211",
+            "ENPH 253"
+        ],
         "postreqs": [],
         "x": 654,
         "y": 84,
@@ -214,7 +213,9 @@
         "credits": 4,
         "desc": "Stochastic behaviour of signals and systems; discrete and continuous probability; random processes; modelling and identification of linear time-invariant systems; binary hypothesis testing and decision making. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: One of ELEC 221, STAT 305. STAT 305 may be taken concurrently, with registration assistance from Electrical and Computer Engineering Student Services.\nEquivalency: STAT 321.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 221"
+        ],
         "postreqs": [],
         "x": 647,
         "y": 87,
@@ -226,7 +227,9 @@
         "credits": 4,
         "desc": "Analysis, design and implementation of computer networks and their protocols. Application layer protocols, transmission control protocol (TCP), Internet protocol (IP), routing algorithms, reliable data transfer, multiple access, Ethernet. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: One of ELEC 221, CPEN 212, CPSC 261, CPEN 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 221"
+        ],
         "postreqs": [],
         "x": 641,
         "y": 90,
@@ -238,7 +241,10 @@
         "credits": 4,
         "desc": "Continuous time system analysis by Laplace transforms; system modelling by transfer function and state space methods; feedback, stability and sensitivity; control design; frequency domain analysis. This course is not eligible for Credit/D/Fail grading. [4-0-0]\nPrerequisite: One of ELEC 202, ELEC 204.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 202",
+            "ELEC 204"
+        ],
         "postreqs": [],
         "x": 634,
         "y": 93,
@@ -250,7 +256,9 @@
         "credits": 4,
         "desc": "Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors. This course is not eligible for Credit/D/Fail grading. [3-3*-2*]\nPrerequisite: All of PHYS 170, ELEC 202.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 202"
+        ],
         "postreqs": [],
         "x": 628,
         "y": 95,
@@ -262,7 +270,10 @@
         "credits": 3,
         "desc": "Electromechanical energy conversion; linear actuators; torque/speed of rotating devices; reluctance, stepper, permanent- magnet, induction, brushless-DC motors and DC motors; actuator/motor drive circuits/controllers. Credit will be granted for only one of ELEC 344, ELEC 342, ELEC 343. This course is not eligible for Credit/D/Fail grading. [3-2*-0]\nPrerequisite: One of ELEC 202, ELEC 302.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 202",
+            "ELEC 302"
+        ],
         "postreqs": [],
         "x": 621,
         "y": 97,
@@ -274,7 +285,11 @@
         "credits": 3,
         "desc": "Characteristics of semiconductor devices; analog circuits; force and torque production; motor principles and torque-speed characteristics; principles of power electronics. Not open to students in Electrical and Computer Engineering. This course is not eligible for Credit/D/Fail grading. [2-2*-2*]\nPrerequisite: One of ELEC 201, ELEC 203, ELEC 204, MECH 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 203",
+            "ELEC 204"
+        ],
         "postreqs": [],
         "x": 614,
         "y": 98,
@@ -286,7 +301,10 @@
         "credits": 4,
         "desc": "Overview of three-phase energy systems. High-voltage transmission, low-voltage distribution. Performance of renewable electricity generation. Grid integration of renewable energy systems. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: All of ELEC 202, ELEC 342.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 202",
+            "ELEC 342"
+        ],
         "postreqs": [],
         "x": 607,
         "y": 99,
@@ -310,7 +328,12 @@
         "credits": 3,
         "desc": "Theory and experiments involving instruments for general, orthopedic, cardiac and minimally invasive surgery as well as sensors for respiratory, cardiac, bioelectric, biochemical and nervous system measurement. Restricted to students admitted to the Biomedical Engineering option in Electrical Engineering and the Biomedical Engineering program. This course is cross-listed with BMEG 321. Credit will only be given for one of ELEC 371 or BMEG 321. This course is not eligible for Credit/D/Fail grading. [3-1-0]\nPrerequisite: Either (a) all of MATH 265, MATH 267 or (b) MATH 256;  and either (a) all of ELEC 202, ELEC 292 or (b) all of BMEG 220, BMEG 257.\nEquivalency: BMEG 321.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 202",
+            "ELEC 292",
+            "BMEG 220",
+            "BMEG 257"
+        ],
         "postreqs": [],
         "x": 592,
         "y": 99,
@@ -322,7 +345,14 @@
         "credits": 6,
         "desc": "Introduction to project management.  Problem definition.  Design principles and practices.  Implementation techniques including circuit design, software design, solid modelling, PCBs, assembling, and packaging.  Testing and evaluation.  Effective presentations. This course is not eligible for Credit/D/Fail grading. [2-6-0]\nPrerequisite: One of CPEN 291, ELEC 291, ELEC 292 and two of ELEC 301, ELEC 341, ELEC 311, ELEC 342.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 291",
+            "ELEC 292",
+            "ELEC 301",
+            "ELEC 341",
+            "ELEC 311",
+            "ELEC 342"
+        ],
         "postreqs": [],
         "x": 585,
         "y": 98,
@@ -346,7 +376,10 @@
         "credits": 3,
         "desc": "Design and analysis of analog integrated circuits, with emphasis on CMOS design techniques. Gain stages, opamp design, frequency compensation, oscillators, A/D, D/A converters, PLL, DLL. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: One of ELEC 301, ELEC 302.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 301",
+            "ELEC 302"
+        ],
         "postreqs": [],
         "x": 571,
         "y": 95,
@@ -370,7 +403,9 @@
         "credits": 3,
         "desc": "Logical effort. Noise in digital systems. Low power techniques. Power distribution. SRAM and DRAM design. Non-volatile memory technologies. High speed adder, multiplier and divider design. Clock Trees. Synchronization and FIFO. Scaling, and industry trends. High-speed circuit design and layout project. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: ELEC 402.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 402"
+        ],
         "postreqs": [],
         "x": 558,
         "y": 90,
@@ -385,7 +420,7 @@
             "ELEC 401"
         ],
         "prereqs": [
-            "ELEC 401"
+            "ELEC 221"
         ],
         "postreqs": [],
         "x": 552,
@@ -398,7 +433,9 @@
         "credits": 3,
         "desc": "Basic antenna concepts; antennas for low, medium and high frequencies; terrestrial and satellite propagation links; environmental effects on electromagnetic radiation. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of ELEC 311, PHYS 301, PHYS 354.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 311"
+        ],
         "postreqs": [],
         "x": 545,
         "y": 84,
@@ -434,7 +471,9 @@
         "credits": 3,
         "desc": "Physics of operation, and design and analysis of semiconductor devices of topical interest, e.g., solar cells, LEDs, high-speed MOSFETs, high-frequency HBTs, low-noise HEMTs. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of ELEC 315, PHYS 304.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 315"
+        ],
         "postreqs": [],
         "x": 529,
         "y": 70,
@@ -458,7 +497,9 @@
         "credits": 3,
         "desc": "DSP fundamentals; image processing; signal representation; digital filtering; statistical estimation; DSP applications. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: ELEC 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 221"
+        ],
         "postreqs": [],
         "x": 519,
         "y": 59,
@@ -470,7 +511,11 @@
         "credits": 3,
         "desc": "Data acquisition, time and frequency domain analysis, analog and discrete filter design, sampling theory, time-dependent processing, linear prediction, random signals, biomedical system modelling, and stability analysis; introduction to nonlinear systems. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of ELEC 371, ELEC 341, ELEC 221 and one of CPSC 260, CPSC 259 and one of STAT 251, MATH 318, MATH 302, STAT 302.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 371",
+            "ELEC 341",
+            "ELEC 221"
+        ],
         "postreqs": [],
         "x": 515,
         "y": 54,
@@ -482,7 +527,10 @@
         "credits": 3,
         "desc": "Review of probability theory, signals and noise; digital communication over Gaussian noise channels, optimal receiver design, modulation techniques and error performance calculations; measure of information, source coding, symbol and stream codes; channel coding, capacity, simple linear block codes; practical applications. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: ELEC 221 and one of ELEC 321, MATH 302, MATH 318, STAT 251, STAT 302, STAT 357.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 221",
+            "ELEC 321"
+        ],
         "postreqs": [],
         "x": 512,
         "y": 47,
@@ -494,7 +542,9 @@
         "credits": 3,
         "desc": "Communication over bandlimited additive white Gaussian noise channels; power spectra of digitally modulated signals; intersymbol interference; cyclic, convolutional, low-density parity check and turbo codes; trellis coded modulation; spread spectrum techniques; security; wireless communication systems and standards; practical applications. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: ELEC 431.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 431"
+        ],
         "postreqs": [],
         "x": 509,
         "y": 41,
@@ -518,7 +568,9 @@
         "credits": 3,
         "desc": "Wavelength division multiplexing, framing techniques, traffic grooming, virtual topology design, routing and wavelength assignment, protection and restoration, optical packet switching. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: ELEC 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 221"
+        ],
         "postreqs": [],
         "x": 504,
         "y": 28,
@@ -530,7 +582,9 @@
         "credits": 3,
         "desc": "Relationships between system parameters and system responses for linear control systems. Design specifications for dynamic and steady-state performance and realization by use of feedback control. Robust design of PID controllers and multivariable controllers. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: ELEC 341.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 341"
+        ],
         "postreqs": [],
         "x": 502,
         "y": 21,
@@ -554,7 +608,11 @@
         "credits": 4,
         "desc": "Power diodes, thyristors, transistors and FETs; analysis of idealized circuits with generalized loads; AC-DC, DC-DC, DC-AC, AC-AC converters, modulation techniques, gating circuits; practical design and applications. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of ELEC 301, ELEC 344, ELEC 342.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 301",
+            "ELEC 344",
+            "ELEC 342"
+        ],
         "postreqs": [],
         "x": 500,
         "y": 7,
@@ -566,7 +624,10 @@
         "credits": 3,
         "desc": "Typical mechanical loads; dynamic and static characteristics and analysis of DC and AC drives; microprocessor-based controllers; commercial choices of drives for various applications. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of ELEC 342, ELEC 343.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 342",
+            "ELEC 343"
+        ],
         "postreqs": [],
         "x": 500,
         "y": 0,
@@ -578,7 +639,9 @@
         "credits": 4,
         "desc": "Transmission and distribution; phasors, complex power; balanced/unbalanced three-phase operation; symmetrical components, sequence networks; voltage regulation; short circuit capacity; circuit breakers; transmission lines, series/shunt impedance; short, medium, and long line models. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: ELEC 342.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 342"
+        ],
         "postreqs": [],
         "x": 500,
         "y": -7,
@@ -590,7 +653,9 @@
         "credits": 4,
         "desc": "Power system monitoring/control; large networks; automatic generation control; optimum power flow calculations; traveling wave transmission lines; EMTP and MATLAB programs for transients, short-circuit, and transient stability analysis. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: ELEC 453.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 453"
+        ],
         "postreqs": [],
         "x": 501,
         "y": -14,
@@ -602,7 +667,10 @@
         "credits": 3,
         "desc": "Analysis of disturbances, security of power systems, cascading and blackouts; role and impact of protection; transducers and measuring elements; protection of transmission and distribution systems; protection of generators, substation equipment, special protection systems and relays. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of ELEC 453, ELEC 342.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 453",
+            "ELEC 342"
+        ],
         "postreqs": [],
         "x": 502,
         "y": -21,
@@ -642,8 +710,7 @@
             "MTRL 478"
         ],
         "prereqs": [
-            "APSC 201",
-            "MTRL 478"
+            "ELEC 315"
         ],
         "postreqs": [],
         "x": 509,
@@ -704,7 +771,12 @@
         "credits": 3,
         "desc": "Physical principles of ultrasound, magnetic resonance, computed tomography, X-ray projection imaging and molecular imaging in medical imaging for diagnostics, therapeutics, and interventions. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of ELEC 371, ELEC 341, ELEC 311, ELEC 221.\nEquivalency: BMEG 420.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 371",
+            "ELEC 341",
+            "ELEC 311",
+            "ELEC 221"
+        ],
         "postreqs": [],
         "x": 529,
         "y": -70,
@@ -716,7 +788,11 @@
         "credits": 3,
         "desc": "Design of mechatronic systems to measure and manipulate biological materials and processes; compliant structures; bioelectronic circuits; biomedical embedded systems and BioMEMS.  Example applications from clinical medicine and biomedical research.  Credit will be granted for only one of MECH 423 or EECE 472. This course is not eligible for Credit/D/Fail grading. [2-0-0]\nPrerequisite: All of ELEC 201, ELEC 202, CPEN 211, ELEC 341.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 202",
+            "ELEC 341"
+        ],
         "postreqs": [],
         "x": 534,
         "y": -75,
@@ -764,7 +840,9 @@
         "credits": 5,
         "desc": "Design, analysis, and implementation of solutions in response to a real-world electrical engineering problem, provided by industry, research laboratories, or other suitable entities.  Includes coverage of topics such as project management. This course is not eligible for Credit/D/Fail grading. [2-6-0] or [2-6-0; 2-6-0]\nPrerequisite: ELEC 391.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 391"
+        ],
         "postreqs": [],
         "x": 558,
         "y": -90,
@@ -776,7 +854,9 @@
         "credits": 1,
         "desc": "Design, analysis, and implementation of solutions in response to a real world biomedical engineering problem, provided by industry, research laboratories, or other suitable entities.  Includes coverage of topics such as project management. This course is not eligible for Credit/D/Fail grading. [2-6-0; 2-6-0]\nPrerequisite: ELEC 391.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ELEC 391"
+        ],
         "postreqs": [],
         "x": 565,
         "y": -93,

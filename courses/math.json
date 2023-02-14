@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 501,
-        "y": -445,
+        "x": 524,
+        "y": -424,
         "group": "math"
     },
     {
@@ -17,10 +17,18 @@
         "credits": 3,
         "desc": "The definite integral, integration techniques, applications, modelling, infinite series. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
         "postreqs": [],
-        "x": 501,
-        "y": -442,
+        "x": 524,
+        "y": -420,
         "group": "math"
     },
     {
@@ -31,8 +39,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 501,
-        "y": -438,
+        "x": 524,
+        "y": -417,
         "group": "math"
     },
     {
@@ -41,10 +49,18 @@
         "credits": 3,
         "desc": "Antiderivatives and definite integrals, infinite series, applications to probability and dynamical systems. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
         "postreqs": [],
-        "x": 500,
-        "y": -435,
+        "x": 523,
+        "y": -413,
         "group": "math"
     },
     {
@@ -55,8 +71,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": -431,
+        "x": 523,
+        "y": -409,
         "group": "math"
     },
     {
@@ -65,10 +81,18 @@
         "credits": 3,
         "desc": "Antiderivatives, the definite integral, techniques of integration, infinite series, partial derivatives, maxima and minima with constraints, discrete and continuous random variables. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
         "postreqs": [],
-        "x": 499,
-        "y": -427,
+        "x": 522,
+        "y": -406,
         "group": "math"
     },
     {
@@ -79,8 +103,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 499,
-        "y": -424,
+        "x": 521,
+        "y": -402,
         "group": "math"
     },
     {
@@ -91,8 +115,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 498,
-        "y": -420,
+        "x": 521,
+        "y": -399,
         "group": "math"
     },
     {
@@ -101,10 +125,17 @@
         "credits": 4,
         "desc": "Definite integrals and the Fundamental Theorem of Calculus, techniques and applications of integration, infinite series. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [4-0-0]\nPrerequisite: Either (a) a score of 68% or higher in MATH 120 or (b) a score of 80% or higher in one of MATH 100, MATH 102, MATH 104, MATH 180, MATH 184 or (c) a score of 5 in AP Calculus AB.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 120",
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 180",
+            "MATH 184"
+        ],
         "postreqs": [],
-        "x": 497,
-        "y": -417,
+        "x": 520,
+        "y": -395,
         "group": "math"
     },
     {
@@ -117,8 +148,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 496,
-        "y": -413,
+        "x": 519,
+        "y": -392,
         "group": "math"
     },
     {
@@ -129,8 +160,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 495,
-        "y": -410,
+        "x": 517,
+        "y": -388,
         "group": "math"
     },
     {
@@ -141,8 +172,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 493,
-        "y": -407,
+        "x": 516,
+        "y": -385,
         "group": "math"
     },
     {
@@ -153,8 +184,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 492,
-        "y": -403,
+        "x": 515,
+        "y": -382,
         "group": "math"
     },
     {
@@ -163,10 +194,15 @@
         "credits": 3,
         "desc": "Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
+        ],
         "postreqs": [],
-        "x": 490,
-        "y": -400,
+        "x": 513,
+        "y": -379,
         "group": "math"
     },
     {
@@ -184,17 +220,14 @@
             "MATH 223"
         ],
         "prereqs": [
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 258",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
         ],
         "postreqs": [],
-        "x": 488,
-        "y": -397,
+        "x": 511,
+        "y": -375,
         "group": "math"
     },
     {
@@ -210,15 +243,17 @@
             "MATH 254"
         ],
         "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
         ],
         "postreqs": [],
-        "x": 487,
-        "y": -394,
+        "x": 509,
+        "y": -372,
         "group": "math"
     },
     {
@@ -232,13 +267,19 @@
             "MATH 223"
         ],
         "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 158",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
         ],
         "postreqs": [],
-        "x": 485,
-        "y": -391,
+        "x": 508,
+        "y": -369,
         "group": "math"
     },
     {
@@ -247,10 +288,20 @@
         "credits": 3,
         "desc": "Sets and functions; induction; cardinality;  properties of the real numbers; sequences, series, and limits. Logic, structure, style, and clarity of proofs emphasized throughout. [3-0-0]\nPrerequisite: Either (a) a score of 64% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001 or (b) one of MATH 121, MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
         "postreqs": [],
-        "x": 483,
-        "y": -388,
+        "x": 506,
+        "y": -366,
         "group": "math"
     },
     {
@@ -259,10 +310,23 @@
         "credits": 3,
         "desc": "Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Either (a) a score of 64% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 or (c) advanced credit for MATH 100.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "MATH 100"
+        ],
         "postreqs": [],
-        "x": 481,
-        "y": -385,
+        "x": 503,
+        "y": -363,
         "group": "math"
     },
     {
@@ -271,10 +335,15 @@
         "credits": 3,
         "desc": "Matrices, eigenvectors, diagonalization, orthogonality, linear systems, applications. Intended for Honours students. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Either (a) MATH 121 or (b) a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 121",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105"
+        ],
         "postreqs": [],
-        "x": 478,
-        "y": -382,
+        "x": 501,
+        "y": -360,
         "group": "math"
     },
     {
@@ -288,13 +357,14 @@
             "MATH 223"
         ],
         "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
+            "MATH 121",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105"
         ],
         "postreqs": [],
-        "x": 476,
-        "y": -379,
+        "x": 499,
+        "y": -358,
         "group": "math"
     },
     {
@@ -303,10 +373,12 @@
         "credits": 3,
         "desc": "Parametrization of curves and surfaces; line and surface integrals; theorems of Green, Gauss, Stokes; applications to physics and/or introduction to differential forms. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: A score of 68% or higher in MATH 226.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 226"
+        ],
         "postreqs": [],
-        "x": 474,
-        "y": -377,
+        "x": 496,
+        "y": -355,
         "group": "math"
     },
     {
@@ -317,8 +389,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 471,
-        "y": -374,
+        "x": 494,
+        "y": -352,
         "group": "math"
     },
     {
@@ -327,10 +399,15 @@
         "credits": 3,
         "desc": "Partial and directional derivatives; maxima and minima; Lagrange multipliers and second derivative test; multiple integrals and applications. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
+        ],
         "postreqs": [],
-        "x": 468,
-        "y": -372,
+        "x": 491,
+        "y": -350,
         "group": "math"
     },
     {
@@ -343,12 +420,14 @@
             "MECH 225"
         ],
         "prereqs": [
-            "MECH 222",
-            "MECH 225"
+            "MATH 101",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
         ],
         "postreqs": [],
-        "x": 466,
-        "y": -369,
+        "x": 489,
+        "y": -348,
         "group": "math"
     },
     {
@@ -364,15 +443,17 @@
             "MATH 254"
         ],
         "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
         ],
         "postreqs": [],
-        "x": 463,
-        "y": -367,
+        "x": 486,
+        "y": -345,
         "group": "math"
     },
     {
@@ -388,15 +469,17 @@
             "MATH 263"
         ],
         "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 263"
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
         ],
         "postreqs": [],
-        "x": 460,
-        "y": -365,
+        "x": 483,
+        "y": -343,
         "group": "math"
     },
     {
@@ -405,10 +488,15 @@
         "credits": 3,
         "desc": "Introduction to partial differential equations; Fourier series; the heat, wave and potential equations; boundary-value problems; numerical methods. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
         "postreqs": [],
-        "x": 457,
-        "y": -363,
+        "x": 480,
+        "y": -341,
         "group": "math"
     },
     {
@@ -421,12 +509,14 @@
             "MECH 224"
         ],
         "prereqs": [
-            "MECH 221",
-            "MECH 224"
+            "MATH 101",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
         ],
         "postreqs": [],
-        "x": 454,
-        "y": -361,
+        "x": 477,
+        "y": -339,
         "group": "math"
     },
     {
@@ -439,12 +529,15 @@
             "ELEC 211"
         ],
         "prereqs": [
-            "BMEG 220",
-            "ELEC 211"
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
         ],
         "postreqs": [],
-        "x": 451,
-        "y": -359,
+        "x": 474,
+        "y": -337,
         "group": "math"
     },
     {
@@ -459,14 +552,15 @@
             "MATH 317"
         ],
         "prereqs": [
+            "MATH 200",
             "MATH 217",
-            "MATH 227",
-            "MATH 254",
-            "MATH 317"
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
         ],
         "postreqs": [],
-        "x": 448,
-        "y": -357,
+        "x": 471,
+        "y": -335,
         "group": "math"
     },
     {
@@ -479,18 +573,20 @@
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358"
+            "MECH 358",
+            "PHYS 312"
         ],
         "prereqs": [
+            "MATH 300",
+            "MATH 305",
+            "MATH 215",
+            "MATH 255",
             "MATH 256",
-            "MATH 257",
-            "MATH 316",
-            "MATH 358",
-            "MECH 358"
+            "MATH 258"
         ],
         "postreqs": [],
-        "x": 445,
-        "y": -355,
+        "x": 467,
+        "y": -334,
         "group": "math"
     },
     {
@@ -499,10 +595,16 @@
         "credits": 3,
         "desc": "Basic notions of probability, random variables, expectation and conditional expectation, limit theorems.   Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\nEquivalency: STAT 302.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
         "postreqs": [],
-        "x": 441,
-        "y": -354,
+        "x": 464,
+        "y": -332,
         "group": "math"
     },
     {
@@ -511,10 +613,12 @@
         "credits": 3,
         "desc": "Discrete-time Markov chains, Poisson processes, continuous time Markov chains, renewal theory. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 302, STAT 302.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 302"
+        ],
         "postreqs": [],
-        "x": 438,
-        "y": -352,
+        "x": 461,
+        "y": -331,
         "group": "math"
     },
     {
@@ -527,18 +631,23 @@
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358"
+            "MECH 358",
+            "PHYS 312"
         ],
         "prereqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254",
+            "MATH 215",
+            "MATH 255",
             "MATH 256",
-            "MATH 257",
-            "MATH 316",
-            "MATH 358",
-            "MECH 358"
+            "MATH 258"
         ],
         "postreqs": [],
-        "x": 435,
-        "y": -351,
+        "x": 457,
+        "y": -330,
         "group": "math"
     },
     {
@@ -547,10 +656,19 @@
         "credits": 3,
         "desc": "Applications of linear algebra to problems in science and engineering; use of computer algebra systems for solving problems in linear algebra. [3-0-0]\nPrerequisite: One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
         "postreqs": [],
-        "x": 431,
-        "y": -350,
+        "x": 454,
+        "y": -328,
         "group": "math"
     },
     {
@@ -559,10 +677,17 @@
         "credits": 3,
         "desc": "Classical plane geometry, solid geometry, spherical trigonometry, polyhedra, linear and affine transformations. Linear algebra proofs are used. It is suggested that MATH 307 be taken concurrently. [3-0-0]\nPrerequisite: Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121",
+            "MATH 223"
+        ],
         "postreqs": [],
-        "x": 428,
-        "y": -349,
+        "x": 451,
+        "y": -327,
         "group": "math"
     },
     {
@@ -571,10 +696,17 @@
         "credits": 3,
         "desc": "Topics chosen by the instructor. These may include conic sections, projective configuration, convexity, non-Euclidean geometries, fractal geometry, combinatorial problems of points in the plane. [3-0-0]\nPrerequisite: Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121",
+            "MATH 223"
+        ],
         "postreqs": [],
-        "x": 424,
-        "y": -348,
+        "x": 447,
+        "y": -327,
         "group": "math"
     },
     {
@@ -583,10 +715,16 @@
         "credits": 3,
         "desc": "Linear spaces, duality, linear mappings, matrices, determinant and trace, spectral theory, Euclidean structure. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121"
+        ],
         "postreqs": [],
-        "x": 421,
-        "y": -347,
+        "x": 443,
+        "y": -326,
         "group": "math"
     },
     {
@@ -595,10 +733,15 @@
         "credits": 3,
         "desc": "Euclidean algorithm, congruences, Fermat's theorem, applications. Some diophantine equations. Distribution of the prime numbers. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. \nPrerequisite: One of MATH 220, MATH 223, MATH 226, CPSC 121 and 9 additional credits of mathematics courses.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226",
+            "CPSC 121"
+        ],
         "postreqs": [],
-        "x": 417,
-        "y": -347,
+        "x": 440,
+        "y": -325,
         "group": "math"
     },
     {
@@ -607,10 +750,12 @@
         "credits": 3,
         "desc": "Topics chosen by the instructor. These might include: division algorithms, group theory, continued fractions, primality testing, factoring.  Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: MATH 312.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 312"
+        ],
         "postreqs": [],
-        "x": 414,
-        "y": -346,
+        "x": 436,
+        "y": -325,
         "group": "math"
     },
     {
@@ -619,10 +764,15 @@
         "credits": 3,
         "desc": "Power series methods (ordinary and regular singular points, Bessel's equation); boundary value problems and separation of variables (Fourier series and other orthogonal series), applications to the vibrating string, heat flow, potentials. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
         "postreqs": [],
-        "x": 410,
-        "y": -346,
+        "x": 433,
+        "y": -324,
         "group": "math"
     },
     {
@@ -631,10 +781,14 @@
         "credits": 3,
         "desc": "Parametrizations, inverse and implicit functions, integrals with respect to length and area; grad, div, and curl, theorems of Green, Gauss, and Stokes. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 200, MATH 226, MATH 253. One of MATH 152, MATH 221, MATH 223 is recommended.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 200",
+            "MATH 226",
+            "MATH 253"
+        ],
         "postreqs": [],
-        "x": 406,
-        "y": -346,
+        "x": 429,
+        "y": -324,
         "group": "math"
     },
     {
@@ -647,18 +801,21 @@
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358"
+            "MECH 358",
+            "PHYS 312"
         ],
         "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "MATH 215",
+            "MATH 255",
             "MATH 256",
-            "MATH 257",
-            "MATH 316",
-            "MATH 358",
-            "MECH 358"
+            "MATH 258"
         ],
         "postreqs": [],
-        "x": 403,
-        "y": -345,
+        "x": 426,
+        "y": -324,
         "group": "math"
     },
     {
@@ -667,10 +824,14 @@
         "credits": 3,
         "desc": "Ideas and methods of real analysis and their application. Countability and topology of the reals; convergence, continuity and differentiability of functions; metric spaces. Please consult the Faculty of Science credit exclusion list: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Either (a) a score of 68% or higher in MATH 220 or (b) a score of 55% or higher in one of MATH 223, MATH 226.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226"
+        ],
         "postreqs": [],
-        "x": 399,
-        "y": -345,
+        "x": 422,
+        "y": -324,
         "group": "math"
     },
     {
@@ -679,10 +840,18 @@
         "credits": 3,
         "desc": "The real number system; real Euclidean n-space; open, closed, compact, and connected sets; Bolzano-Weierstrass theorem; sequences and series. Continuity and uniform continuity. Differentiability and mean-value theorems. [3-0-0]\nPrerequisite: Either (a) a score of 68% or higher in MATH 226 or (b) one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and a score of 80% or higher in MATH 220.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 226",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254",
+            "MATH 220"
+        ],
         "postreqs": [],
-        "x": 396,
-        "y": -346,
+        "x": 418,
+        "y": -324,
         "group": "math"
     },
     {
@@ -691,10 +860,12 @@
         "credits": 3,
         "desc": "The Riemann or Riemann-Stieltjes integrals. Sequences and series of functions, uniform convergence. Approximation of continuous functions by polynomials. Fourier series. Functions from Rm to Rn, inverse and implicit function theorems. [3-0-0]\nPrerequisite: MATH 320.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 320"
+        ],
         "postreqs": [],
-        "x": 392,
-        "y": -346,
+        "x": 415,
+        "y": -324,
         "group": "math"
     },
     {
@@ -703,10 +874,17 @@
         "credits": 3,
         "desc": "Groups, cosets, homomorphisms, group actions, p-groups, Sylow theorems, composition series, finitely generated Abelian groups. [3-0-0]\nPrerequisite: Either (a) a score of 68% or higher in one of MATH 223, MATH 310 or (b) one of MATH 152, MATH 221, MATH 223 and a score of 80% or higher in MATH 220.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 223",
+            "MATH 310",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "MATH 220"
+        ],
         "postreqs": [],
-        "x": 388,
-        "y": -346,
+        "x": 411,
+        "y": -325,
         "group": "math"
     },
     {
@@ -715,10 +893,12 @@
         "credits": 3,
         "desc": "Rings, ideals, unique factorization, Euclidean rings, fields, polynomial rings, modules; structure theory of modules over a principal ideal domain. [3-0-0]\nPrerequisite: MATH 322.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 322"
+        ],
         "postreqs": [],
-        "x": 385,
-        "y": -347,
+        "x": 408,
+        "y": -325,
         "group": "math"
     },
     {
@@ -729,8 +909,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 381,
-        "y": -347,
+        "x": 404,
+        "y": -326,
         "group": "math"
     },
     {
@@ -739,10 +919,14 @@
         "credits": 3,
         "desc": "Linear programming problems, dual problems, the simplex algorithm, solution of primal and dual problems, sensitivity analysis. Additional topics chosen from: Karmarkar's algorithm, non-linear programming, game theory, applications. [3-0-0]\nPrerequisite: One of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
         "postreqs": [],
-        "x": 378,
-        "y": -348,
+        "x": 401,
+        "y": -327,
         "group": "math"
     },
     {
@@ -751,10 +935,15 @@
         "credits": 3,
         "desc": "Introduction to ideas and methods of discrete mathematics and their application. [3-0-0]\nPrerequisite: One of MATH 220, MATH 223, MATH 226, CPSC 121.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226",
+            "CPSC 121"
+        ],
         "postreqs": [],
-        "x": 374,
-        "y": -349,
+        "x": 397,
+        "y": -327,
         "group": "math"
     },
     {
@@ -763,10 +952,17 @@
         "credits": 3,
         "desc": "Error-correcting codes via abstract and linear algebra.  Emphasis on proofs and computation.  Finite fields, Hamming distance and error-correction, upper and lower bounds on the size of a code, linear codes, groups and cosets, encoding and decoding schemes. [3-0-0]\nPrerequisite: Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121",
+            "MATH 223"
+        ],
         "postreqs": [],
-        "x": 371,
-        "y": -350,
+        "x": 394,
+        "y": -328,
         "group": "math"
     },
     {
@@ -775,10 +971,17 @@
         "credits": 3,
         "desc": "Introduction to mathematical game theory and its applications. [3-0-0]\nPrerequisite: Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121",
+            "MATH 223"
+        ],
         "postreqs": [],
-        "x": 367,
-        "y": -351,
+        "x": 390,
+        "y": -330,
         "group": "math"
     },
     {
@@ -787,10 +990,15 @@
         "credits": 3,
         "desc": "Phase plane methods, bifurcation and stability theory, limit-cycle behavior and chaos for nonlinear differential equations with applications to the sciences.  Assignments involve the use of computers. [3-1-0]\nPrerequisite: A score of 68% or higher in one of MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
         "postreqs": [],
-        "x": 364,
-        "y": -352,
+        "x": 387,
+        "y": -331,
         "group": "math"
     },
     {
@@ -799,10 +1007,13 @@
         "credits": 3,
         "desc": "Fourier series; auto- and cross-correlation; power spectra;  discrete Fourier transform; boundary-value problems; numerical methods; partial differential equations; heat, wave, Laplace, Poisson, and wave equations.  Applications to mechanical engineering and practical computing applications emphasized.  Credit will be granted for only one of MECH 358 or MATH 358. [3-2*-0]\nPrerequisite: All of MECH 224, MECH 225.\nEquivalency: MECH 358.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MECH 224",
+            "MECH 225"
+        ],
         "postreqs": [],
-        "x": 361,
-        "y": -354,
+        "x": 383,
+        "y": -332,
         "group": "math"
     },
     {
@@ -811,10 +1022,15 @@
         "credits": 3,
         "desc": "Principles of model selection and basic modelling techniques in biology, earth science, chemistry and physics. Optimization, dynamical systems and stochastic processes. Preference will be given to Combined Major in Science students, or to students in Year 3 or higher. [3-0-0]\nPrerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
+        ],
         "postreqs": [],
-        "x": 357,
-        "y": -355,
+        "x": 380,
+        "y": -334,
         "group": "math"
     },
     {
@@ -823,10 +1039,15 @@
         "credits": 3,
         "desc": "Mathematical modelling of basic biological processes in ecology, physiology, neuroscience and genetics. Dynamic behavior of difference equations, differential equations, and partial differential equations, explained with reference to concrete biological examples. [3-0-0]\nPrerequisite: One of BIOL 301, MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
         "postreqs": [],
-        "x": 354,
-        "y": -357,
+        "x": 377,
+        "y": -335,
         "group": "math"
     },
     {
@@ -837,8 +1058,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 351,
-        "y": -359,
+        "x": 374,
+        "y": -337,
         "group": "math"
     },
     {
@@ -847,10 +1068,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience involving mathematics in industry for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 398.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 398"
+        ],
         "postreqs": [],
-        "x": 348,
-        "y": -361,
+        "x": 371,
+        "y": -339,
         "group": "math"
     },
     {
@@ -859,10 +1082,19 @@
         "credits": 3,
         "desc": "Separation of variables, first order equations, Sturm-Liouville theory, integral transform methods. [3-0-0]\nPrerequisite: One of MATH 300, MATH 305 and one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 300",
+            "MATH 305",
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
+        ],
         "postreqs": [],
-        "x": 345,
-        "y": -363,
+        "x": 368,
+        "y": -341,
         "group": "math"
     },
     {
@@ -871,10 +1103,18 @@
         "credits": 3,
         "desc": "Green's functions for partial differential equations. Calculus of variations. Eigenfunction expansions. Rayleigh-Ritz and finite element methods.  See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312",
+            "MATH 400"
+        ],
         "postreqs": [],
-        "x": 342,
-        "y": -365,
+        "x": 365,
+        "y": -343,
         "group": "math"
     },
     {
@@ -883,10 +1123,13 @@
         "credits": 3,
         "desc": "Classical variational problems; necessary conditions of Euler, Weierstrass, Legendre, and Jacobi; Erdmann corner conditions, transversality, convex Lagrangians, fields of extremals, sufficient conditions for optimality, numerical methods; applications to classical mechanics, engineering and economics. [3-0-0]\nPrerequisite: A score of 68% or higher in one of MATH 301, MATH 320.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 301",
+            "MATH 320"
+        ],
         "postreqs": [],
-        "x": 339,
-        "y": -367,
+        "x": 362,
+        "y": -345,
         "group": "math"
     },
     {
@@ -895,10 +1138,13 @@
         "credits": 3,
         "desc": "Dynamical systems; stability by Liapunov's direct method; controllability and eigenvalue assignment for autonomous linear systems; linear-quadratic regulator, time optimal control, Pontryagin maximum principle, dynamic programming; applications in engineering, economics and resource management. [3-0-0]\nPrerequisite: A score of 68% or higher in one of MATH 301, MATH 320. MATH 402 is recommended.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 301",
+            "MATH 320"
+        ],
         "postreqs": [],
-        "x": 336,
-        "y": -369,
+        "x": 359,
+        "y": -348,
         "group": "math"
     },
     {
@@ -910,11 +1156,12 @@
             "MATH 420"
         ],
         "prereqs": [
-            "MATH 420"
+            "MATH 300",
+            "MATH 321"
         ],
         "postreqs": [],
-        "x": 334,
-        "y": -372,
+        "x": 356,
+        "y": -350,
         "group": "math"
     },
     {
@@ -923,10 +1170,17 @@
         "credits": 3,
         "desc": "Interpolation, numerical integration, numerical solution of ordinary and partial differential equations. Practical computational methods emphasized and basic theory developed through simple models. See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
+        ],
         "postreqs": [],
-        "x": 331,
-        "y": -374,
+        "x": 354,
+        "y": -352,
         "group": "math"
     },
     {
@@ -935,10 +1189,20 @@
         "credits": 3,
         "desc": "Variational and Green's function methods for ordinary and partial differential equations, introduction to finite difference, finite element and boundary element methods.  See Faculty of Science Credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414 [3-0-0]\nPrerequisite: One of MATH 307, CPSC 302 and either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 307",
+            "CPSC 302",
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312",
+            "MATH 400"
+        ],
         "postreqs": [],
-        "x": 328,
-        "y": -377,
+        "x": 351,
+        "y": -355,
         "group": "math"
     },
     {
@@ -947,10 +1211,13 @@
         "credits": 3,
         "desc": "Topics include decompositions of linear operators, multi linear algebra, bilinear forms, metric spaces. [3-0-0]\nPrerequisite: A score of 68% or higher in all of MATH 320, MATH 322.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 320",
+            "MATH 322"
+        ],
         "postreqs": [],
-        "x": 326,
-        "y": -379,
+        "x": 349,
+        "y": -358,
         "group": "math"
     },
     {
@@ -961,8 +1228,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 324,
-        "y": -382,
+        "x": 346,
+        "y": -360,
         "group": "math"
     },
     {
@@ -971,10 +1238,12 @@
         "credits": 3,
         "desc": "Probability spaces, random variables, distributions, expectation, conditional probabilities, convergence of random variables, generating and characteristic functions, weak and strong laws of large numbers, central limit theorem. [3-0-0]\nPrerequisite: A score of 68% or higher in MATH 321.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 321"
+        ],
         "postreqs": [],
-        "x": 321,
-        "y": -385,
+        "x": 344,
+        "y": -363,
         "group": "math"
     },
     {
@@ -983,10 +1252,12 @@
         "credits": 3,
         "desc": "Random walks, Markov chains, branching processes, Poisson processes, continuous time Markov chains, martingales, Brownian motion. [3-0-0]\nPrerequisite: MATH 418.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 418"
+        ],
         "postreqs": [],
-        "x": 319,
-        "y": -388,
+        "x": 342,
+        "y": -366,
         "group": "math"
     },
     {
@@ -995,10 +1266,12 @@
         "credits": 3,
         "desc": "Sigma-algebras, Lebesgue measure, Borel measures, measurable functions, integration, convergence theorems, Lp spaces, Holder and Minkowski inequalities, Lebesgue and/or Radon-Nikodym differentiation. [3-0-0]\nPrerequisite: A score of 68% or higher in MATH 321.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 321"
+        ],
         "postreqs": [],
-        "x": 317,
-        "y": -391,
+        "x": 340,
+        "y": -369,
         "group": "math"
     },
     {
@@ -1007,10 +1280,12 @@
         "credits": 3,
         "desc": "Banach spaces, linear operators, bounded and compact operators, strong, weak, and weak* topology.  Hahn-Banach, open mapping, and closed graph theorems.  Hilbert spaces, symmetric and self-adjoint operators, spectral theory for bounded operators. [3-0-0]\nPrerequisite: MATH 420.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 420"
+        ],
         "postreqs": [],
-        "x": 315,
-        "y": -394,
+        "x": 338,
+        "y": -372,
         "group": "math"
     },
     {
@@ -1019,10 +1294,12 @@
         "credits": 3,
         "desc": "Field extensions, the Galois correspondence, finite fields, insolvability in radicals, ruler and compass constructions, additional topics chosen by instructor. [3-0-0]\nPrerequisite: MATH 323.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 323"
+        ],
         "postreqs": [],
-        "x": 313,
-        "y": -397,
+        "x": 336,
+        "y": -375,
         "group": "math"
     },
     {
@@ -1031,10 +1308,14 @@
         "credits": 3,
         "desc": "Commutative algebra; homological algebra or representation theory of finite groups. [3-0-0]\nPrerequisite: MATH 323 and a score of 68% or higher in one of MATH 412, MATH 422.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 323",
+            "MATH 412",
+            "MATH 422"
+        ],
         "postreqs": [],
-        "x": 312,
-        "y": -400,
+        "x": 335,
+        "y": -379,
         "group": "math"
     },
     {
@@ -1043,10 +1324,19 @@
         "credits": 3,
         "desc": "The differential geometry of curves and surfaces in three-dimensional Euclidean space. Mean curvature and Gaussian curvature. Geodesics. Gauss's Theorema Egregium. [3-0-0]\nPrerequisite: Either (a) a score of 68% or higher in MATH 223 or (b) a score of 80% or higher in one of MATH 152, MATH 221;  and either (a) a score of 68% or higher in MATH 227 or (b) a score of 80% or higher in one of MATH 217, MATH 254, MATH 264, MATH 317.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 223",
+            "MATH 152",
+            "MATH 221",
+            "MATH 227",
+            "MATH 217",
+            "MATH 254",
+            "MATH 264",
+            "MATH 317"
+        ],
         "postreqs": [],
-        "x": 310,
-        "y": -403,
+        "x": 333,
+        "y": -382,
         "group": "math"
     },
     {
@@ -1055,10 +1345,12 @@
         "credits": 3,
         "desc": "Riemannian manifolds, tensors and differential forms, curvature and geodesics. [3-0-0]\nPrerequisite: MATH 424.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 424"
+        ],
         "postreqs": [],
-        "x": 309,
-        "y": -407,
+        "x": 332,
+        "y": -385,
         "group": "math"
     },
     {
@@ -1067,10 +1359,20 @@
         "credits": 3,
         "desc": "Smooth manifolds, smooth maps, immersions and submersions, vector fields, vector bundles, tangent and cotangent bundles, tensors and differential forms, orientation of manifolds, integration of forms, and selected topics. [3-0-0]\nPrerequisite: One of MATH 221, MATH 223 and one of MATH 217, MATH 227, MATH 254, MATH 264, MATH 317 and one of MATH 319, MATH 320.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 221",
+            "MATH 223",
+            "MATH 217",
+            "MATH 227",
+            "MATH 254",
+            "MATH 264",
+            "MATH 317",
+            "MATH 319",
+            "MATH 320"
+        ],
         "postreqs": [],
-        "x": 307,
-        "y": -410,
+        "x": 330,
+        "y": -388,
         "group": "math"
     },
     {
@@ -1079,10 +1381,13 @@
         "credits": 3,
         "desc": "General topology, combinatorial topology, fundamental group and covering spaces, topics chosen by the instructor. [3-0-0]\nPrerequisite: A score of 68% or higher in all of MATH 321, MATH 322.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 321",
+            "MATH 322"
+        ],
         "postreqs": [],
-        "x": 306,
-        "y": -413,
+        "x": 329,
+        "y": -392,
         "group": "math"
     },
     {
@@ -1091,10 +1396,12 @@
         "credits": 3,
         "desc": "Homology theory, homotopy theory, manifolds, and other topics chosen by the instructor. [3-0-0]\nPrerequisite: MATH 426.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 426"
+        ],
         "postreqs": [],
-        "x": 305,
-        "y": -417,
+        "x": 328,
+        "y": -395,
         "group": "math"
     },
     {
@@ -1106,11 +1413,17 @@
             "MATH 320"
         ],
         "prereqs": [
-            "MATH 320"
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258",
+            "PHYS 216",
+            "PHYS 306",
+            "ENPH 270"
         ],
         "postreqs": [],
-        "x": 304,
-        "y": -420,
+        "x": 327,
+        "y": -399,
         "group": "math"
     },
     {
@@ -1121,8 +1434,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 303,
-        "y": -424,
+        "x": 326,
+        "y": -402,
         "group": "math"
     },
     {
@@ -1133,8 +1446,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 303,
-        "y": -427,
+        "x": 325,
+        "y": -406,
         "group": "math"
     },
     {
@@ -1148,8 +1461,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 302,
-        "y": -431,
+        "x": 325,
+        "y": -409,
         "group": "math"
     },
     {
@@ -1158,10 +1471,13 @@
         "credits": 3,
         "desc": "The residue theorem, the argument principle, conformal mapping, the maximum modulus principle, harmonic functions, representation of functions by integrals, series, and products. Other topics at the discretion of the instructor. [3-0-0]\nPrerequisite: MATH 300 and a score of 68% or higher in MATH 320.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 300",
+            "MATH 320"
+        ],
         "postreqs": [],
-        "x": 302,
-        "y": -435,
+        "x": 324,
+        "y": -413,
         "group": "math"
     },
     {
@@ -1170,10 +1486,12 @@
         "credits": 3,
         "desc": "Formulation of real-world optimization problems using techniques such as linear programming, network flows, integer programming, dynamic programming. Solution by appropriate software. [3-0-0]\nPrerequisite: MATH 340.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 340"
+        ],
         "postreqs": [],
-        "x": 301,
-        "y": -438,
+        "x": 324,
+        "y": -417,
         "group": "math"
     },
     {
@@ -1182,10 +1500,15 @@
         "credits": 3,
         "desc": "Graph theory, emphasizing trees, tree growing algorithms, and proof techniques. Other topics chosen from shortest paths, maximum flows, minimum cost flows, matchings, and graph colouring. [3-0-0]\nPrerequisite: 3rd year standing and one of MATH 220, MATH 223, MATH 226 or CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226",
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": 301,
-        "y": -442,
+        "x": 324,
+        "y": -420,
         "group": "math"
     },
     {
@@ -1194,10 +1517,15 @@
         "credits": 3,
         "desc": "Introductory course in mostly non-algorithmic topics including: planarity and Kuratowski's theorem, graph colouring, graph minors, random graphs, cycles in graphs, Ramsey theory, extremal graph theory. Proofs emphasized. Intended for Honours students. [3-0-0]\nPrerequisite: A score of 68% or higher in one of MATH 220, MATH 223, MATH 226, CPSC 121. And 6 credits of MATH numbered 300 or above.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226",
+            "CPSC 121"
+        ],
         "postreqs": [],
-        "x": 301,
-        "y": -445,
+        "x": 324,
+        "y": -424,
         "group": "math"
     },
     {
@@ -1206,10 +1534,13 @@
         "credits": 3,
         "desc": "Current research topics in pure and applied mathematics are explored at the undergraduate level.  Technical communication and research skills are developed. [3-0-0]\nPrerequisite: One of MATH 220, MATH 226 and 6 credits of MATH courses numbered 300 or higher.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 226"
+        ],
         "postreqs": [],
-        "x": 301,
-        "y": -449,
+        "x": 324,
+        "y": -427,
         "group": "math"
     },
     {
@@ -1220,8 +1551,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 301,
-        "y": -453,
+        "x": 324,
+        "y": -431,
         "group": "math"
     },
     {
@@ -1232,8 +1563,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 302,
-        "y": -456,
+        "x": 324,
+        "y": -435,
         "group": "math"
     },
     {
@@ -1244,8 +1575,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 302,
-        "y": -460,
+        "x": 325,
+        "y": -438,
         "group": "math"
     },
     {
@@ -1254,10 +1585,12 @@
         "credits": 3,
         "desc": "Asymptotic expansions. Asymptotic evaluation of integrals; WKBJ methods. Regular and singular expansions. Boundary layer theory; matched asymptotic expansions. Multiple scale techniques. [3-0-0]\nPrerequisite: MATH 400.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 400"
+        ],
         "postreqs": [],
-        "x": 303,
-        "y": -463,
+        "x": 325,
+        "y": -442,
         "group": "math"
     },
     {
@@ -1266,10 +1599,13 @@
         "credits": 3,
         "desc": "Development and analysis of mathematical models for complex systems in ecology, evolution, cell biology, neurophysiology, and other biological and medical disciplines. [3-0-0]\nPrerequisite: One of MATH 361, MATH 345.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 361",
+            "MATH 345"
+        ],
         "postreqs": [],
-        "x": 303,
-        "y": -467,
+        "x": 326,
+        "y": -445,
         "group": "math"
     },
     {
@@ -1278,10 +1614,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience involving mathematics in industry for a minimum of 3 1/2 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 399.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 399"
+        ],
         "postreqs": [],
-        "x": 304,
-        "y": -470,
+        "x": 327,
+        "y": -449,
         "group": "math"
     },
     {
@@ -1290,10 +1628,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience involving mathematics in industry for a minimum of 3 1/2 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 498.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 498"
+        ],
         "postreqs": [],
-        "x": 305,
-        "y": -474,
+        "x": 328,
+        "y": -452,
         "group": "math"
     },
     {
@@ -1304,8 +1644,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 306,
-        "y": -477,
+        "x": 329,
+        "y": -456,
         "group": "math"
     },
     {
@@ -1316,8 +1656,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 307,
-        "y": -481,
+        "x": 330,
+        "y": -459,
         "group": "math"
     },
     {
@@ -1328,8 +1668,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 309,
-        "y": -484,
+        "x": 332,
+        "y": -462,
         "group": "math"
     },
     {
@@ -1340,8 +1680,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 310,
-        "y": -487,
+        "x": 333,
+        "y": -466,
         "group": "math"
     },
     {
@@ -1352,8 +1692,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 312,
-        "y": -491,
+        "x": 335,
+        "y": -469,
         "group": "math"
     },
     {
@@ -1364,8 +1704,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 313,
-        "y": -494,
+        "x": 336,
+        "y": -472,
         "group": "math"
     },
     {
@@ -1376,8 +1716,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 315,
-        "y": -497,
+        "x": 338,
+        "y": -475,
         "group": "math"
     },
     {
@@ -1388,8 +1728,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 317,
-        "y": -500,
+        "x": 340,
+        "y": -478,
         "group": "math"
     },
     {
@@ -1400,8 +1740,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 319,
-        "y": -503,
+        "x": 342,
+        "y": -481,
         "group": "math"
     },
     {
@@ -1412,8 +1752,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 321,
-        "y": -506,
+        "x": 344,
+        "y": -484,
         "group": "math"
     },
     {
@@ -1424,8 +1764,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 324,
-        "y": -509,
+        "x": 346,
+        "y": -487,
         "group": "math"
     },
     {
@@ -1436,8 +1776,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 326,
-        "y": -511,
+        "x": 349,
+        "y": -490,
         "group": "math"
     },
     {
@@ -1448,8 +1788,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 328,
-        "y": -514,
+        "x": 351,
+        "y": -493,
         "group": "math"
     },
     {
@@ -1460,8 +1800,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 331,
-        "y": -517,
+        "x": 354,
+        "y": -495,
         "group": "math"
     },
     {
@@ -1472,8 +1812,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 334,
-        "y": -519,
+        "x": 356,
+        "y": -498,
         "group": "math"
     },
     {
@@ -1484,8 +1824,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 336,
-        "y": -522,
+        "x": 359,
+        "y": -500,
         "group": "math"
     },
     {
@@ -1496,8 +1836,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 339,
-        "y": -524,
+        "x": 362,
+        "y": -502,
         "group": "math"
     },
     {
@@ -1508,8 +1848,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 342,
-        "y": -526,
+        "x": 365,
+        "y": -504,
         "group": "math"
     },
     {
@@ -1520,8 +1860,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 345,
-        "y": -528,
+        "x": 368,
+        "y": -507,
         "group": "math"
     },
     {
@@ -1532,8 +1872,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 348,
-        "y": -530,
+        "x": 371,
+        "y": -509,
         "group": "math"
     },
     {
@@ -1544,8 +1884,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 351,
-        "y": -532,
+        "x": 374,
+        "y": -510,
         "group": "math"
     },
     {
@@ -1556,8 +1896,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 354,
-        "y": -534,
+        "x": 377,
+        "y": -512,
         "group": "math"
     },
     {
@@ -1568,8 +1908,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 357,
-        "y": -535,
+        "x": 380,
+        "y": -514,
         "group": "math"
     },
     {
@@ -1580,8 +1920,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 361,
-        "y": -537,
+        "x": 383,
+        "y": -515,
         "group": "math"
     },
     {
@@ -1592,8 +1932,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 364,
-        "y": -538,
+        "x": 387,
+        "y": -517,
         "group": "math"
     },
     {
@@ -1604,8 +1944,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 367,
-        "y": -540,
+        "x": 390,
+        "y": -518,
         "group": "math"
     },
     {
@@ -1616,8 +1956,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 371,
-        "y": -541,
+        "x": 394,
+        "y": -519,
         "group": "math"
     },
     {
@@ -1628,8 +1968,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 374,
-        "y": -542,
+        "x": 397,
+        "y": -520,
         "group": "math"
     },
     {
@@ -1640,8 +1980,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 378,
-        "y": -543,
+        "x": 401,
+        "y": -521,
         "group": "math"
     },
     {
@@ -1652,8 +1992,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 381,
-        "y": -543,
+        "x": 404,
+        "y": -522,
         "group": "math"
     },
     {
@@ -1664,8 +2004,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 385,
-        "y": -544,
+        "x": 408,
+        "y": -522,
         "group": "math"
     },
     {
@@ -1676,8 +2016,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 388,
-        "y": -545,
+        "x": 411,
+        "y": -523,
         "group": "math"
     },
     {
@@ -1688,8 +2028,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 392,
-        "y": -545,
+        "x": 415,
+        "y": -523,
         "group": "math"
     },
     {
@@ -1700,8 +2040,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 396,
-        "y": -545,
+        "x": 418,
+        "y": -524,
         "group": "math"
     },
     {
@@ -1712,8 +2052,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 399,
-        "y": -545,
+        "x": 422,
+        "y": -524,
         "group": "math"
     },
     {
@@ -1724,8 +2064,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 403,
-        "y": -545,
+        "x": 426,
+        "y": -524,
         "group": "math"
     },
     {
@@ -1734,10 +2074,13 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: All of MATH 544, MATH 545.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 544",
+            "MATH 545"
+        ],
         "postreqs": [],
-        "x": 406,
-        "y": -545,
+        "x": 429,
+        "y": -524,
         "group": "math"
     },
     {
@@ -1748,8 +2091,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 410,
-        "y": -545,
+        "x": 433,
+        "y": -523,
         "group": "math"
     },
     {
@@ -1758,10 +2101,13 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: All of MATH 544, MATH 545.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 544",
+            "MATH 545"
+        ],
         "postreqs": [],
-        "x": 414,
-        "y": -545,
+        "x": 436,
+        "y": -523,
         "group": "math"
     },
     {
@@ -1772,8 +2118,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 417,
-        "y": -544,
+        "x": 440,
+        "y": -522,
         "group": "math"
     },
     {
@@ -1784,8 +2130,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 421,
-        "y": -543,
+        "x": 443,
+        "y": -522,
         "group": "math"
     },
     {
@@ -1794,10 +2140,12 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: MATH 550. Ordinary and partial differential equations (MATH 400 or equivalent).\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 550"
+        ],
         "postreqs": [],
-        "x": 424,
-        "y": -543,
+        "x": 447,
+        "y": -521,
         "group": "math"
     },
     {
@@ -1806,10 +2154,17 @@
         "credits": 3,
         "desc": "Ideas, methods and applications of bifurcation theory and dynamical systems: differential and difference equations, local bifurcations, perturbation methods, chaos. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of MATH 215, MATH 255, MATH 256 and one of MATH 256, MATH 257, MATH 316.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 256",
+            "MATH 257",
+            "MATH 316"
+        ],
         "postreqs": [],
-        "x": 428,
-        "y": -542,
+        "x": 451,
+        "y": -520,
         "group": "math"
     },
     {
@@ -1818,10 +2173,12 @@
         "credits": 3,
         "desc": "Topics from: hyperbolic invariant sets and symbolic dynamics, global bifurcations, local bifurcations for partial differential equations, multiple bifurcations, bifurcations and symmetry, applications. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 552.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 552"
+        ],
         "postreqs": [],
-        "x": 431,
-        "y": -541,
+        "x": 454,
+        "y": -519,
         "group": "math"
     },
     {
@@ -1832,8 +2189,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 435,
-        "y": -540,
+        "x": 457,
+        "y": -518,
         "group": "math"
     },
     {
@@ -1844,8 +2201,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 438,
-        "y": -538,
+        "x": 461,
+        "y": -517,
         "group": "math"
     },
     {
@@ -1856,8 +2213,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 441,
-        "y": -537,
+        "x": 464,
+        "y": -515,
         "group": "math"
     },
     {
@@ -1866,10 +2223,12 @@
         "credits": 3,
         "desc": "Classical and recent results in linear and nonlinear waves. Geometrical acoustics and kinematic waves; large amplitude waves in weakly stratified media; small amplitude waves in strongly stratified media. Dispersive waves; group velocity; applications. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 400 and some knowledge of either fluid mechanics or elasticity.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "MATH 400"
+        ],
         "postreqs": [],
-        "x": 445,
-        "y": -535,
+        "x": 467,
+        "y": -514,
         "group": "math"
     },
     {
@@ -1880,8 +2239,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 448,
-        "y": -534,
+        "x": 471,
+        "y": -512,
         "group": "math"
     },
     {
@@ -1892,8 +2251,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 451,
-        "y": -532,
+        "x": 474,
+        "y": -510,
         "group": "math"
     },
     {
@@ -1904,8 +2263,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 454,
-        "y": -530,
+        "x": 477,
+        "y": -509,
         "group": "math"
     },
     {
@@ -1916,8 +2275,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 457,
-        "y": -528,
+        "x": 480,
+        "y": -507,
         "group": "math"
     },
     {
@@ -1928,8 +2287,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 460,
-        "y": -526,
+        "x": 483,
+        "y": -504,
         "group": "math"
     },
     {
@@ -1940,8 +2299,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 463,
-        "y": -524,
+        "x": 486,
+        "y": -502,
         "group": "math"
     },
     {
@@ -1952,8 +2311,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 466,
-        "y": -522,
+        "x": 489,
+        "y": -500,
         "group": "math"
     },
     {
@@ -1964,8 +2323,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 468,
-        "y": -519,
+        "x": 491,
+        "y": -498,
         "group": "math"
     },
     {
@@ -1976,8 +2335,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 471,
-        "y": -517,
+        "x": 494,
+        "y": -495,
         "group": "math"
     },
     {
@@ -1988,8 +2347,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 474,
-        "y": -514,
+        "x": 496,
+        "y": -493,
         "group": "math"
     },
     {
@@ -2000,8 +2359,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 476,
-        "y": -511,
+        "x": 499,
+        "y": -490,
         "group": "math"
     },
     {
@@ -2012,8 +2371,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 478,
-        "y": -509,
+        "x": 501,
+        "y": -487,
         "group": "math"
     },
     {
@@ -2024,8 +2383,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 481,
-        "y": -506,
+        "x": 503,
+        "y": -484,
         "group": "math"
     },
     {
@@ -2036,8 +2395,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 483,
-        "y": -503,
+        "x": 506,
+        "y": -481,
         "group": "math"
     },
     {
@@ -2048,8 +2407,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 485,
-        "y": -500,
+        "x": 508,
+        "y": -478,
         "group": "math"
     },
     {
@@ -2060,8 +2419,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 487,
-        "y": -497,
+        "x": 509,
+        "y": -475,
         "group": "math"
     },
     {
@@ -2072,8 +2431,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 488,
-        "y": -494,
+        "x": 511,
+        "y": -472,
         "group": "math"
     },
     {
@@ -2084,8 +2443,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 490,
-        "y": -491,
+        "x": 513,
+        "y": -469,
         "group": "math"
     },
     {
@@ -2096,8 +2455,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 492,
-        "y": -487,
+        "x": 515,
+        "y": -466,
         "group": "math"
     },
     {
@@ -2108,8 +2467,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 493,
-        "y": -484,
+        "x": 516,
+        "y": -462,
         "group": "math"
     },
     {
@@ -2120,8 +2479,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 495,
-        "y": -481,
+        "x": 517,
+        "y": -459,
         "group": "math"
     },
     {
@@ -2132,8 +2491,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 496,
-        "y": -477,
+        "x": 519,
+        "y": -456,
         "group": "math"
     },
     {
@@ -2144,8 +2503,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 497,
-        "y": -474,
+        "x": 520,
+        "y": -452,
         "group": "math"
     },
     {
@@ -2156,8 +2515,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 498,
-        "y": -470,
+        "x": 521,
+        "y": -449,
         "group": "math"
     },
     {
@@ -2168,8 +2527,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 499,
-        "y": -467,
+        "x": 521,
+        "y": -445,
         "group": "math"
     },
     {
@@ -2180,8 +2539,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 499,
-        "y": -463,
+        "x": 522,
+        "y": -442,
         "group": "math"
     },
     {
@@ -2192,8 +2551,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": -460,
+        "x": 523,
+        "y": -438,
         "group": "math"
     },
     {
@@ -2204,8 +2563,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": -456,
+        "x": 523,
+        "y": -435,
         "group": "math"
     },
     {
@@ -2216,8 +2575,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 501,
-        "y": -453,
+        "x": 524,
+        "y": -431,
         "group": "math"
     },
     {
@@ -2228,8 +2587,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 501,
-        "y": -449,
+        "x": 524,
+        "y": -427,
         "group": "math"
     }
 ]

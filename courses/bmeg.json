@@ -8,11 +8,11 @@
             "BMEG 102"
         ],
         "prereqs": [
-            "BMEG 102"
+            "APSC 100"
         ],
         "postreqs": [],
-        "x": 37,
-        "y": 596,
+        "x": 100,
+        "y": 600,
         "group": "bmeg"
     },
     {
@@ -27,8 +27,8 @@
             "BMEG 101"
         ],
         "postreqs": [],
-        "x": 36,
-        "y": 610,
+        "x": 99,
+        "y": 613,
         "group": "bmeg"
     },
     {
@@ -37,10 +37,12 @@
         "credits": 1,
         "desc": "Core concepts of biomedical engineering with a focus on advanced biological concepts that are inherent in biomechanics analysis, biomaterials signals and systems, bioinformatics and cellular bioengineering.Credit will only be granted for one of BMEG 102 and BMEG 200. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: All of APSC 101, PHYS 159.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 101"
+        ],
         "postreqs": [],
-        "x": 33,
-        "y": 623,
+        "x": 96,
+        "y": 626,
         "group": "bmeg"
     },
     {
@@ -49,10 +51,12 @@
         "credits": 3,
         "desc": "Report preparation, business correspondence, and oral presentation in biomedical engineering specific cases and projects. Credit will be granted for only one of BMEG 201 or APSC 201. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 176"
+        ],
         "postreqs": [],
-        "x": 29,
-        "y": 636,
+        "x": 91,
+        "y": 639,
         "group": "bmeg"
     },
     {
@@ -63,8 +67,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 22,
-        "y": 648,
+        "x": 85,
+        "y": 651,
         "group": "bmeg"
     },
     {
@@ -72,15 +76,11 @@
         "title": "Circuits and Electromagnetics with Application to Biomedical Engineering",
         "credits": 4,
         "desc": "Electromagnetic phenomena in the  body; bioinstrumentation; electrostatic and electromagnetic fields, forces, capacitance and inductance; bio-effects of electromagnetic fields; and modelling electrical components of physiological and biomedical systems. This course is not eligible for Credit/D/Fail grading. [4-0-2*]\nPrerequisite: All of PHYS 158, MATH 253, MATH 256.\nCorequisite: MATH 264.\n",
-        "coreqs": [
-            "MATH 264"
-        ],
-        "prereqs": [
-            "MATH 264"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": 14,
-        "y": 659,
+        "x": 77,
+        "y": 663,
         "group": "bmeg"
     },
     {
@@ -89,10 +89,14 @@
         "credits": 4,
         "desc": "Integrating the study of two dimensional movement of animals and humans with the study of the manner in which forces on biomechanical structures such as bones, ligaments, tendons, muscles and joints cause motion. Techniques of solid mechanics and two dimensional rigid body dynamics. Students who have received credit for MECH 435 cannot also receive credit for BMEG 230 or BMEG 330. This course is not eligible for Credit/D/Fail grading. [4-2*-2*]\nPrerequisite: Either (a) all of BMEG 101, PHYS 170 or (b) all of APSC 101, BMEG 200, PHYS 170.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 101",
+            "APSC 101",
+            "BMEG 200"
+        ],
         "postreqs": [],
-        "x": 5,
-        "y": 669,
+        "x": 68,
+        "y": 673,
         "group": "bmeg"
     },
     {
@@ -103,8 +107,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -5,
-        "y": 678,
+        "x": 57,
+        "y": 681,
         "group": "bmeg"
     },
     {
@@ -113,10 +117,12 @@
         "credits": 4,
         "desc": "Cellular structure and mechanisms of membrane transport, signal transduction, muscle mechanochemistry and neurotransmission. Structure and hierarchical organization up to the level of tissues. Light and electron microscopy. This course is not eligible for Credit/D/Fail grading. [3-1-0]\nPrerequisite: All of BMEG 245, MATH 256.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 245"
+        ],
         "postreqs": [],
-        "x": -16,
-        "y": 685,
+        "x": 46,
+        "y": 688,
         "group": "bmeg"
     },
     {
@@ -125,10 +131,15 @@
         "credits": 4,
         "desc": "Engineering design process for biomedical technologies. Practical skills in engineering design, computer aided design, electronic circuits, programming, and rapid prototyping in the context of biomedical technologies. Introduction to broader ethical and sustainability considerations for biomedical technology design. This course is not eligible for Credit/D/Fail grading. [2-4-0]\nPrerequisite: Either (a) all of BMEG 101, BMEG 102 or (b) all of APSC 101, BMEG 200, PHYS 159.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 101",
+            "BMEG 102",
+            "APSC 101",
+            "BMEG 200"
+        ],
         "postreqs": [],
-        "x": -29,
-        "y": 690,
+        "x": 33,
+        "y": 694,
         "group": "bmeg"
     },
     {
@@ -137,10 +148,12 @@
         "credits": 4,
         "desc": "Principles behind the methods of bioinformatics. The use of bioinformatics databases and tools for solving problems in genomics, proteomics, structural biology and evolutionary biology. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: BMEG 245 and one of CPEN 221, CPEN 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 245"
+        ],
         "postreqs": [],
-        "x": -42,
-        "y": 694,
+        "x": 20,
+        "y": 697,
         "group": "bmeg"
     },
     {
@@ -149,10 +162,12 @@
         "credits": 3,
         "desc": "Modelling, analysis and simulation of dynamic systems; system modelling by state space; linearization; feedback, stability and sensitivity; control system design. Examples from biological systems, assistive systems and biomedical equipment. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: Either (a) BMEG 220 or (b) all of ELEC 221, ELEC 201, ELEC 202.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 220"
+        ],
         "postreqs": [],
-        "x": -55,
-        "y": 696,
+        "x": 6,
+        "y": 699,
         "group": "bmeg"
     },
     {
@@ -161,10 +176,12 @@
         "credits": 3,
         "desc": "Fundamental working principles of medical instruments used for measurements of nervous, respiratory and circulatory systems with focus on biopotential signals. Other topics include medical imaging, as well as minimally invasive and robotic surgery. Credit will only be granted for one of BMEG 321, ELEC 371. This course is not eligible for Credit/D/Fail grading. [2-3-0]\nPrerequisite: Either (a) MATH 256 or (b) all of MATH 265, MATH 267;  and either (a) BMEG 220 or (b) one of ELEC 211, PHYS 301 and one of ELEC 201, ELEC 204.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 220"
+        ],
         "postreqs": [],
-        "x": -69,
-        "y": 696,
+        "x": -6,
+        "y": 699,
         "group": "bmeg"
     },
     {
@@ -173,10 +190,12 @@
         "credits": 3,
         "desc": "Principles and common elements of sports-, orthopaedic-, injury- and cellular length-biomechanics. Improving sports performance and preventing overuse injuries through sports biomechanics, designing orthopaedic implants through orthopaedic biomechanics, preventing injuries through injury biomechanics and identifying and filtering cancerous blood cells through cellular biomechanics. Students who have received credit for MECH 435 cannot also receive credit for BMEG 230 or BMEG 330. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: BMEG 230.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 230"
+        ],
         "postreqs": [],
-        "x": -83,
-        "y": 694,
+        "x": -20,
+        "y": 697,
         "group": "bmeg"
     },
     {
@@ -185,10 +204,13 @@
         "credits": 4,
         "desc": "Human anatomy, histology and physiology with examples from biomedical engineering. Anatomical compartmentation and function regulation; homeostatic control systems, sensors and effectors; intercellular communication strategies; and cellular and organ function assessment. This course is not eligible for Credit/D/Fail grading. [4-0-0]\nPrerequisite: All of BMEG 245, BMEG 250.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 245",
+            "BMEG 250"
+        ],
         "postreqs": [],
-        "x": -96,
-        "y": 690,
+        "x": -33,
+        "y": 694,
         "group": "bmeg"
     },
     {
@@ -197,10 +219,12 @@
         "credits": 3,
         "desc": "Creating innovations in biomedical technologies.  Supervised design process for clinical clients, involving the building, testing, and verification of prototypes with potential users. This course is not eligible for Credit/D/Fail grading. [3*-3*-0]\nPrerequisite: BMEG 257.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 257"
+        ],
         "postreqs": [],
-        "x": -108,
-        "y": 685,
+        "x": -46,
+        "y": 688,
         "group": "bmeg"
     },
     {
@@ -211,8 +235,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -120,
-        "y": 678,
+        "x": -57,
+        "y": 681,
         "group": "bmeg"
     },
     {
@@ -221,10 +245,12 @@
         "credits": 3,
         "desc": "Biomaterials science/engineering applied to design and synthesis of drug delivery systems. Biomaterial types, synthesis and testing; the use of biomaterials; biological response; biocompatibility and degradation; drug delivery systems; nanocarriers; modification of polymers; liposomes and micelles; nucleic acid, transdermal and oral delivery. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: All of BMEG 250, CHEM 123.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 250"
+        ],
         "postreqs": [],
-        "x": -130,
-        "y": 669,
+        "x": -68,
+        "y": 673,
         "group": "bmeg"
     },
     {
@@ -233,10 +259,12 @@
         "credits": 3,
         "desc": "Advantages and disadvantages of miniaturization of complex fluid flow processes. Manipulating liquid flow; electrophoretic velocity and mobility; serial dilution; capillary electrophoresis; integrated microfluidic platforms; and blood and the motility of bacteria. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CHBE 251.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CHBE 251"
+        ],
         "postreqs": [],
-        "x": -140,
-        "y": 659,
+        "x": -77,
+        "y": 663,
         "group": "bmeg"
     },
     {
@@ -245,10 +273,12 @@
         "credits": 3,
         "desc": "Fundamental genetic, molecular, and tissue engineering techniques. Design of experiments and tools related to these essential cellular bioengineering techniques. [1-3-1]\nPrerequisite: BMEG 250.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 250"
+        ],
         "postreqs": [],
-        "x": -148,
-        "y": 648,
+        "x": -85,
+        "y": 651,
         "group": "bmeg"
     },
     {
@@ -259,8 +289,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -154,
-        "y": 636,
+        "x": -91,
+        "y": 639,
         "group": "bmeg"
     },
     {
@@ -271,8 +301,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -159,
-        "y": 623,
+        "x": -96,
+        "y": 626,
         "group": "bmeg"
     },
     {
@@ -283,8 +313,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -161,
-        "y": 610,
+        "x": -99,
+        "y": 613,
         "group": "bmeg"
     },
     {
@@ -293,10 +323,14 @@
         "credits": 3,
         "desc": "Physical principles of ultrasound, magnetic resonance, computed tomography, X-ray projection imaging and molecular imaging in medical imaging for diagnostics, therapeutics and interventions. [3-0-0]\nPrerequisite: One of BMEG 220, BMEG 250 and one of BMEG 321, ELEC 371.\nEquivalency: ELEC 471.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 220",
+            "BMEG 250",
+            "BMEG 321"
+        ],
         "postreqs": [],
-        "x": -162,
-        "y": 596,
+        "x": -99,
+        "y": 600,
         "group": "bmeg"
     },
     {
@@ -307,8 +341,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -161,
-        "y": 583,
+        "x": -99,
+        "y": 586,
         "group": "bmeg"
     },
     {
@@ -319,8 +353,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -159,
-        "y": 569,
+        "x": -96,
+        "y": 573,
         "group": "bmeg"
     },
     {
@@ -329,10 +363,13 @@
         "credits": 6,
         "desc": "Capstone design and development of a practical biomedical device or system. Projects provided by local industry and engineering research laboratories. [1-3-1; 1-3-1]\nPrerequisite: All of BMEG 350, BMEG 357.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 350",
+            "BMEG 357"
+        ],
         "postreqs": [],
-        "x": -154,
-        "y": 556,
+        "x": -91,
+        "y": 560,
         "group": "bmeg"
     },
     {
@@ -341,10 +378,14 @@
         "credits": 3,
         "desc": "Mechanical forces and biomaterials regulating cellular functions critical to tissue development, regeneration and repair. [3-0-0]\nPrerequisite: All of BMEG 245, BMEG 250, BMEG 350.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 245",
+            "BMEG 250",
+            "BMEG 350"
+        ],
         "postreqs": [],
-        "x": -148,
-        "y": 544,
+        "x": -85,
+        "y": 548,
         "group": "bmeg"
     },
     {
@@ -353,10 +394,14 @@
         "credits": 3,
         "desc": "Biology and applications of stem cells in regenerative medicine. Modelling human biology and disease in vitro and in vivo. Regulatory and commercialization pathways for regenerative medicine innovations. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of BMEG 245, BMEG 250, BMEG 350.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "BMEG 245",
+            "BMEG 250",
+            "BMEG 350"
+        ],
         "postreqs": [],
-        "x": -140,
-        "y": 533,
+        "x": -77,
+        "y": 536,
         "group": "bmeg"
     },
     {
@@ -367,8 +412,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -130,
-        "y": 523,
+        "x": -68,
+        "y": 526,
         "group": "bmeg"
     },
     {
@@ -379,8 +424,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -120,
-        "y": 515,
+        "x": -57,
+        "y": 518,
         "group": "bmeg"
     },
     {
@@ -391,8 +436,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -108,
-        "y": 507,
+        "x": -46,
+        "y": 511,
         "group": "bmeg"
     },
     {
@@ -403,8 +448,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -96,
-        "y": 502,
+        "x": -33,
+        "y": 505,
         "group": "bmeg"
     },
     {
@@ -415,8 +460,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -83,
-        "y": 498,
+        "x": -20,
+        "y": 502,
         "group": "bmeg"
     },
     {
@@ -427,8 +472,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -69,
-        "y": 496,
+        "x": -6,
+        "y": 500,
         "group": "bmeg"
     },
     {
@@ -439,8 +484,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -55,
-        "y": 496,
+        "x": 6,
+        "y": 500,
         "group": "bmeg"
     },
     {
@@ -451,8 +496,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -42,
-        "y": 498,
+        "x": 20,
+        "y": 502,
         "group": "bmeg"
     },
     {
@@ -463,8 +508,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -29,
-        "y": 502,
+        "x": 33,
+        "y": 505,
         "group": "bmeg"
     },
     {
@@ -475,8 +520,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -16,
-        "y": 507,
+        "x": 46,
+        "y": 511,
         "group": "bmeg"
     },
     {
@@ -487,8 +532,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -5,
-        "y": 515,
+        "x": 57,
+        "y": 518,
         "group": "bmeg"
     },
     {
@@ -499,8 +544,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 5,
-        "y": 523,
+        "x": 68,
+        "y": 526,
         "group": "bmeg"
     },
     {
@@ -511,8 +556,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 14,
-        "y": 533,
+        "x": 77,
+        "y": 536,
         "group": "bmeg"
     },
     {
@@ -523,8 +568,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 22,
-        "y": 544,
+        "x": 85,
+        "y": 548,
         "group": "bmeg"
     },
     {
@@ -535,8 +580,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 29,
-        "y": 556,
+        "x": 91,
+        "y": 560,
         "group": "bmeg"
     },
     {
@@ -547,8 +592,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 33,
-        "y": 569,
+        "x": 96,
+        "y": 573,
         "group": "bmeg"
     },
     {
@@ -559,8 +604,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 36,
-        "y": 583,
+        "x": 99,
+        "y": 586,
         "group": "bmeg"
     }
 ]

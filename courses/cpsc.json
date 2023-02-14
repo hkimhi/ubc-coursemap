@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 37,
-        "y": -596,
+        "x": 440,
+        "y": -493,
         "group": "cpsc"
     },
     {
@@ -19,8 +19,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 37,
-        "y": -591,
+        "x": 440,
+        "y": -488,
         "group": "cpsc"
     },
     {
@@ -29,10 +29,12 @@
         "credits": 3,
         "desc": "Fundamental computation and program structures. Continuing systematic program design from CPSC 103. [3-2-0]\nPrerequisite: CPSC 103.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 103"
+        ],
         "postreqs": [],
-        "x": 36,
-        "y": -585,
+        "x": 440,
+        "y": -482,
         "group": "cpsc"
     },
     {
@@ -43,8 +45,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 35,
-        "y": -579,
+        "x": 439,
+        "y": -476,
         "group": "cpsc"
     },
     {
@@ -56,13 +58,10 @@
             "CPSC 107",
             "CPSC 110"
         ],
-        "prereqs": [
-            "CPSC 107",
-            "CPSC 110"
-        ],
+        "prereqs": [],
         "postreqs": [],
-        "x": 34,
-        "y": -574,
+        "x": 438,
+        "y": -471,
         "group": "cpsc"
     },
     {
@@ -71,10 +70,13 @@
         "credits": 3,
         "desc": "Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221. [3-0-1]\nPrerequisite: One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 103",
+            "CPSC 110"
+        ],
         "postreqs": [],
-        "x": 33,
-        "y": -568,
+        "x": 436,
+        "y": -465,
         "group": "cpsc"
     },
     {
@@ -83,10 +85,13 @@
         "credits": 4,
         "desc": "Design, development, and analysis of robust software components. Topics such as software design, computational models, data structures, debugging, and testing. [3-2-0]\nPrerequisite: One of CPSC 107, CPSC 110.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 107",
+            "CPSC 110"
+        ],
         "postreqs": [],
-        "x": 31,
-        "y": -563,
+        "x": 435,
+        "y": -460,
         "group": "cpsc"
     },
     {
@@ -95,10 +100,13 @@
         "credits": 4,
         "desc": "Software architecture, operating systems, and I/O architectures.  Relationships between application software, operating systems, and computing hardware; critical sections, deadlock avoidance, and performance; principles and operation of disks and networks. [3-3-0]\nPrerequisite: All of CPSC 121, CPSC 210.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 121",
+            "CPSC 210"
+        ],
         "postreqs": [],
-        "x": 29,
-        "y": -558,
+        "x": 433,
+        "y": -455,
         "group": "cpsc"
     },
     {
@@ -107,10 +115,14 @@
         "credits": 4,
         "desc": "Design and analysis of basic algorithms and data structures; algorithm analysis methods, searching and sorting algorithms, basic data structures, graphs and concurrency. [3-2-0]\nPrerequisite: One of CPSC 210, CPEN 221 and one of CPSC 121, MATH 220.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 210",
+            "CPEN 221",
+            "CPSC 121"
+        ],
         "postreqs": [],
-        "x": 27,
-        "y": -552,
+        "x": 430,
+        "y": -450,
         "group": "cpsc"
     },
     {
@@ -119,10 +131,12 @@
         "credits": 4,
         "desc": "Advanced procedural programming.  Fundamental algorithms for sorting and searching.  Data structures including lists, trees, and hash tables.  Introduction to scripting languages and file input/output. [3-2-0]\nPrerequisite: APSC 160.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 160"
+        ],
         "postreqs": [],
-        "x": 24,
-        "y": -547,
+        "x": 428,
+        "y": -445,
         "group": "cpsc"
     },
     {
@@ -131,10 +145,13 @@
         "credits": 4,
         "desc": "Software architecture, operating systems, and I/O architectures.  Relationships between application software, operating systems, and computing hardware; critical sections, deadlock avoidance, and performance; principles and operation of disks and networks. [3-2-1]\nPrerequisite: One of EECE 259, CPEN 211 and one of EECE 210, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPEN 211",
+            "CPEN 221"
+        ],
         "postreqs": [],
-        "x": 21,
-        "y": -543,
+        "x": 425,
+        "y": -440,
         "group": "cpsc"
     },
     {
@@ -145,8 +162,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 18,
-        "y": -538,
+        "x": 422,
+        "y": -435,
         "group": "cpsc"
     },
     {
@@ -155,10 +172,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the summer following the second year. Technical report required. Restricted to students admitted to the Co-operative Education. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CPSC 298.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 298"
+        ],
         "postreqs": [],
-        "x": 15,
-        "y": -533,
+        "x": 418,
+        "y": -430,
         "group": "cpsc"
     },
     {
@@ -169,8 +188,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 11,
-        "y": -529,
+        "x": 414,
+        "y": -426,
         "group": "cpsc"
     },
     {
@@ -179,10 +198,14 @@
         "credits": 3,
         "desc": "Numerical techniques for basic mathematical processes involving no discretization, and their analysis. Solution of linear systems, including analysis of round-off errors; norms and condition number; introduction to iterative techniques in linear algebra, including eigenvalue problems; solution to nonlinear equations. [3-0-0]\nPrerequisite: One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 103",
+            "CPSC 110",
+            "CPEN 221"
+        ],
         "postreqs": [],
-        "x": 7,
-        "y": -525,
+        "x": 411,
+        "y": -422,
         "group": "cpsc"
     },
     {
@@ -191,10 +214,14 @@
         "credits": 3,
         "desc": "Numerical techniques for basic mathematical processes involving discretization, and their analysis. Interpolation and approximation, including splines and least squares data fitting; numerical differentiation and integration; introduction to numerical initial value ordinary differential equations. [3-0-0]\nPrerequisite: One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 103",
+            "CPSC 110",
+            "CPEN 221"
+        ],
         "postreqs": [],
-        "x": 3,
-        "y": -521,
+        "x": 406,
+        "y": -418,
         "group": "cpsc"
     },
     {
@@ -203,10 +230,12 @@
         "credits": 3,
         "desc": "Overview of database systems, ER models, logical database design and normalization, formal relational query languages, SQL and other commercial languages,data warehouses, special topics. [3-0-1]\nPrerequisite: CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -1,
-        "y": -518,
+        "x": 402,
+        "y": -415,
         "group": "cpsc"
     },
     {
@@ -215,10 +244,13 @@
         "credits": 4,
         "desc": "Specification, design, validation, evolution and construction of modern software systems, within the context of socially and professionally relevant domains such as ethics, intellectual property, and information security. [3-2-0]\nPrerequisite: All of CPSC 213, CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 213",
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -5,
-        "y": -514,
+        "x": 398,
+        "y": -411,
         "group": "cpsc"
     },
     {
@@ -227,10 +259,12 @@
         "credits": 3,
         "desc": "Comparative study of advanced programming language features. Statement types, data types, variable binding, parameter passing mechanisms. Methods for syntactic and semantic description of programming languages. [3-0-1]\nPrerequisite: CPSC 210.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 210"
+        ],
         "postreqs": [],
-        "x": -10,
-        "y": -511,
+        "x": 393,
+        "y": -408,
         "group": "cpsc"
     },
     {
@@ -239,10 +273,13 @@
         "credits": 3,
         "desc": "Principles of symbolic computing, using languages based upon first-order logic and the lambda calculus. Algorithms for implementing such languages. Applications to artificial intelligence and knowledge representation. [3-0-0]\nPrerequisite: One of CPSC 210, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 210",
+            "CPEN 221"
+        ],
         "postreqs": [],
-        "x": -15,
-        "y": -508,
+        "x": 388,
+        "y": -405,
         "group": "cpsc"
     },
     {
@@ -251,10 +288,13 @@
         "credits": 3,
         "desc": "Instruction sets, pipelining, code optimization, caching, virtual memory management, dynamically linked libraries, exception processing, execution time of programs. [3-0-1]\nPrerequisite: All of CPSC 213, CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 213",
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -20,
-        "y": -506,
+        "x": 383,
+        "y": -403,
         "group": "cpsc"
     },
     {
@@ -263,10 +303,12 @@
         "credits": 3,
         "desc": "Human vision and colour; geometric transformations; algorithms for 2-D and 3-D graphics; hardware and system architectures; shading and lighting; animation. [3-1-0]\nPrerequisite: CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -25,
-        "y": -503,
+        "x": 378,
+        "y": -401,
         "group": "cpsc"
     },
     {
@@ -275,10 +317,13 @@
         "credits": 3,
         "desc": "Computer networking, basic communication protocols, network infrastructure and routing.  Common application-level protocols and principles associated with developing distributed applications. [3-0-1]\nPrerequisite: All of CPSC 213, CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 213",
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -30,
-        "y": -501,
+        "x": 372,
+        "y": -399,
         "group": "cpsc"
     },
     {
@@ -287,10 +332,12 @@
         "credits": 4,
         "desc": "The design, implementation, and test of a large software system, using a team approach. [3-0-2]\nPrerequisite: CPSC 310.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 310"
+        ],
         "postreqs": [],
-        "x": -36,
-        "y": -500,
+        "x": 367,
+        "y": -397,
         "group": "cpsc"
     },
     {
@@ -299,10 +346,12 @@
         "credits": 3,
         "desc": "Systematic study of basic concepts and techniques in the design and analysis of algorithms, illustrated from various problem areas. Topics include: models of computation; choice of data structures; graph-theoretic, algebraic, and text processing algorithms. [3-0-1]\nPrerequisite: CPSC 221 and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.\nEquivalency: EECE 320.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -41,
-        "y": -498,
+        "x": 361,
+        "y": -396,
         "group": "cpsc"
     },
     {
@@ -311,10 +360,12 @@
         "credits": 3,
         "desc": "Problem-solving and planning; state/action models and graph searching. Natural language understanding Computational vision. Applications of artificial intelligence. [3-0-0]\nPrerequisite: CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -47,
-        "y": -497,
+        "x": 356,
+        "y": -394,
         "group": "cpsc"
     },
     {
@@ -323,10 +374,16 @@
         "credits": 3,
         "desc": "Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results. [3-0-1]\nPrerequisite: Either (a) one of CPSC 203, CPSC 210, CPEN 221 or (b) MATH 210 and one of CPSC 107, CPSC 110.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 203",
+            "CPSC 210",
+            "CPEN 221",
+            "CPSC 107",
+            "CPSC 110"
+        ],
         "postreqs": [],
-        "x": -52,
-        "y": -497,
+        "x": 350,
+        "y": -394,
         "group": "cpsc"
     },
     {
@@ -335,10 +392,12 @@
         "credits": 3,
         "desc": "Models of algorithms for dimensionality reduction, nonlinear regression, classification, clustering and unsupervised learning; applications to computer graphics, computer games, bio-informatics, information retrieval, e-commerce, databases, computer vision and artificial intelligence. [3-0-1]\nPrerequisite: CPSC 221 and one of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and one of STAT 241, STAT 251, ECON 325, ECON 327, MATH 302, STAT 302, MATH 318.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -58,
-        "y": -496,
+        "x": 345,
+        "y": -393,
         "group": "cpsc"
     },
     {
@@ -347,10 +406,13 @@
         "credits": 3,
         "desc": "Basic tools and techniques, teaching a systematic approach to interface design, task analysis, analytic and empirical evaluation methods. [2-2-2]\nPrerequisite: One of CPSC 210, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 210",
+            "CPEN 221"
+        ],
         "postreqs": [],
-        "x": -64,
-        "y": -496,
+        "x": 339,
+        "y": -393,
         "group": "cpsc"
     },
     {
@@ -361,8 +423,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -69,
-        "y": -496,
+        "x": 333,
+        "y": -394,
         "group": "cpsc"
     },
     {
@@ -371,10 +433,14 @@
         "credits": 3,
         "desc": "Overview of relational and non-relational database systems, role and usage of a database when querying data, data modelling, query languages, and query optimization. [3-0-1]\nPrerequisite: One of CPSC 203, CPSC 210, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 203",
+            "CPSC 210",
+            "CPEN 221"
+        ],
         "postreqs": [],
-        "x": -75,
-        "y": -497,
+        "x": 328,
+        "y": -394,
         "group": "cpsc"
     },
     {
@@ -385,8 +451,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -81,
-        "y": -498,
+        "x": 322,
+        "y": -395,
         "group": "cpsc"
     },
     {
@@ -397,8 +463,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -86,
-        "y": -499,
+        "x": 317,
+        "y": -396,
         "group": "cpsc"
     },
     {
@@ -407,10 +473,13 @@
         "credits": 3,
         "desc": "Investigation of the practical techniques of computational linear algebra. Orthogonal transformations and their application to the solution of linear equations, the eigenproblem, and linear least squares. Complete solution of the symmetric eigenproblem, including bisection and the QR method. Refinements of these techniques for sparse matrices. [3-0-0]\nPrerequisite: One of CPSC 302, CPSC 303, MATH 307.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 302",
+            "CPSC 303"
+        ],
         "postreqs": [],
-        "x": -91,
-        "y": -501,
+        "x": 311,
+        "y": -398,
         "group": "cpsc"
     },
     {
@@ -419,10 +488,15 @@
         "credits": 3,
         "desc": "Physical database design, indexing, relational query processing and optimization, transaction processing, concurrency control, crash recovery, data warehouses, data cubes, views, special topics. [3-0-0]\nPrerequisite: CPSC 304 and one of CPSC 213, CPSC 261, CPEN 212.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 304",
+            "CPSC 213",
+            "CPSC 261",
+            "CPEN 212"
+        ],
         "postreqs": [],
-        "x": -97,
-        "y": -502,
+        "x": 306,
+        "y": -399,
         "group": "cpsc"
     },
     {
@@ -431,10 +505,13 @@
         "credits": 3,
         "desc": "Formulation and analysis of algorithms for continuous and discrete optimization problems; linear, nonlinear, network, dynamic, and integer optimization; large-scale problems; software packages and their implementation; duality theory and sensitivity. [3-0]\nPrerequisite: One of CPSC 302, CPSC 303, MATH 307.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 302",
+            "CPSC 303"
+        ],
         "postreqs": [],
-        "x": -102,
-        "y": -505,
+        "x": 300,
+        "y": -402,
         "group": "cpsc"
     },
     {
@@ -443,10 +520,14 @@
         "credits": 3,
         "desc": "Specification, design, construction and validation of multi-version software systems. [3-0-0]\nPrerequisite: Either (a) CPSC 310 or (b) all of CPEN 321, CPEN 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 310",
+            "CPEN 321",
+            "CPEN 331"
+        ],
         "postreqs": [],
-        "x": -107,
-        "y": -507,
+        "x": 295,
+        "y": -404,
         "group": "cpsc"
     },
     {
@@ -455,10 +536,14 @@
         "credits": 3,
         "desc": "A practical introduction to lexical analysis, syntactic analysis, type-checking, code generation and optimization. This will be used to design and implement a compiler for a small language. [3-0-0]\nPrerequisite: All of CPSC 213, CPSC 221, CPSC 311.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 213",
+            "CPSC 221",
+            "CPSC 311"
+        ],
         "postreqs": [],
-        "x": -112,
-        "y": -510,
+        "x": 290,
+        "y": -407,
         "group": "cpsc"
     },
     {
@@ -467,10 +552,13 @@
         "credits": 3,
         "desc": "Process synchronization and communication schemes, including message-passing and concepts of monitor and serializer. Virtual memory systems management and the problem of information sharing in such systems. The working set principle. Traps and interrupt handling. Elementary queuing theory and its application such as process scheduling, system balancing and load control. File systems and operating system design methodologies. [3-0-0]\nPrerequisite: One of CPSC 313, CPEN 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 313",
+            "CPEN 331"
+        ],
         "postreqs": [],
-        "x": -117,
-        "y": -513,
+        "x": 286,
+        "y": -410,
         "group": "cpsc"
     },
     {
@@ -479,10 +567,15 @@
         "credits": 3,
         "desc": "Concepts and design of distributed systems. Communication architecture and models for interprocess communication. Process migration, naming, distributed file systems, fault tolerance, and concurrency control. [3-0-0]\nPrerequisite: One of CPSC 313, CPEN 331 and one of CPSC 317, ELEC 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 313",
+            "CPEN 331",
+            "CPSC 317",
+            "ELEC 331"
+        ],
         "postreqs": [],
-        "x": -122,
-        "y": -516,
+        "x": 281,
+        "y": -413,
         "group": "cpsc"
     },
     {
@@ -491,10 +584,13 @@
         "credits": 3,
         "desc": "Network protocols and architecture including internetworking, the Internet, layered communication protocols, routing, flow and congestion control, network performance, wired and wireless data communication. [3-0]\nPrerequisite: All of CPSC 313, CPSC 317 and one of STAT 200, STAT 201, STAT 241, STAT 251.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 313",
+            "CPSC 317"
+        ],
         "postreqs": [],
-        "x": -126,
-        "y": -519,
+        "x": 276,
+        "y": -416,
         "group": "cpsc"
     },
     {
@@ -503,10 +599,16 @@
         "credits": 3,
         "desc": "Algorithms, architectures, and programming paradigms for parallel computation.  Shared memory, message passing, and data parallel architectures and programming models.  Parallel algorithms including reduce, scan, and sorting networks.  Reasoning about the correctness of parallel programs.  Performance analysis and measurement for parallel programs. [3-0-0]\nPrerequisite: CPSC 320 and one of CPSC 261, CPSC 313, CPEN 212, CPEN 411.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 320",
+            "CPSC 261",
+            "CPSC 313",
+            "CPEN 212",
+            "CPEN 411"
+        ],
         "postreqs": [],
-        "x": -130,
-        "y": -523,
+        "x": 272,
+        "y": -420,
         "group": "cpsc"
     },
     {
@@ -515,10 +617,12 @@
         "credits": 3,
         "desc": "The study of advanced topics in the design and analysis of algorithms and associated data structures. Topics include algorithms for graph-theoretic; algebraic and geometric problems; algorithms on nonsequential models; complexity issues; approximation algorithms. [3-0-0]\nPrerequisite: CPSC 320.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 320"
+        ],
         "postreqs": [],
-        "x": -134,
-        "y": -527,
+        "x": 268,
+        "y": -424,
         "group": "cpsc"
     },
     {
@@ -527,10 +631,12 @@
         "credits": 3,
         "desc": "Characterizations of computability (using machines, languages and functions). Universality, equivalence and Church's thesis. Unsolvable problems. Restricted models of computation. Finite automata, grammars and formal languages. [3-0-0]\nPrerequisite: CPSC 221. CPSC 320 is recommended.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -138,
-        "y": -531,
+        "x": 264,
+        "y": -428,
         "group": "cpsc"
     },
     {
@@ -539,10 +645,12 @@
         "credits": 3,
         "desc": "Principles and techniques underlying the design, implementation and evaluation of intelligent computational systems. Applications of artificial intelligence to natural language understanding, image understanding and computer-based expert and advisor systems. Advanced symbolic programming methodology. [3-0-0]\nPrerequisite: CPSC 322.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 322"
+        ],
         "postreqs": [],
-        "x": -142,
-        "y": -536,
+        "x": 261,
+        "y": -433,
         "group": "cpsc"
     },
     {
@@ -551,10 +659,12 @@
         "credits": 3,
         "desc": "Digital representation of curves and surfaces, including splines, subdivision surfaces and meshes. Principles, algorithms and mathematical foundations for  geometry representation in computer graphics, computer vision, fabrication, CAD/CAM, and medical imaging. Algorithms for acquisition, creation, representation, and processing of 3D shapes. [3-0-1]\nPrerequisite: CPSC 320 and one of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 320"
+        ],
         "postreqs": [],
-        "x": -145,
-        "y": -540,
+        "x": 257,
+        "y": -437,
         "group": "cpsc"
     },
     {
@@ -563,10 +673,12 @@
         "credits": 3,
         "desc": "Introduction to the processing and interpretation of images.  Image sensing, sampling, and filtering.  Algorithms for colour analysis, texture description, stereo imaging, motion interpretation, 3D shape recovery, and recognition. [3-0-0]\nPrerequisite: All of CPSC 221, MATH 200, MATH 221.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -148,
-        "y": -545,
+        "x": 254,
+        "y": -442,
         "group": "cpsc"
     },
     {
@@ -575,10 +687,12 @@
         "credits": 3,
         "desc": "Motion in computer graphics for characters and their environments. Keyframing, inverse kinematics, particle systems, rigid body dynamics, contact and collision, controller-based active motion, motion capture. [3-0-0]\nPrerequisite: CPSC 314.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 314"
+        ],
         "postreqs": [],
-        "x": -151,
-        "y": -550,
+        "x": 252,
+        "y": -447,
         "group": "cpsc"
     },
     {
@@ -587,10 +701,12 @@
         "credits": 3,
         "desc": "Video game programming techniques and technologies, including rendering, animation, interaction, game AI, real-time software development for games; start-to-finish simple video-game design and implementation. [3-0-1]\nPrerequisite: CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
         "postreqs": [],
-        "x": -153,
-        "y": -555,
+        "x": 249,
+        "y": -452,
         "group": "cpsc"
     },
     {
@@ -601,8 +717,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -156,
-        "y": -560,
+        "x": 247,
+        "y": -457,
         "group": "cpsc"
     },
     {
@@ -613,8 +729,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -157,
-        "y": -566,
+        "x": 245,
+        "y": -463,
         "group": "cpsc"
     },
     {
@@ -623,10 +739,13 @@
         "credits": 3,
         "desc": "Advanced machine learning techniques focusing on probabilistic models. Deep learning and differentiable programming, exponential families and Bayesian inference, probabilistic graphical models and other generative models, Monte Carlo and variational inference methods. [3-0-1]\nPrerequisite: All of CPSC 320, CPSC 340.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 320",
+            "CPSC 340"
+        ],
         "postreqs": [],
-        "x": -159,
-        "y": -571,
+        "x": 244,
+        "y": -468,
         "group": "cpsc"
     },
     {
@@ -635,10 +754,12 @@
         "credits": 3,
         "desc": "Design and evaluation methodologies and theories; formal models of the user including visual, motor, and information processing; advanced evaluation methods including laboratory experiments and field studies; HCI research frontiers. [2-2-2]\nPrerequisite: CPSC 344 and one of STAT 200, STAT 201, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, GEOG 374, KIN  206, KIN  371, POLI 380, PSYC 218, PSYC 278, PSYC 366, SOCI 328.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 344"
+        ],
         "postreqs": [],
-        "x": -160,
-        "y": -577,
+        "x": 242,
+        "y": -474,
         "group": "cpsc"
     },
     {
@@ -647,10 +768,13 @@
         "credits": 3,
         "desc": "Sequence alignment, phylogenetic tree reconstruction, prediction of RNA and protein structure, gene finding and sequence annotation, gene expression, and biomolecular computing. [3-0-0]\nPrerequisite: CPSC 320 and either BMEG 250 or six credits of BIOL beyond BIOL 111.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 320",
+            "BMEG 250"
+        ],
         "postreqs": [],
-        "x": -161,
-        "y": -582,
+        "x": 241,
+        "y": -479,
         "group": "cpsc"
     },
     {
@@ -659,10 +783,13 @@
         "credits": 3,
         "desc": "Design and implementation of static and interactive visualizations. Selection of appropriate visualization methods for given combinations of data type and intended analysis task. Assessment of visual representations according to design and perceptual principles. [3-0-0]\nPrerequisite: One of CPSC 310, CPEN 321.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 310",
+            "CPEN 321"
+        ],
         "postreqs": [],
-        "x": -162,
-        "y": -588,
+        "x": 241,
+        "y": -485,
         "group": "cpsc"
     },
     {
@@ -673,8 +800,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -162,
-        "y": -593,
+        "x": 240,
+        "y": -490,
         "group": "cpsc"
     },
     {
@@ -683,10 +810,12 @@
         "credits": 6,
         "desc": "Under supervision of a faculty member, students investigate a research topic and prepare a thesis. \nPrerequisite: CPSC 349.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 349"
+        ],
         "postreqs": [],
-        "x": -162,
-        "y": -599,
+        "x": 240,
+        "y": -496,
         "group": "cpsc"
     },
     {
@@ -695,10 +824,13 @@
         "credits": 3,
         "desc": "Hands-on project, mentored by industry experts, integrating skills relevant to early career in the computing industry: technical skills, communication, teamwork, networking and portfolio building. [2.5-2-0]\nPrerequisite: One of CPSC 310, CPEN 321.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 310",
+            "CPEN 321"
+        ],
         "postreqs": [],
-        "x": -162,
-        "y": -605,
+        "x": 241,
+        "y": -502,
         "group": "cpsc"
     },
     {
@@ -709,8 +841,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -161,
-        "y": -610,
+        "x": 241,
+        "y": -507,
         "group": "cpsc"
     },
     {
@@ -719,10 +851,14 @@
         "credits": 6,
         "desc": "Design and implementation of interactive digital media systems using modern processes and tools. Projects provided by external clients or vetted entrepreneurial pitches are developed by interdisciplinary teams composed of one CPSC 491 student and multiple Master of Digital Media students. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: All of CPSC 221, CPSC 310, CPSC 344 and Third-year standing.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "CPSC 221",
+            "CPSC 310",
+            "CPSC 344"
+        ],
         "postreqs": [],
-        "x": -160,
-        "y": -616,
+        "x": 242,
+        "y": -513,
         "group": "cpsc"
     },
     {
@@ -733,8 +869,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -159,
-        "y": -621,
+        "x": 244,
+        "y": -518,
         "group": "cpsc"
     },
     {
@@ -745,8 +881,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -157,
-        "y": -627,
+        "x": 245,
+        "y": -524,
         "group": "cpsc"
     },
     {
@@ -757,8 +893,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -156,
-        "y": -632,
+        "x": 247,
+        "y": -529,
         "group": "cpsc"
     },
     {
@@ -769,8 +905,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -153,
-        "y": -637,
+        "x": 249,
+        "y": -534,
         "group": "cpsc"
     },
     {
@@ -781,8 +917,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -151,
-        "y": -642,
+        "x": 252,
+        "y": -540,
         "group": "cpsc"
     },
     {
@@ -793,8 +929,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -148,
-        "y": -647,
+        "x": 254,
+        "y": -545,
         "group": "cpsc"
     },
     {
@@ -805,8 +941,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -145,
-        "y": -652,
+        "x": 257,
+        "y": -549,
         "group": "cpsc"
     },
     {
@@ -817,8 +953,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -142,
-        "y": -657,
+        "x": 261,
+        "y": -554,
         "group": "cpsc"
     },
     {
@@ -829,8 +965,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -138,
-        "y": -661,
+        "x": 264,
+        "y": -558,
         "group": "cpsc"
     },
     {
@@ -841,8 +977,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -134,
-        "y": -665,
+        "x": 268,
+        "y": -562,
         "group": "cpsc"
     },
     {
@@ -853,8 +989,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -130,
-        "y": -669,
+        "x": 272,
+        "y": -566,
         "group": "cpsc"
     },
     {
@@ -865,8 +1001,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -126,
-        "y": -673,
+        "x": 276,
+        "y": -570,
         "group": "cpsc"
     },
     {
@@ -877,8 +1013,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -122,
-        "y": -677,
+        "x": 281,
+        "y": -574,
         "group": "cpsc"
     },
     {
@@ -889,8 +1025,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -117,
-        "y": -680,
+        "x": 286,
+        "y": -577,
         "group": "cpsc"
     },
     {
@@ -901,8 +1037,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -112,
-        "y": -683,
+        "x": 290,
+        "y": -580,
         "group": "cpsc"
     },
     {
@@ -913,8 +1049,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -107,
-        "y": -686,
+        "x": 295,
+        "y": -583,
         "group": "cpsc"
     },
     {
@@ -925,8 +1061,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -102,
-        "y": -688,
+        "x": 300,
+        "y": -585,
         "group": "cpsc"
     },
     {
@@ -937,8 +1073,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -97,
-        "y": -690,
+        "x": 306,
+        "y": -587,
         "group": "cpsc"
     },
     {
@@ -949,8 +1085,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -91,
-        "y": -692,
+        "x": 311,
+        "y": -589,
         "group": "cpsc"
     },
     {
@@ -961,8 +1097,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -86,
-        "y": -693,
+        "x": 317,
+        "y": -590,
         "group": "cpsc"
     },
     {
@@ -973,8 +1109,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -81,
-        "y": -695,
+        "x": 322,
+        "y": -592,
         "group": "cpsc"
     },
     {
@@ -985,8 +1121,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -75,
-        "y": -695,
+        "x": 328,
+        "y": -592,
         "group": "cpsc"
     },
     {
@@ -997,8 +1133,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -69,
-        "y": -696,
+        "x": 333,
+        "y": -593,
         "group": "cpsc"
     },
     {
@@ -1009,8 +1145,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -64,
-        "y": -696,
+        "x": 339,
+        "y": -593,
         "group": "cpsc"
     },
     {
@@ -1021,8 +1157,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -58,
-        "y": -696,
+        "x": 345,
+        "y": -593,
         "group": "cpsc"
     },
     {
@@ -1033,8 +1169,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -52,
-        "y": -696,
+        "x": 350,
+        "y": -593,
         "group": "cpsc"
     },
     {
@@ -1045,8 +1181,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -47,
-        "y": -695,
+        "x": 356,
+        "y": -592,
         "group": "cpsc"
     },
     {
@@ -1057,8 +1193,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -41,
-        "y": -694,
+        "x": 361,
+        "y": -591,
         "group": "cpsc"
     },
     {
@@ -1069,8 +1205,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -36,
-        "y": -693,
+        "x": 367,
+        "y": -590,
         "group": "cpsc"
     },
     {
@@ -1081,8 +1217,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -30,
-        "y": -691,
+        "x": 372,
+        "y": -588,
         "group": "cpsc"
     },
     {
@@ -1093,8 +1229,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -25,
-        "y": -689,
+        "x": 378,
+        "y": -586,
         "group": "cpsc"
     },
     {
@@ -1105,8 +1241,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -20,
-        "y": -687,
+        "x": 383,
+        "y": -584,
         "group": "cpsc"
     },
     {
@@ -1117,8 +1253,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -15,
-        "y": -684,
+        "x": 388,
+        "y": -581,
         "group": "cpsc"
     },
     {
@@ -1129,8 +1265,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -10,
-        "y": -681,
+        "x": 393,
+        "y": -578,
         "group": "cpsc"
     },
     {
@@ -1141,8 +1277,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -5,
-        "y": -678,
+        "x": 398,
+        "y": -575,
         "group": "cpsc"
     },
     {
@@ -1153,8 +1289,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -1,
-        "y": -675,
+        "x": 402,
+        "y": -572,
         "group": "cpsc"
     },
     {
@@ -1165,8 +1301,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 3,
-        "y": -671,
+        "x": 406,
+        "y": -568,
         "group": "cpsc"
     },
     {
@@ -1177,8 +1313,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 7,
-        "y": -667,
+        "x": 411,
+        "y": -564,
         "group": "cpsc"
     },
     {
@@ -1189,8 +1325,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 11,
-        "y": -663,
+        "x": 414,
+        "y": -560,
         "group": "cpsc"
     },
     {
@@ -1201,8 +1337,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 15,
-        "y": -659,
+        "x": 418,
+        "y": -556,
         "group": "cpsc"
     },
     {
@@ -1213,8 +1349,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 18,
-        "y": -655,
+        "x": 422,
+        "y": -552,
         "group": "cpsc"
     },
     {
@@ -1225,8 +1361,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 21,
-        "y": -650,
+        "x": 425,
+        "y": -547,
         "group": "cpsc"
     },
     {
@@ -1237,8 +1373,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 24,
-        "y": -645,
+        "x": 428,
+        "y": -542,
         "group": "cpsc"
     },
     {
@@ -1249,8 +1385,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 27,
-        "y": -640,
+        "x": 430,
+        "y": -537,
         "group": "cpsc"
     },
     {
@@ -1261,8 +1397,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 29,
-        "y": -635,
+        "x": 433,
+        "y": -532,
         "group": "cpsc"
     },
     {
@@ -1273,8 +1409,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 31,
-        "y": -630,
+        "x": 435,
+        "y": -527,
         "group": "cpsc"
     },
     {
@@ -1285,8 +1421,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 33,
-        "y": -624,
+        "x": 436,
+        "y": -521,
         "group": "cpsc"
     },
     {
@@ -1297,8 +1433,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 34,
-        "y": -619,
+        "x": 438,
+        "y": -516,
         "group": "cpsc"
     },
     {
@@ -1309,8 +1445,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 35,
-        "y": -613,
+        "x": 439,
+        "y": -510,
         "group": "cpsc"
     },
     {
@@ -1321,8 +1457,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 36,
-        "y": -608,
+        "x": 440,
+        "y": -505,
         "group": "cpsc"
     },
     {
@@ -1333,8 +1469,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 37,
-        "y": -602,
+        "x": 440,
+        "y": -499,
         "group": "cpsc"
     }
 ]

@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 285,
-        "y": -570,
+        "x": 524,
+        "y": -424,
         "group": "apsc"
     },
     {
@@ -17,10 +17,12 @@
         "credits": 3,
         "desc": "An introduction to the engineering profession including: the engineering design process, sustainability, prototype testing, introduction and application of the relevant foundational scientific principles, team functioning, engineering graphics, and technical communication. This course is not eligible for Credit/D/Fail grading. [2-2-0]\nPrerequisite: APSC 100.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 100"
+        ],
         "postreqs": [],
-        "x": 284,
-        "y": -560,
+        "x": 523,
+        "y": -413,
         "group": "apsc"
     },
     {
@@ -31,8 +33,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 283,
-        "y": -549,
+        "x": 522,
+        "y": -403,
         "group": "apsc"
     },
     {
@@ -43,8 +45,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 280,
-        "y": -539,
+        "x": 519,
+        "y": -393,
         "group": "apsc"
     },
     {
@@ -55,8 +57,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 276,
-        "y": -529,
+        "x": 515,
+        "y": -383,
         "group": "apsc"
     },
     {
@@ -67,8 +69,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 272,
-        "y": -520,
+        "x": 510,
+        "y": -374,
         "group": "apsc"
     },
     {
@@ -79,8 +81,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 266,
-        "y": -511,
+        "x": 505,
+        "y": -365,
         "group": "apsc"
     },
     {
@@ -91,8 +93,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 259,
-        "y": -503,
+        "x": 498,
+        "y": -357,
         "group": "apsc"
     },
     {
@@ -103,8 +105,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 252,
-        "y": -496,
+        "x": 491,
+        "y": -349,
         "group": "apsc"
     },
     {
@@ -113,10 +115,12 @@
         "credits": 3,
         "desc": "Integrals and transcendental functions, techniques of integration, applications of integration, polar coordinates, infinite sequences and series, vectors and the geometry of space, and partial derivatives. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: APSC 172.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 172"
+        ],
         "postreqs": [],
-        "x": 244,
-        "y": -489,
+        "x": 483,
+        "y": -343,
         "group": "apsc"
     },
     {
@@ -127,8 +131,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 235,
-        "y": -484,
+        "x": 474,
+        "y": -337,
         "group": "apsc"
     },
     {
@@ -140,11 +144,11 @@
             "APSC 173"
         ],
         "prereqs": [
-            "APSC 173"
+            "APSC 172"
         ],
         "postreqs": [],
-        "x": 226,
-        "y": -479,
+        "x": 464,
+        "y": -332,
         "group": "apsc"
     },
     {
@@ -155,8 +159,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 216,
-        "y": -475,
+        "x": 455,
+        "y": -329,
         "group": "apsc"
     },
     {
@@ -167,8 +171,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 206,
-        "y": -472,
+        "x": 445,
+        "y": -326,
         "group": "apsc"
     },
     {
@@ -179,8 +183,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 195,
-        "y": -471,
+        "x": 434,
+        "y": -324,
         "group": "apsc"
     },
     {
@@ -191,8 +195,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 185,
-        "y": -470,
+        "x": 424,
+        "y": -324,
         "group": "apsc"
     },
     {
@@ -201,10 +205,12 @@
         "credits": 3,
         "desc": "Written and oral communication in engineering. Report preparation, business correspondence, and oral presentation of technical material. Credit will be granted for only one of BMEG 201, CHBE 201, CIVL 203, CPEN 281, ELEC 281, IGEN 201, MANU 201, MECH 226, MTRL 201, or APSC 201. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 176"
+        ],
         "postreqs": [],
-        "x": 174,
-        "y": -471,
+        "x": 413,
+        "y": -324,
         "group": "apsc"
     },
     {
@@ -216,11 +222,11 @@
             "ENPH 259"
         ],
         "prereqs": [
-            "ENPH 259"
+            "APSC 176"
         ],
         "postreqs": [],
-        "x": 164,
-        "y": -472,
+        "x": 403,
+        "y": -326,
         "group": "apsc"
     },
     {
@@ -232,11 +238,11 @@
             "ENPH 253"
         ],
         "prereqs": [
-            "ENPH 253"
+            "APSC 202"
         ],
         "postreqs": [],
-        "x": 154,
-        "y": -475,
+        "x": 393,
+        "y": -329,
         "group": "apsc"
     },
     {
@@ -245,10 +251,12 @@
         "credits": 6,
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: APSC 110.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 110"
+        ],
         "postreqs": [],
-        "x": 144,
-        "y": -479,
+        "x": 383,
+        "y": -332,
         "group": "apsc"
     },
     {
@@ -259,8 +267,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 135,
-        "y": -484,
+        "x": 374,
+        "y": -337,
         "group": "apsc"
     },
     {
@@ -271,8 +279,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 126,
-        "y": -489,
+        "x": 365,
+        "y": -343,
         "group": "apsc"
     },
     {
@@ -283,8 +291,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 118,
-        "y": -496,
+        "x": 357,
+        "y": -349,
         "group": "apsc"
     },
     {
@@ -295,8 +303,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 111,
-        "y": -503,
+        "x": 349,
+        "y": -357,
         "group": "apsc"
     },
     {
@@ -307,8 +315,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 104,
-        "y": -511,
+        "x": 343,
+        "y": -365,
         "group": "apsc"
     },
     {
@@ -319,8 +327,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 98,
-        "y": -520,
+        "x": 337,
+        "y": -374,
         "group": "apsc"
     },
     {
@@ -335,8 +343,8 @@
             "APSC 278"
         ],
         "postreqs": [],
-        "x": 94,
-        "y": -529,
+        "x": 332,
+        "y": -383,
         "group": "apsc"
     },
     {
@@ -347,8 +355,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 90,
-        "y": -539,
+        "x": 329,
+        "y": -393,
         "group": "apsc"
     },
     {
@@ -359,8 +367,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 87,
-        "y": -549,
+        "x": 326,
+        "y": -403,
         "group": "apsc"
     },
     {
@@ -371,8 +379,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 85,
-        "y": -560,
+        "x": 324,
+        "y": -413,
         "group": "apsc"
     },
     {
@@ -383,8 +391,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 85,
-        "y": -570,
+        "x": 324,
+        "y": -424,
         "group": "apsc"
     },
     {
@@ -393,10 +401,12 @@
         "credits": 3,
         "desc": "Intermediate level engineering design project involving material in the curriculum of the Integrated Engineering program. For students in the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. [1-4-0]\nPrerequisite: APSC 331.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 331"
+        ],
         "postreqs": [],
-        "x": 85,
-        "y": -581,
+        "x": 324,
+        "y": -434,
         "group": "apsc"
     },
     {
@@ -407,8 +417,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 87,
-        "y": -591,
+        "x": 326,
+        "y": -445,
         "group": "apsc"
     },
     {
@@ -419,8 +429,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 90,
-        "y": -601,
+        "x": 329,
+        "y": -455,
         "group": "apsc"
     },
     {
@@ -431,8 +441,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 94,
-        "y": -611,
+        "x": 332,
+        "y": -464,
         "group": "apsc"
     },
     {
@@ -443,8 +453,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 98,
-        "y": -620,
+        "x": 337,
+        "y": -474,
         "group": "apsc"
     },
     {
@@ -455,8 +465,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 104,
-        "y": -629,
+        "x": 343,
+        "y": -483,
         "group": "apsc"
     },
     {
@@ -467,8 +477,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 111,
-        "y": -637,
+        "x": 349,
+        "y": -491,
         "group": "apsc"
     },
     {
@@ -479,8 +489,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 118,
-        "y": -644,
+        "x": 357,
+        "y": -498,
         "group": "apsc"
     },
     {
@@ -491,8 +501,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 126,
-        "y": -651,
+        "x": 365,
+        "y": -505,
         "group": "apsc"
     },
     {
@@ -503,8 +513,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 135,
-        "y": -657,
+        "x": 374,
+        "y": -510,
         "group": "apsc"
     },
     {
@@ -515,8 +525,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 144,
-        "y": -661,
+        "x": 383,
+        "y": -515,
         "group": "apsc"
     },
     {
@@ -527,8 +537,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 154,
-        "y": -665,
+        "x": 393,
+        "y": -519,
         "group": "apsc"
     },
     {
@@ -539,8 +549,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 164,
-        "y": -668,
+        "x": 403,
+        "y": -522,
         "group": "apsc"
     },
     {
@@ -551,8 +561,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 174,
-        "y": -670,
+        "x": 413,
+        "y": -523,
         "group": "apsc"
     },
     {
@@ -561,10 +571,12 @@
         "credits": 3,
         "desc": "International service learning (ISL) placement in which concepts, theory, and practice of engineering leadership are applied by working with a community organization on appropriate technology projects. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: APSC 461 and registration with the Go Global ISL program and successful completion of Go Global program requirements.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "APSC 461"
+        ],
         "postreqs": [],
-        "x": 185,
-        "y": -670,
+        "x": 424,
+        "y": -524,
         "group": "apsc"
     },
     {
@@ -575,8 +587,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 195,
-        "y": -670,
+        "x": 434,
+        "y": -523,
         "group": "apsc"
     },
     {
@@ -587,8 +599,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 206,
-        "y": -668,
+        "x": 445,
+        "y": -522,
         "group": "apsc"
     },
     {
@@ -599,8 +611,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 216,
-        "y": -665,
+        "x": 455,
+        "y": -519,
         "group": "apsc"
     },
     {
@@ -611,8 +623,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 226,
-        "y": -661,
+        "x": 464,
+        "y": -515,
         "group": "apsc"
     },
     {
@@ -623,8 +635,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 235,
-        "y": -657,
+        "x": 474,
+        "y": -510,
         "group": "apsc"
     },
     {
@@ -635,8 +647,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 244,
-        "y": -651,
+        "x": 483,
+        "y": -505,
         "group": "apsc"
     },
     {
@@ -647,8 +659,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 252,
-        "y": -644,
+        "x": 491,
+        "y": -498,
         "group": "apsc"
     },
     {
@@ -659,8 +671,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 259,
-        "y": -637,
+        "x": 498,
+        "y": -491,
         "group": "apsc"
     },
     {
@@ -671,8 +683,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 266,
-        "y": -629,
+        "x": 505,
+        "y": -483,
         "group": "apsc"
     },
     {
@@ -683,8 +695,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 272,
-        "y": -620,
+        "x": 510,
+        "y": -474,
         "group": "apsc"
     },
     {
@@ -695,8 +707,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 276,
-        "y": -611,
+        "x": 515,
+        "y": -464,
         "group": "apsc"
     },
     {
@@ -707,8 +719,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 280,
-        "y": -601,
+        "x": 519,
+        "y": -455,
         "group": "apsc"
     },
     {
@@ -719,8 +731,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 283,
-        "y": -591,
+        "x": 522,
+        "y": -445,
         "group": "apsc"
     },
     {
@@ -731,8 +743,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 284,
-        "y": -581,
+        "x": 523,
+        "y": -434,
         "group": "apsc"
     }
 ]

@@ -6,5 +6,5 @@ scrape(True)
 build_database(True)
 build_graph()
 
-with open('graph.json') as infile, open('src/front/anygraph.json', "w") as outfile:
+with open('graph.json') as infile, open('docs/anygraph.json', "w") as outfile:
     outfile.write(infile.read())

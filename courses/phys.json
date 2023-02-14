@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -463,
-        "y": 205,
+        "x": -419,
+        "y": 299,
         "group": "phys"
     },
     {
@@ -17,10 +17,12 @@
         "credits": 3,
         "desc": "Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction. [3-3*-1*]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -463,
-        "y": 210,
+        "x": -419,
+        "y": 305,
         "group": "phys"
     },
     {
@@ -29,10 +31,13 @@
         "credits": 3,
         "desc": "Introduction to optics, electricity and magnetism, electric circuits, radioactivity, including biological applications. [3-3*-1*]\nPrerequisite: One of PHYS 101, PHYS 107.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 107"
+        ],
         "postreqs": [],
-        "x": -464,
-        "y": 216,
+        "x": -420,
+        "y": 311,
         "group": "phys"
     },
     {
@@ -41,10 +46,12 @@
         "credits": 3,
         "desc": "Classical mechanics including conservation laws, angular momentum of rigid bodies and simple harmonic motion, wave phenomena, with an introduction to special relativity, quantum mechanics, nuclear physics, statistical mechanics and solid state physics. [3-0-1]\nPrerequisite: Either (a) a score more than 85% in all of PHYS 12, MATH 12 or (b) a score more than 85% in all of PHYS 12, PREC 12 or (c) a score more than 85% in all of PHYS 12, CALC 12 or (d) a score more than 85% in PHYS 100. PHYS 12 = Physics 12; MATH 12 = Principles of Mathematics 12; PREC 12 = Pre-Calculus 12; CALC 12 = Calculus 12.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -465,
-        "y": 221,
+        "x": -420,
+        "y": 316,
         "group": "phys"
     },
     {
@@ -53,10 +60,12 @@
         "credits": 3,
         "desc": "Classical mechanics including conservation laws, angular momentum of rigid bodies and simple harmonic motion, wave phenomena, with an introduction to special relativity, quantum mechanics, nuclear physics, statistical mechanics and solid state physics. [3-3*-1*]\nPrerequisite: Either (a) a score of 85% or higher in all of PHYS 12, MATH 12 or (b) a score of 85% or higher in all of PHYS 12, PREC 12 or (c) a score of 85% or higher in all of PHYS 12, CALC 12 or (d) a score of 85% or higher in PHYS 100. MATH 12 = Principles of Mathematics 12; PREC 12 = Pre-Calculus 12; CALC 12 = Calculus 12; PHYS 12 = Physics 12.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -466,
-        "y": 227,
+        "x": -422,
+        "y": 321,
         "group": "phys"
     },
     {
@@ -65,10 +74,16 @@
         "credits": 3,
         "desc": "Electricity and magnetism, electrical circuits, induction, electromagnetic waves, Maxwell's equations and applications. [3-0-1]\nPrerequisite: Either (a) one of PHYS 106, PHYS 107 or (b) a score of 85% or higher in one of PHYS 101, PHYS 117, PHYS 131.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 101",
+            "PHYS 117",
+            "PHYS 131"
+        ],
         "postreqs": [],
-        "x": -467,
-        "y": 232,
+        "x": -423,
+        "y": 327,
         "group": "phys"
     },
     {
@@ -76,11 +91,16 @@
         "title": "Enriched Experimental Physics",
         "credits": 1,
         "desc": "A laboratory course accompanying PHYS 108 with emphasis on data collection and analysis and experimental techniques. [0-3-0]\nPrerequisite: PHYS 107.\nCorequisite: One of PHYS 108, PHYS 118.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "PHYS 108",
+            "PHYS 118"
+        ],
+        "prereqs": [
+            "PHYS 107"
+        ],
         "postreqs": [],
-        "x": -469,
-        "y": 237,
+        "x": -425,
+        "y": 332,
         "group": "phys"
     },
     {
@@ -89,10 +109,12 @@
         "credits": 3,
         "desc": "Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves. [3-0-2]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -471,
-        "y": 242,
+        "x": -426,
+        "y": 337,
         "group": "phys"
     },
     {
@@ -101,10 +123,17 @@
         "credits": 3,
         "desc": "Optics, electricity and magnetism, electric circuits, radioactivity, including biological applications. [3-0-1]\nPrerequisite: One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 157"
+        ],
         "postreqs": [],
-        "x": -473,
-        "y": 247,
+        "x": -429,
+        "y": 342,
         "group": "phys"
     },
     {
@@ -113,10 +142,12 @@
         "credits": 1,
         "desc": "Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning. [0-3-0]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -475,
-        "y": 252,
+        "x": -431,
+        "y": 347,
         "group": "phys"
     },
     {
@@ -125,10 +156,13 @@
         "credits": 1,
         "desc": "A second laboratory course emphasizing the synthesis and development of further sophistication around the data collection, data analysis techniques and scientific reasoning developed in PHYS 119. [0-3-0]\nPrerequisite: One of PHYS 107, PHYS 119.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 107",
+            "PHYS 119"
+        ],
         "postreqs": [],
-        "x": -478,
-        "y": 257,
+        "x": -434,
+        "y": 352,
         "group": "phys"
     },
     {
@@ -137,10 +171,12 @@
         "credits": 3,
         "desc": "Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction. [3-0-1]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -481,
-        "y": 262,
+        "x": -437,
+        "y": 356,
         "group": "phys"
     },
     {
@@ -149,10 +185,12 @@
         "credits": 6,
         "desc": "Thermometry, thermal properties of matter, heat, oscillations, waves, sound, wave optics; geometrical optics, elementary electricity and magnetism, simple DC and AC circuits. [3-0-1; 3-3-1]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -484,
-        "y": 266,
+        "x": -440,
+        "y": 361,
         "group": "phys"
     },
     {
@@ -161,10 +199,12 @@
         "credits": 3,
         "desc": "Heat, thermodynamics, oscillations, waves, and sound. [3-0-1]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -488,
-        "y": 270,
+        "x": -444,
+        "y": 365,
         "group": "phys"
     },
     {
@@ -173,10 +213,12 @@
         "credits": 3,
         "desc": "Electricity and magnetism, DC and AC circuits, optics. [3-0-1]\nPrerequisite: PHYS 157.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 157"
+        ],
         "postreqs": [],
-        "x": -492,
-        "y": 274,
+        "x": -447,
+        "y": 369,
         "group": "phys"
     },
     {
@@ -184,11 +226,16 @@
         "title": "Introductory Physics Laboratory for Engineers",
         "credits": 1,
         "desc": "A laboratory course with emphasis on experimental design, measurement and analysis techniques. [0-3-0]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of PHYS 157, PHYS 158.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "PHYS 157",
+            "PHYS 158"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -496,
-        "y": 278,
+        "x": -451,
+        "y": 373,
         "group": "phys"
     },
     {
@@ -197,10 +244,12 @@
         "credits": 3,
         "desc": "Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics:  Newton's second law, friction, impulse, momentum, work and energy. [3-0-1]\nPrerequisite: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 100"
+        ],
         "postreqs": [],
-        "x": -500,
-        "y": 282,
+        "x": -456,
+        "y": 377,
         "group": "phys"
     },
     {
@@ -209,10 +258,16 @@
         "credits": 4,
         "desc": "Special relativity: Lorentz transformation, dynamics and conservation laws. Quantum physics: the experimental evidence for quantization; a qualitative discussion of the concepts of quantum mechanics and their application to simple systems of atoms and nuclei. [4-0-0]\nPrerequisite: Either (a) one of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153 and one of MATH 101, MATH 103, MATH 105, MATH 121;  or (b) SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "PHYS 153"
+        ],
         "postreqs": [],
-        "x": -504,
-        "y": 285,
+        "x": -460,
+        "y": 380,
         "group": "phys"
     },
     {
@@ -220,23 +275,17 @@
         "title": "Thermal Physics I",
         "credits": 4,
         "desc": "Fundamentals of thermodynamics and statistical physics; entropy, laws of thermodynamics, heat engines, free energy, phase transitions, Boltzmann statistics, quantum statistics. [4-0-0]\nPrerequisite: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.\nCorequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\n",
-        "coreqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
-        ],
+        "coreqs": [],
         "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "PHYS 153"
         ],
         "postreqs": [],
-        "x": -509,
-        "y": 288,
+        "x": -464,
+        "y": 383,
         "group": "phys"
     },
     {
@@ -244,31 +293,22 @@
         "title": "Intermediate Experimental Physics",
         "credits": 3,
         "desc": "Use of analog electronics and amplifiers, digital electronics and analog-to-digital conversion and the use of computers in data analysis and simulations in thermodynamic, electronic and modern physics experiments. [0-3-1*]\nPrerequisite: Either (a) all of PHYS 108, PHYS 109 or (b) one of PHYS 102, PHYS 153 or (c) SCIE 001 or (d) all of PHYS 158, PHYS 159 or (e) all of PHYS 118, PHYS 119 or (f) all of PHYS 108, PHYS 119.\nCorequisite: One of MATH 215, MATH 255, MATH 256, MATH 258 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\n",
-        "coreqs": [
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 258",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
-        ],
+        "coreqs": [],
         "prereqs": [
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 258",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
+            "PHYS 108",
+            "PHYS 109",
+            "PHYS 102",
+            "PHYS 153",
+            "PHYS 158",
+            "PHYS 159",
+            "PHYS 118",
+            "PHYS 119",
+            "PHYS 108",
+            "PHYS 119"
         ],
         "postreqs": [],
-        "x": -513,
-        "y": 291,
+        "x": -469,
+        "y": 386,
         "group": "phys"
     },
     {
@@ -276,17 +316,17 @@
         "title": "Introduction to Computational Physics",
         "credits": 3,
         "desc": "Introduction to UNIX/Linux; software tools for processing, fitting and displaying data; numerical methods and application in the physical sciences. [2-3-0]\nPrerequisite: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.\nCorequisite: One of MATH 152, MATH 221, MATH 223.\n",
-        "coreqs": [
-            "MATH 221",
-            "MATH 223"
-        ],
+        "coreqs": [],
         "prereqs": [
-            "MATH 221",
-            "MATH 223"
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "PHYS 153"
         ],
         "postreqs": [],
-        "x": -518,
-        "y": 294,
+        "x": -474,
+        "y": 389,
         "group": "phys"
     },
     {
@@ -294,23 +334,16 @@
         "title": "Intermediate Mechanics",
         "credits": 3,
         "desc": "Review of kinematics, Newton's laws, angular momentum and fixed axis rotation. Rigid body motion, central forces, non-inertial frames of reference. Introduction to Lagrangian and Hamiltonian mechanics. [3-0-1]\nPrerequisite: One of PHYS 106, PHYS 107, PHYS 117, PHYS 170, SCIE 001 and one of MATH 152, MATH 221, MATH 223.\nCorequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\n",
-        "coreqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
-        ],
+        "coreqs": [],
         "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 170"
         ],
         "postreqs": [],
-        "x": -523,
-        "y": 296,
+        "x": -479,
+        "y": 391,
         "group": "phys"
     },
     {
@@ -318,21 +351,19 @@
         "title": "Intermediate Experimental Physics I",
         "credits": 2,
         "desc": "Analog electronics and amplifiers, digital electronics, analog-to-digital converters and an introduction to use of computers in data analysis and simulations. [1-3-0]\nPrerequisite: Either (a) one of PHYS 108, PHYS 118 and one of PHYS 109, PHYS 119;  or (b) PHYS 102 or (c) all of PHYS 158, PHYS 159 or (d) SCIE 001.\nCorequisite: One of MATH 200, MATH 217, MATH 226, MATH 253.\n",
-        "coreqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253"
-        ],
+        "coreqs": [],
         "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253"
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 109",
+            "PHYS 119",
+            "PHYS 102",
+            "PHYS 158",
+            "PHYS 159"
         ],
         "postreqs": [],
-        "x": -528,
-        "y": 298,
+        "x": -484,
+        "y": 393,
         "group": "phys"
     },
     {
@@ -340,15 +371,13 @@
         "title": "Intermediate Experimental Physics II",
         "credits": 1,
         "desc": "Thermodynamics experiments, modern physics experiments and use of computers in data analysis. [0-3-1*]\nPrerequisite: PHYS 219.\nCorequisite: MATH 215.\n",
-        "coreqs": [
-            "MATH 215"
-        ],
+        "coreqs": [],
         "prereqs": [
-            "MATH 215"
+            "PHYS 219"
         ],
         "postreqs": [],
-        "x": -533,
-        "y": 300,
+        "x": -489,
+        "y": 395,
         "group": "phys"
     },
     {
@@ -357,10 +386,16 @@
         "credits": 3,
         "desc": "Wave-particle duality of matter, special relativity, processes in atomic, nuclear and solid state, and introduction to quantum mechanical devices and techniques. [3-0-1]\nPrerequisite: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "PHYS 153"
+        ],
         "postreqs": [],
-        "x": -539,
-        "y": 302,
+        "x": -495,
+        "y": 396,
         "group": "phys"
     },
     {
@@ -369,10 +404,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the winter term of the second year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 200.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 200"
+        ],
         "postreqs": [],
-        "x": -544,
-        "y": 303,
+        "x": -500,
+        "y": 398,
         "group": "phys"
     },
     {
@@ -381,10 +418,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the summer following the second year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 298.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 298"
+        ],
         "postreqs": [],
-        "x": -550,
-        "y": 304,
+        "x": -505,
+        "y": 399,
         "group": "phys"
     },
     {
@@ -393,10 +432,16 @@
         "credits": 3,
         "desc": "Maxwell's equations and their applications, electrical fields and potentials of static charge distributions, current, fields of moving charges, magnetic fields, electromagnetic induction. [3-0-1]\nPrerequisite: One of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and one of MATH 217, MATH 227, MATH 317 and one of MATH 215, MATH 255.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 158"
+        ],
         "postreqs": [],
-        "x": -555,
-        "y": 304,
+        "x": -511,
+        "y": 399,
         "group": "phys"
     },
     {
@@ -405,18 +450,15 @@
         "credits": 3,
         "desc": "Principles and applications of quantum mechanics, wave mechanics, the Schroedinger equation, expectation values, Hermitian operators, commuting observables, one-dimensional systems, harmonic oscillators, angular momentum, three-dimensional systems. [3-0-0]\nPrerequisite: One of PHYS 200, PHYS 250.\nCorequisite: One of MATH 257, MATH 316, PHYS 312.\n",
         "coreqs": [
-            "MATH 257",
-            "MATH 316",
             "PHYS 312"
         ],
         "prereqs": [
-            "MATH 257",
-            "MATH 316",
-            "PHYS 312"
+            "PHYS 200",
+            "PHYS 250"
         ],
         "postreqs": [],
-        "x": -561,
-        "y": 305,
+        "x": -516,
+        "y": 399,
         "group": "phys"
     },
     {
@@ -425,10 +467,18 @@
         "credits": 3,
         "desc": "Physical principles involved in biological systems at the microscopic and molecular scales. Diffusion, low Reynolds number dynamics, the physicist's view of biomolecular structure, models of molecular motors and membranes. [3-0-0]\nPrerequisite: One of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and either (a) PHYS 203 or (b) one of ENPH 257, CHEM 201, CHEM 205 and one of MATH 302, MATH 318, STAT 241, STAT 251, STAT 302.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 158",
+            "PHYS 203",
+            "ENPH 257"
+        ],
         "postreqs": [],
-        "x": -566,
-        "y": 305,
+        "x": -522,
+        "y": 399,
         "group": "phys"
     },
     {
@@ -437,10 +487,13 @@
         "credits": 3,
         "desc": "Variational calculus, Lagrangian dynamics, rigid body motion including free and forced precession, Hamiltonian mechanics, Poisson brackets, canonical coordinates, Hamilton-Jacobi theory, action angle variables. Introduction to dynamical chaos: determinism, Lyapunov exponents. [3-0-1]\nPrerequisite: One of PHYS 216, ENPH 270 and one of MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 216",
+            "ENPH 270"
+        ],
         "postreqs": [],
-        "x": -572,
-        "y": 304,
+        "x": -527,
+        "y": 399,
         "group": "phys"
     },
     {
@@ -449,10 +502,14 @@
         "credits": 3,
         "desc": "Selected experiments in electromagnetism and electronics; computer data acquisition; advanced data analysis and simulation. [1-4-0]\nPrerequisite: One of PHYS 209, PHYS 229, ENPH 259.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 209",
+            "PHYS 229",
+            "ENPH 259"
+        ],
         "postreqs": [],
-        "x": -577,
-        "y": 304,
+        "x": -533,
+        "y": 399,
         "group": "phys"
     },
     {
@@ -463,8 +520,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -582,
-        "y": 303,
+        "x": -538,
+        "y": 398,
         "group": "phys"
     },
     {
@@ -475,12 +532,10 @@
         "coreqs": [
             "PHYS 203"
         ],
-        "prereqs": [
-            "PHYS 203"
-        ],
+        "prereqs": [],
         "postreqs": [],
-        "x": -588,
-        "y": 302,
+        "x": -544,
+        "y": 396,
         "group": "phys"
     },
     {
@@ -488,15 +543,16 @@
         "title": "Quantum Physics of Materials",
         "credits": 3,
         "desc": "Crystal structure, elasticity and phonons, elementary electronic transport, defects, alloys, liquid crystals and polymers. [3-0-0]\nPrerequisite: One of PHYS 203, ENPH 257, CHEM 201, CHEM 205, CHEM 304 and one of PHYS 200, PHYS 250, CHEM 312.\nCorequisite: MATH 215.\n",
-        "coreqs": [
-            "MATH 215"
-        ],
+        "coreqs": [],
         "prereqs": [
-            "MATH 215"
+            "PHYS 203",
+            "ENPH 257",
+            "PHYS 200",
+            "PHYS 250"
         ],
         "postreqs": [],
-        "x": -593,
-        "y": 300,
+        "x": -549,
+        "y": 395,
         "group": "phys"
     },
     {
@@ -505,10 +561,14 @@
         "credits": 3,
         "desc": "Experimental techniques of acoustics: data acquisition hardware and software, microphones, loudspeakers, noise, vibration and modal analysis. [2-3-0]\nPrerequisite: One of ENPH 259, PHYS 209, PHYS 229.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ENPH 259",
+            "PHYS 209",
+            "PHYS 229"
+        ],
         "postreqs": [],
-        "x": -598,
-        "y": 298,
+        "x": -554,
+        "y": 393,
         "group": "phys"
     },
     {
@@ -517,10 +577,14 @@
         "credits": 3,
         "desc": "A project-oriented lab introducing the design and construction of microprocessor-controlled devices. [1-4-0]\nPrerequisite: One of PHYS 209, PHYS 219, ENPH 259.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 209",
+            "PHYS 219",
+            "ENPH 259"
+        ],
         "postreqs": [],
-        "x": -603,
-        "y": 296,
+        "x": -559,
+        "y": 391,
         "group": "phys"
     },
     {
@@ -529,10 +593,18 @@
         "credits": 3,
         "desc": "Quantum physics, nuclear energy and particle physics at a level suitable for third- and fourth-year Science students not proceeding to a physics degree. Not for credit towards a B.Sc. in Astronomy, Biophysics or Physics. [3-0-0]\nPrerequisite: Either (a) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 180, MATH 184 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157;  or (b) SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157"
+        ],
         "postreqs": [],
-        "x": -608,
-        "y": 294,
+        "x": -564,
+        "y": 389,
         "group": "phys"
     },
     {
@@ -541,10 +613,22 @@
         "credits": 3,
         "desc": "The fundamental physics behind global issues of energy use and climate change. [3-0-0]\nPrerequisite: Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158;  or (b) SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 102",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 108",
+            "PHYS 117",
+            "PHYS 118",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157",
+            "PHYS 158"
+        ],
         "postreqs": [],
-        "x": -613,
-        "y": 291,
+        "x": -569,
+        "y": 386,
         "group": "phys"
     },
     {
@@ -555,8 +639,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -618,
-        "y": 288,
+        "x": -574,
+        "y": 383,
         "group": "phys"
     },
     {
@@ -567,8 +651,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -623,
-        "y": 285,
+        "x": -578,
+        "y": 380,
         "group": "phys"
     },
     {
@@ -579,8 +663,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -627,
-        "y": 282,
+        "x": -583,
+        "y": 377,
         "group": "phys"
     },
     {
@@ -591,8 +675,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -631,
-        "y": 278,
+        "x": -587,
+        "y": 373,
         "group": "phys"
     },
     {
@@ -603,8 +687,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -635,
-        "y": 274,
+        "x": -591,
+        "y": 369,
         "group": "phys"
     },
     {
@@ -613,10 +697,13 @@
         "credits": 3,
         "desc": "Review of principles. Particle mechanics: Euler's equations, tops and gyroscopes, motion of the Earth, Lagrangian and Hamiltonian methods. Variational principles in optics and mechanics, Liouville's theorem and statistical mechanics. The relationship between classical and quantum mechanics. [3-0-0]\nPrerequisite: One of ENPH 270, PHYS 270.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "ENPH 270",
+            "PHYS 270"
+        ],
         "postreqs": [],
-        "x": -639,
-        "y": 270,
+        "x": -595,
+        "y": 365,
         "group": "phys"
     },
     {
@@ -625,10 +712,14 @@
         "credits": 3,
         "desc": "Applications of electricity and magnetism. Maxwell's equations. [3-0-1]\nPrerequisite: One of PHYS 102, PHYS 108, PHYS 153, SCIE 001 and one of MATH 215, MATH 255 and one of MATH 217, MATH 227, MATH 317.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 153"
+        ],
         "postreqs": [],
-        "x": -642,
-        "y": 266,
+        "x": -598,
+        "y": 361,
         "group": "phys"
     },
     {
@@ -637,10 +728,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the summer following the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 299.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 299"
+        ],
         "postreqs": [],
-        "x": -645,
-        "y": 262,
+        "x": -601,
+        "y": 356,
         "group": "phys"
     },
     {
@@ -649,10 +742,13 @@
         "credits": 3,
         "desc": "Standard model, classification of elementary particles and forces of nature, symmetries, conservation laws, quark model, quantum electrodynamics, quantum chromodynamics, and the theory of weak interactions. [3-0-0]\nPrerequisite: One of PHYS 304, PHYS 450.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 304",
+            "PHYS 450"
+        ],
         "postreqs": [],
-        "x": -649,
-        "y": 257,
+        "x": -604,
+        "y": 352,
         "group": "phys"
     },
     {
@@ -661,10 +757,13 @@
         "credits": 3,
         "desc": "Applications of Maxwell's theory. Wave propagation in dielectrics, conductors and plasmas, wave guides, radiation, antennae, and special relativity. [3-0-0]\nPrerequisite: One of PHYS 301, PHYS 354.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 301",
+            "PHYS 354"
+        ],
         "postreqs": [],
-        "x": -651,
-        "y": 252,
+        "x": -607,
+        "y": 347,
         "group": "phys"
     },
     {
@@ -673,10 +772,13 @@
         "credits": 3,
         "desc": "Spin and angular momentum addition, perturbation methods, and applications in the fields of Atomic, Molecular, Nuclear, and Solid State Physics. [3-0-0]\nPrerequisite: One of PHYS 304, PHYS 450.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 304",
+            "PHYS 450"
+        ],
         "postreqs": [],
-        "x": -654,
-        "y": 247,
+        "x": -610,
+        "y": 342,
         "group": "phys"
     },
     {
@@ -685,10 +787,16 @@
         "credits": 3,
         "desc": "Principles and applications of  statistical mechanics. Ideal gases, degenerate Fermi gases, Bose-Einstein condensation, black body radiation, fluctuations and phase transitions. [3-0-0]\nPrerequisite: One of PHYS 203, ENPH 257, PHYS 257, CHEM 201, CHEM 304 and one of PHYS 304, PHYS 450, CHEM 312. One of MATH 302, MATH 318, STAT 241, STAT 251, STAT 302 is recommended.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 203",
+            "ENPH 257",
+            "PHYS 257",
+            "PHYS 304",
+            "PHYS 450"
+        ],
         "postreqs": [],
-        "x": -656,
-        "y": 242,
+        "x": -612,
+        "y": 337,
         "group": "phys"
     },
     {
@@ -699,8 +807,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -658,
-        "y": 237,
+        "x": -614,
+        "y": 332,
         "group": "phys"
     },
     {
@@ -709,10 +817,16 @@
         "credits": 3,
         "desc": "Physical and chemical interactions of ionizing radiations and their biological effects at the cellular, tissue and whole-animal levels. [3-0-0]\nPrerequisite: One of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and third year standing in Science or Applied Science.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 158"
+        ],
         "postreqs": [],
-        "x": -660,
-        "y": 232,
+        "x": -615,
+        "y": 327,
         "group": "phys"
     },
     {
@@ -723,8 +837,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -661,
-        "y": 227,
+        "x": -617,
+        "y": 321,
         "group": "phys"
     },
     {
@@ -733,10 +847,13 @@
         "credits": 4,
         "desc": "Principles and applications of optical physics. Interference, diffraction, coherence, polarization, Fresnel relations, optical coatings, waves in dielectric media, Gaussian beams, waveguides, optical cavities, lasers, fibre optics, and Fourier optics. [3-3-0]\nPrerequisite: One of PHYS 301, PHYS 354 and one of MATH 215, MATH 255.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 301",
+            "PHYS 354"
+        ],
         "postreqs": [],
-        "x": -662,
-        "y": 221,
+        "x": -618,
+        "y": 316,
         "group": "phys"
     },
     {
@@ -745,10 +862,13 @@
         "credits": 3,
         "desc": "A laboratory course with a wide choice of experiments for fourth year Honours and Major students. Topics include solid state, nuclear, classical, quantum, electromagnetic and low temperature physics. For six credits, two weekly laboratory periods and completion of a project in second term are required. [0-3-0]\nPrerequisite: One of PHYS 309, PHYS 319.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 309",
+            "PHYS 319"
+        ],
         "postreqs": [],
-        "x": -663,
-        "y": 216,
+        "x": -619,
+        "y": 311,
         "group": "phys"
     },
     {
@@ -757,10 +877,14 @@
         "credits": 3,
         "desc": "Scientific programming applied to problems in physics. Fundamentals of numerical analysis for continuum problems. Solution of linear and non-linear algebraic systems, ordinary differential equations and stochastic problems. [3-0-1]\nPrerequisite: One of PHYS 312, MATH 257, MATH 316 and one of PHYS 210, EOSC 211, CPSC 110, CPSC 103, APSC 160.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 312",
+            "PHYS 210",
+            "APSC 160"
+        ],
         "postreqs": [],
-        "x": -663,
-        "y": 210,
+        "x": -619,
+        "y": 305,
         "group": "phys"
     },
     {
@@ -769,10 +893,12 @@
         "credits": 3,
         "desc": "Fundamentals of atomic, nuclear, particle, and condensed matter physics. [3-0-0]\nPrerequisite: MATH 215 and one of CHEM 312, PHYS 200.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 200"
+        ],
         "postreqs": [],
-        "x": -663,
-        "y": 205,
+        "x": -619,
+        "y": 299,
         "group": "phys"
     },
     {
@@ -783,8 +909,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -663,
-        "y": 199,
+        "x": -619,
+        "y": 294,
         "group": "phys"
     },
     {
@@ -793,10 +919,14 @@
         "credits": 3,
         "desc": "Molecular structure and architecture of biological cells, interactions of molecules in aqueous solution and at interfaces, physical properties of polymers and surfactants, mechanisms of cell membranes and cytoplasmic structures, thermodynamics of molecular machines and mechanical enzymes. Credit can not be given for both PHYS 437 and 537. [3-0-0]\nPrerequisite: One of PHYS 313, PHYS 403, PHYS 455, CHEM 304.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 313",
+            "PHYS 403",
+            "PHYS 455"
+        ],
         "postreqs": [],
-        "x": -663,
-        "y": 194,
+        "x": -619,
+        "y": 288,
         "group": "phys"
     },
     {
@@ -805,10 +935,17 @@
         "credits": 3,
         "desc": "Animal systems viewed from a physicist's perspective. Topics include sensory systems, energy budgets, locomotion, internal flows, physical advantages of grouping. [3-0-0]\nPrerequisite: One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157, SCIE 001. BIOL 325 is recommended.\nEquivalency: BIOL 438.\r\n\t",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 157"
+        ],
         "postreqs": [],
-        "x": -662,
-        "y": 188,
+        "x": -618,
+        "y": 283,
         "group": "phys"
     },
     {
@@ -819,8 +956,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -661,
-        "y": 183,
+        "x": -617,
+        "y": 278,
         "group": "phys"
     },
     {
@@ -831,8 +968,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -660,
-        "y": 178,
+        "x": -615,
+        "y": 272,
         "group": "phys"
     },
     {
@@ -841,10 +978,13 @@
         "credits": 3,
         "desc": "Postulates of quantum mechanics, expectation values, hermitian operators, commuting observables, applications to one-dimensional systems, harmonic oscillators, angular momentum, applications in three dimensions, hydrogen atom, time dependent perturbations. Credit will be granted for only one of PHYS 304, 450 or CHEM 312. [3-0-0]\nPrerequisite: One of PHYS 200, PHYS 250.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 200",
+            "PHYS 250"
+        ],
         "postreqs": [],
-        "x": -658,
-        "y": 172,
+        "x": -614,
+        "y": 267,
         "group": "phys"
     },
     {
@@ -853,10 +993,13 @@
         "credits": 3,
         "desc": "Wave propagation and related phenomena in dielectrics, conductors and plasmas. Wave guides, radiation, antennae, special relativity. [3-0-0]\nPrerequisite: One of PHYS 301, PHYS 354.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 301",
+            "PHYS 354"
+        ],
         "postreqs": [],
-        "x": -656,
-        "y": 167,
+        "x": -612,
+        "y": 262,
         "group": "phys"
     },
     {
@@ -865,10 +1008,16 @@
         "credits": 3,
         "desc": "Introduction to quantum statistical mechanics and its application to systems of varying complexity from the simple ideal gas to the degenerate gas. Quantum fluids, phase transitions and simulation methods will also be introduced. Credit will be granted for only one of PHYS 403 or PHYS 455. [3-0-0]\nPrerequisite: One of PHYS 257, PHYS 203, PHYS 313 and one of PHYS 304, PHYS 450.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 257",
+            "PHYS 203",
+            "PHYS 313",
+            "PHYS 304",
+            "PHYS 450"
+        ],
         "postreqs": [],
-        "x": -654,
-        "y": 162,
+        "x": -610,
+        "y": 257,
         "group": "phys"
     },
     {
@@ -877,10 +1026,13 @@
         "credits": 4,
         "desc": "Basic applications of lasers, geometrical optics, fibre optics, diffraction, and Fourier optics. [3-3-0]\nPrerequisite: All of PHYS 250, PHYS 354.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 250",
+            "PHYS 354"
+        ],
         "postreqs": [],
-        "x": -651,
-        "y": 157,
+        "x": -607,
+        "y": 252,
         "group": "phys"
     },
     {
@@ -889,10 +1041,13 @@
         "credits": 3,
         "desc": "Radioactive decay and radiations, nuclear properties, interactions of neutrons, physical principles of power reactors, nuclear fusion, radiation monitoring, and safety. [3-0-1*]\nPrerequisite: One of PHYS 304, PHYS 450.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 304",
+            "PHYS 450"
+        ],
         "postreqs": [],
-        "x": -649,
-        "y": 152,
+        "x": -604,
+        "y": 247,
         "group": "phys"
     },
     {
@@ -901,10 +1056,13 @@
         "credits": 3,
         "desc": "Symmetry of crystal structures, reciprocal lattice, band theory, conduction in metals and semiconductors, phonons and superconductivity. [3-0-0]\nPrerequisite: One of PHYS 450, PHYS 304.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 450",
+            "PHYS 304"
+        ],
         "postreqs": [],
-        "x": -645,
-        "y": 148,
+        "x": -601,
+        "y": 243,
         "group": "phys"
     },
     {
@@ -915,8 +1073,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -642,
-        "y": 143,
+        "x": -598,
+        "y": 238,
         "group": "phys"
     },
     {
@@ -925,10 +1083,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the fall term of the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 399.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 399"
+        ],
         "postreqs": [],
-        "x": -639,
-        "y": 139,
+        "x": -595,
+        "y": 234,
         "group": "phys"
     },
     {
@@ -937,10 +1097,12 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the summer following the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 498.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 498"
+        ],
         "postreqs": [],
-        "x": -635,
-        "y": 135,
+        "x": -591,
+        "y": 230,
         "group": "phys"
     },
     {
@@ -949,10 +1111,12 @@
         "credits": 3,
         "desc": "Non-relativistic quantum mechanics with applications to atomic, nuclear and particle physics. Perturbation theory, multielectron atoms, molecular structure, WKB, scattering theory. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 402.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 402"
+        ],
         "postreqs": [],
-        "x": -631,
-        "y": 131,
+        "x": -587,
+        "y": 226,
         "group": "phys"
     },
     {
@@ -963,8 +1127,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -627,
-        "y": 128,
+        "x": -583,
+        "y": 222,
         "group": "phys"
     },
     {
@@ -973,10 +1137,12 @@
         "credits": 3,
         "desc": "One-electron theory of solids, energy bands, lattice vibration, transport theory. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: A background in undergraduate solid state physics such as covered in PHYS 474 is highly recommended.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 474"
+        ],
         "postreqs": [],
-        "x": -623,
-        "y": 124,
+        "x": -578,
+        "y": 219,
         "group": "phys"
     },
     {
@@ -984,11 +1150,15 @@
         "title": "Condensed Matter Physics II",
         "credits": 3,
         "desc": "Interacting electrons, electron-phonon interaction, Hubbard model, magnetism, superconductivity, use of Green functions. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 502.\nCorequisite: PHYS 500.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "PHYS 500"
+        ],
+        "prereqs": [
+            "PHYS 502"
+        ],
         "postreqs": [],
-        "x": -618,
-        "y": 121,
+        "x": -574,
+        "y": 216,
         "group": "phys"
     },
     {
@@ -997,10 +1167,12 @@
         "credits": 3,
         "desc": "Boundary-value problems, Green's functions and multipole expansions, magnetostatics, Faraday's law of induction, retarded potentials, Poynting's theorem and conservation laws, gauge invariance. Propagation of electromagnetic waves. Presentation of radiation from moving charges, classical electron theory. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: A background in electricity and magnetism such as covered PHYS 401 is highly recommended.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 401"
+        ],
         "postreqs": [],
-        "x": -613,
-        "y": 118,
+        "x": -569,
+        "y": 213,
         "group": "phys"
     },
     {
@@ -1011,8 +1183,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -608,
-        "y": 115,
+        "x": -564,
+        "y": 210,
         "group": "phys"
     },
     {
@@ -1023,8 +1195,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -603,
-        "y": 113,
+        "x": -559,
+        "y": 208,
         "group": "phys"
     },
     {
@@ -1033,10 +1205,12 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: PHYS 526.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 526"
+        ],
         "postreqs": [],
-        "x": -598,
-        "y": 111,
+        "x": -554,
+        "y": 206,
         "group": "phys"
     },
     {
@@ -1047,8 +1221,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -593,
-        "y": 109,
+        "x": -549,
+        "y": 204,
         "group": "phys"
     },
     {
@@ -1059,8 +1233,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -588,
-        "y": 108,
+        "x": -544,
+        "y": 203,
         "group": "phys"
     },
     {
@@ -1071,8 +1245,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -582,
-        "y": 107,
+        "x": -538,
+        "y": 201,
         "group": "phys"
     },
     {
@@ -1083,8 +1257,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -577,
-        "y": 106,
+        "x": -533,
+        "y": 200,
         "group": "phys"
     },
     {
@@ -1095,8 +1269,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -572,
-        "y": 105,
+        "x": -527,
+        "y": 200,
         "group": "phys"
     },
     {
@@ -1105,10 +1279,12 @@
         "credits": 2,
         "desc": "Selected topics from atomic, molecular, solid state, nuclear and elementary particle physics treated by group theory methods. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 500.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 500"
+        ],
         "postreqs": [],
-        "x": -566,
-        "y": 105,
+        "x": -522,
+        "y": 200,
         "group": "phys"
     },
     {
@@ -1119,8 +1295,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -561,
-        "y": 105,
+        "x": -516,
+        "y": 200,
         "group": "phys"
     },
     {
@@ -1129,10 +1305,13 @@
         "credits": 2,
         "desc": "Current issues in condensed matter theory. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: All of PHYS 500, PHYS 503.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 500",
+            "PHYS 503"
+        ],
         "postreqs": [],
-        "x": -555,
-        "y": 105,
+        "x": -511,
+        "y": 200,
         "group": "phys"
     },
     {
@@ -1143,8 +1322,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -550,
-        "y": 106,
+        "x": -505,
+        "y": 200,
         "group": "phys"
     },
     {
@@ -1153,10 +1332,13 @@
         "credits": 2,
         "desc": "Selected topics from current nuclear theory. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: All of PHYS 501, PHYS 505.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 501",
+            "PHYS 505"
+        ],
         "postreqs": [],
-        "x": -544,
-        "y": 107,
+        "x": -500,
+        "y": 201,
         "group": "phys"
     },
     {
@@ -1164,11 +1346,16 @@
         "title": "Elementary Particle Physics",
         "credits": 2,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: All of PHYS 508, PHYS 505.\nCorequisite: PHYS 508.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "PHYS 508"
+        ],
+        "prereqs": [
+            "PHYS 508",
+            "PHYS 505"
+        ],
         "postreqs": [],
-        "x": -539,
-        "y": 108,
+        "x": -495,
+        "y": 203,
         "group": "phys"
     },
     {
@@ -1179,8 +1366,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -533,
-        "y": 109,
+        "x": -489,
+        "y": 204,
         "group": "phys"
     },
     {
@@ -1189,10 +1376,12 @@
         "credits": 2,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: PHYS 504.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 504"
+        ],
         "postreqs": [],
-        "x": -528,
-        "y": 111,
+        "x": -484,
+        "y": 206,
         "group": "phys"
     },
     {
@@ -1203,8 +1392,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -523,
-        "y": 113,
+        "x": -479,
+        "y": 208,
         "group": "phys"
     },
     {
@@ -1215,8 +1404,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -518,
-        "y": 115,
+        "x": -474,
+        "y": 210,
         "group": "phys"
     },
     {
@@ -1227,8 +1416,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -513,
-        "y": 118,
+        "x": -469,
+        "y": 213,
         "group": "phys"
     },
     {
@@ -1239,8 +1428,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -509,
-        "y": 121,
+        "x": -464,
+        "y": 216,
         "group": "phys"
     },
     {
@@ -1251,8 +1440,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -504,
-        "y": 124,
+        "x": -460,
+        "y": 219,
         "group": "phys"
     },
     {
@@ -1263,8 +1452,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -500,
-        "y": 128,
+        "x": -456,
+        "y": 222,
         "group": "phys"
     },
     {
@@ -1275,8 +1464,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -496,
-        "y": 131,
+        "x": -451,
+        "y": 226,
         "group": "phys"
     },
     {
@@ -1287,8 +1476,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -492,
-        "y": 135,
+        "x": -447,
+        "y": 230,
         "group": "phys"
     },
     {
@@ -1299,8 +1488,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -488,
-        "y": 139,
+        "x": -444,
+        "y": 234,
         "group": "phys"
     },
     {
@@ -1311,8 +1500,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -484,
-        "y": 143,
+        "x": -440,
+        "y": 238,
         "group": "phys"
     },
     {
@@ -1323,8 +1512,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -481,
-        "y": 148,
+        "x": -437,
+        "y": 243,
         "group": "phys"
     },
     {
@@ -1335,8 +1524,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -478,
-        "y": 152,
+        "x": -434,
+        "y": 247,
         "group": "phys"
     },
     {
@@ -1347,8 +1536,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -475,
-        "y": 157,
+        "x": -431,
+        "y": 252,
         "group": "phys"
     },
     {
@@ -1359,8 +1548,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -473,
-        "y": 162,
+        "x": -429,
+        "y": 257,
         "group": "phys"
     },
     {
@@ -1371,8 +1560,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -471,
-        "y": 167,
+        "x": -426,
+        "y": 262,
         "group": "phys"
     },
     {
@@ -1383,8 +1572,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -469,
-        "y": 172,
+        "x": -425,
+        "y": 267,
         "group": "phys"
     },
     {
@@ -1395,8 +1584,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -467,
-        "y": 178,
+        "x": -423,
+        "y": 272,
         "group": "phys"
     },
     {
@@ -1407,8 +1596,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -466,
-        "y": 183,
+        "x": -422,
+        "y": 278,
         "group": "phys"
     },
     {
@@ -1417,10 +1606,12 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: A background in undergraduate solid state physics such as covered in PHYS 474 is highly recommended.\n",
         "coreqs": [],
-        "prereqs": [],
+        "prereqs": [
+            "PHYS 474"
+        ],
         "postreqs": [],
-        "x": -465,
-        "y": 188,
+        "x": -420,
+        "y": 283,
         "group": "phys"
     },
     {
@@ -1431,8 +1622,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -464,
-        "y": 194,
+        "x": -420,
+        "y": 288,
         "group": "phys"
     },
     {
@@ -1443,8 +1634,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -463,
-        "y": 199,
+        "x": -419,
+        "y": 294,
         "group": "phys"
     }
 ]
