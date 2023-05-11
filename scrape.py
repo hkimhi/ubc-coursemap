@@ -26,51 +26,74 @@ def scrape(IGNORE_CACHE):
         soup = BeautifulSoup(page.text, 'html.parser')
 
         # print(soup.prettify())
-        main_box = soup.find('dl', class_='double')
 
-        course_descs = []
+        # list to hold all course_info dictionaries for a given course code
+        all_courses = []
 
-        course_dict = {}
-        for i in main_box.children:
-            # Title tag
-            if i.name == "dt":
-                course_dict['name'] = f"{code.upper()} " + i.find('a').attrs['name']
-                course_dict['title'] = i.find('b').text
-                course_dict['credits'] = int(i.text[i.text.find('(') + 1])
-            if i.name == "dd":
-                course_dict['desc'] = i.text
-                coreqs = []
-                prereqs = []
-                postreqs = []
+        courses = soup.find_all('article', class_='node--type-course')
+        for course in courses:
+            course_info = {}
 
-                if("Corequisite" in i.text):
-                    coreqs = i.text.split("Corequisite: ")[1].split('.')[0]
-                    coreqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", coreqs)
-                    coreqs = [elem for elem in coreqs if elem.split(' ')[0] in CODES]
-                if("Prerequisite" in i.text):
-                    prereqs = i.text.split("Prerequisite: ")[1].split('.')[0]
-                    prereqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", prereqs)
-                    prereqs = [elem for elem in prereqs if elem.split(' ')[0] in CODES]
-
-                course_dict['coreqs'] = coreqs
-                course_dict['prereqs'] = prereqs
-                course_dict['postreqs'] = postreqs
+            for elem in course.find('div').children:
+                if elem.name == 'h3':
+                    # get course name, title, and credits
+                    course_info['name'] = elem.get_text()[:8]
+                    course_info['title'] = elem.find('strong').get_text()
+                    course_info['credits'] = int(elem.get_text()[elem.get_text().find('(') + 1])
                 
-                course_descs.append(course_dict)
-                course_dict = {}
+                elif elem.name == 'p' and 'desc' not in course_info:
+                    # first p element, which is the cousre description
+                    course_info['desc'] = elem.get_text()
+                
+                elif elem.name == 'p':
+                    # a following p element, so is either prerequisite or corequisite information
+                    # add full prerequisite blurb to description for user info
+                    if 'desc-prereqs' not in course_info:
+                        course_info['desc-prereqs'] = elem.get_text()
+                    else:
+                        course_info['desc-prereqs'] += '\n' + elem.get_text()
 
-        num = len(course_descs)
+
+                    # get coreqs
+                    if("Corequisite" in elem.text):
+                        coreqs = []
+                        coreqs = elem.text.split("Corequisite: ")[1].split('.')[0]
+                        coreqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", coreqs)
+                        course_info['coreqs'] = coreqs
+                    
+                    # get prereqs
+                    if("Prerequisite" in elem.text):
+                        prereqs = []
+                        prereqs = elem.text.split("Prerequisite: ")[1].split('.')[0]
+                        prereqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", prereqs)
+                        course_info['prereqs'] = prereqs
+                
+            if 'prereqs' not in course_info:
+                # course did not have any prequisites, set to empty list
+                course_info['prereqs'] = []
+            
+            if 'coreqs' not in course_info:
+                # course did not have any corequisites, set to empty list
+                course_info['coreqs'] = []
+
+            # set empty postreqs list, will be filled in later
+            course_info['postreqs'] = []
+
+            all_courses.append(course_info)
+
+        # add X, Y coordinate and group information for plotting the course as a node on a graph
+        num = len(all_courses)
         for i in range(num):
-            course_dict = course_descs[i]
+            course_info = all_courses[i]
             R = 100
             L = 600
-            course_dict['x'] = int(L * np.cos(2*np.pi*j/float(len(CODES))) + R * np.cos(2*np.pi*i / float(num)))
-            course_dict['y'] = int(L * np.sin(2*np.pi*j/float(len(CODES))) + R * np.sin(2*np.pi*i / float(num)))
-            course_dict['group'] = code.lower()
+            course_info['x'] = int(L * np.cos(2*np.pi*j/float(len(CODES))) + R * np.cos(2*np.pi*i / float(num)))
+            course_info['y'] = int(L * np.sin(2*np.pi*j/float(len(CODES))) + R * np.sin(2*np.pi*i / float(num)))
+            course_info['group'] = code.lower()
 
-        # Serializing json
-        courses_json = json.dumps(course_descs, indent=4)
-        # Writing to sample.json
+        # Serialize course to json
+        courses_json = json.dumps(all_courses, indent=4)
+        # Save to file
         with open(filepath, "w") as outfile:
             outfile.write(courses_json)
 
