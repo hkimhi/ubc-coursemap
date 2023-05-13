@@ -12,12 +12,9 @@ IGNORE_CACHE = True
 # If set to False, processing will happen on the current database file (if it exists)
 BUILD_DATABASE = True
 
-# FILEPATH
-# The location where files are saved
-FILEPATH = "courses/{}.json"
-
-# COLS
-COLS = ["name", "desc", "prereqs", "coreqs"]
+# COURSES DIRECTORY
+# The location where JSON files for data scraped from the UBC website for each course code is saved
+COURSE_DIRECTORY = "../courses"
 
 # CODES
 # The course codes of the subjects we are interested in scraping from the UBC website

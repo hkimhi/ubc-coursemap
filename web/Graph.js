@@ -1,5 +1,5 @@
 anychart.onDocumentReady(function () {
-  fetch("./anygraph.json")
+  fetch("../graph.json")
     .then((response) => response.json())
     .then((data) => {
       var chart = anychart.graph();
@@ -64,12 +64,9 @@ anychart.onDocumentReady(function () {
             document.getElementById('course-name').innerHTML = `${node.id} (${node.credits}) - ${node.title}`
             document.getElementById('course-desc').innerHTML = node.desc;
 
-            // node.selected(true);
             chart.unselect();
             chart.select(name);
             chart.select('edge')
-            // chart.select(['CPSC 221']);
-            // chart.nodes().select(name);
           }
         }
       });

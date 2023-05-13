@@ -3,8 +3,8 @@
         "name": "MATH 100",
         "title": "Differential Calculus with Applications",
         "credits": 3,
-        "desc": "Derivatives of elementary functions. Applications and modelling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
-        "desc-prereqs": "Prerequisite: A score of 80% or higher in BC Pre-calculus 12.  High school calculus is strongly recommended.",
+        "desc": "Derivatives of elementary functions. Applications and modelling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
+        "desc-prereqs": "Prerequisite: A score of 80% or higher in BC Pre-calculus 12. High school calculus is strongly recommended.",
         "prereqs": [],
         "coreqs": [],
         "postreqs": [
@@ -25,7 +25,7 @@
         "name": "MATH 101",
         "title": "Integral Calculus with Applications",
         "credits": 3,
-        "desc": "The definite integral, integration techniques, applications, modelling, infinite series. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "The definite integral, integration techniques, applications, modelling, infinite series. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.",
         "prereqs": [
             "MATH 100",
@@ -87,7 +87,7 @@
         "name": "MATH 102",
         "title": "Differential Calculus with Applications to Life Sciences",
         "credits": 3,
-        "desc": "Functions, derivatives, optimization, growth and decay, discrete probability. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Functions, derivatives, optimization, growth and decay, discrete probability. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.",
         "prereqs": [],
         "coreqs": [],
@@ -109,7 +109,7 @@
         "name": "MATH 103",
         "title": "Integral Calculus with Applications to Life Sciences",
         "credits": 3,
-        "desc": "Antiderivatives and definite integrals, infinite series, applications to probability and dynamical systems. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Antiderivatives and definite integrals, infinite series, applications to probability and dynamical systems. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.",
         "prereqs": [
             "MATH 100",
@@ -244,7 +244,7 @@
         "name": "MATH 120",
         "title": "Honours Differential Calculus",
         "credits": 4,
-        "desc": "Limits, derivatives, Mean Value Theorem and applications, elementary functions, optimization, Taylor series, approximation. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [4-0-0]",
+        "desc": "Limits, derivatives, Mean Value Theorem and applications, elementary functions, optimization, Taylor series, approximation. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [4-0-0]",
         "desc-prereqs": "Prerequisite: High-school calculus and one of (a) a score of 95% or higher in BC Principles of Mathematics 12 or Pre-calculus 12; or (b) permission from the Mathematics Department Head.",
         "prereqs": [],
         "coreqs": [],
@@ -265,7 +265,7 @@
         "name": "MATH 121",
         "title": "Honours Integral Calculus",
         "credits": 4,
-        "desc": "Definite integrals and the Fundamental Theorem of Calculus, techniques and applications of integration, infinite series. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [4-0-0]",
+        "desc": "Definite integrals and the Fundamental Theorem of Calculus, techniques and applications of integration, infinite series. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [4-0-0]",
         "desc-prereqs": "Prerequisite: Either (a) a score of 68% or higher in MATH 120 or (b) a score of 80% or higher in one of MATH 100, MATH 102, MATH 104, MATH 180, MATH 184 or (c) a score of 5 in AP Calculus AB.",
         "prereqs": [
             "MATH 120",
@@ -309,7 +309,7 @@
         "name": "MATH 152",
         "title": "Linear Systems",
         "credits": 3,
-        "desc": "2D and 3D geometry, vectors and matrices, eigenvalues and vibration, physical applications. Laboratories demonstrate computer solutions of large systems. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-1*-0]",
+        "desc": "2D and 3D geometry, vectors and matrices, eigenvalues and vibration, physical applications. Laboratories demonstrate computer solutions of large systems. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-1*-0]",
         "desc-prereqs": "Corequisite: MATH 101.",
         "coreqs": [
             "MATH 101"
@@ -360,7 +360,7 @@
         "name": "MATH 180",
         "title": "Differential Calculus with Applications",
         "credits": 4,
-        "desc": "Topics as for Math 100; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination.  [3-0-1.5]",
+        "desc": "Topics as for Math 100; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination.  [3-0-1.5]",
         "desc-prereqs": "Prerequisite: A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.",
         "prereqs": [],
         "coreqs": [],
@@ -382,7 +382,7 @@
         "name": "MATH 184",
         "title": "Differential Calculus for Social Science and Commerce",
         "credits": 4,
-        "desc": "Topics as for Math 104; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination.  [3-0-1.5]",
+        "desc": "Topics as for Math 104; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination.  [3-0-1.5]",
         "desc-prereqs": "Prerequisite: A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.",
         "prereqs": [],
         "coreqs": [],
@@ -534,7 +534,7 @@
         "name": "MATH 217",
         "title": "Multivariable and Vector Calculus",
         "credits": 4,
-        "desc": "Partial differentiation, extreme values, multiple integration, vector fields, line and surface integrals, the divergence theorem, Green's and Stokes' theorems.  Intended for students in Honours Physics and Engineering Physics. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [4-0-0]",
+        "desc": "Partial differentiation, extreme values, multiple integration, vector fields, line and surface integrals, the divergence theorem, Green's and Stokes' theorems.  Intended for students in Honours Physics and Engineering Physics. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [4-0-0]",
         "desc-prereqs": "Prerequisite: A score of 68% or higher in one of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.\nCorequisite: One of MATH 152, MATH 221, MATH 223.",
         "prereqs": [
             "PHYS 102",
@@ -623,7 +623,7 @@
         "name": "MATH 221",
         "title": "Matrix Algebra",
         "credits": 3,
-        "desc": "Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: Either (a) a score of 64% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 or (c) advanced credit for MATH 100.",
         "prereqs": [
             "MATH 100",
@@ -677,7 +677,7 @@
         "name": "MATH 223",
         "title": "Linear Algebra",
         "credits": 3,
-        "desc": "Matrices, eigenvectors, diagonalization, orthogonality, linear systems, applications. Intended for Honours students. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Matrices, eigenvectors, diagonalization, orthogonality, linear systems, applications. Intended for Honours students. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: Either (a) MATH 121 or (b) a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.",
         "prereqs": [
             "MATH 121",
@@ -725,7 +725,7 @@
         "name": "MATH 226",
         "title": "Advanced Calculus I",
         "credits": 3,
-        "desc": "Functions of several variables: limits, continuity, differentiability; implicit functions; Taylor's theorem; extrema; Lagrange multipliers; multiple integration, Fubini's theorem; improper integrals. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Functions of several variables: limits, continuity, differentiability; implicit functions; Taylor's theorem; extrema; Lagrange multipliers; multiple integration, Fubini's theorem; improper integrals. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: Either (a) a score of 68% or higher in MATH 121 or (b) a score of 80% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.\nCorequisite: One of MATH 152, MATH 221, MATH 223.",
         "prereqs": [
             "MATH 121",
@@ -776,7 +776,7 @@
         "name": "MATH 227",
         "title": "Advanced Calculus II",
         "credits": 3,
-        "desc": "Parametrization of curves and surfaces; line and surface integrals; theorems of Green, Gauss, Stokes; applications to physics and/or introduction to differential forms. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Parametrization of curves and surfaces; line and surface integrals; theorems of Green, Gauss, Stokes; applications to physics and/or introduction to differential forms. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: A score of 68% or higher in MATH 226.",
         "prereqs": [
             "MATH 226"
@@ -797,7 +797,7 @@
         "name": "MATH 230",
         "title": "Marvels of Mathematics",
         "credits": 3,
-        "desc": "A variety of topics in mathematics, showcasing its beauty and utility. Intended for a general audience of students whose degrees have no mathematics requirements, but who may be curious about practical and recreational mathematics.  Not for credit in the Faculty of Science. Students who obtain UBC credit for any other mathematics course cannot in the same or later years obtain credit for MATH 230.  [3-0-0]",
+        "desc": "A variety of topics in mathematics, showcasing its beauty and utility. Intended for a general audience of students whose degrees have no mathematics requirements, but who may be curious about practical and recreational mathematics. Not for credit in the Faculty of Science. Students who obtain UBC credit for any other mathematics course cannot in the same or later years obtain credit for MATH 230.  [3-0-0]",
         "prereqs": [],
         "coreqs": [],
         "postreqs": [],
@@ -809,7 +809,7 @@
         "name": "MATH 253",
         "title": "Multivariable Calculus",
         "credits": 3,
-        "desc": "Partial and directional derivatives; maxima and minima; Lagrange multipliers and second derivative test; multiple integrals and applications. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Partial and directional derivatives; maxima and minima; Lagrange multipliers and second derivative test; multiple integrals and applications. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.",
         "prereqs": [
             "MATH 101",
@@ -885,7 +885,7 @@
         "name": "MATH 255",
         "title": "Ordinary Differential Equations",
         "credits": 3,
-        "desc": "Review of linear systems; nonlinear equations and applications; phase plane analysis; Laplace transforms; numerical methods. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Review of linear systems; nonlinear equations and applications; phase plane analysis; Laplace transforms; numerical methods. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.\nCorequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.",
         "prereqs": [
             "MATH 101",
@@ -1000,7 +1000,7 @@
         "name": "MATH 257",
         "title": "Partial Differential Equations",
         "credits": 3,
-        "desc": "Introduction to partial differential equations; Fourier series; the heat, wave and potential equations; boundary-value problems; numerical methods. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Introduction to partial differential equations; Fourier series; the heat, wave and potential equations; boundary-value problems; numerical methods. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 215, MATH 255, MATH 256, MATH 258.",
         "prereqs": [
             "MATH 215",
@@ -1086,7 +1086,7 @@
         "name": "MATH 300",
         "title": "Introduction to Complex Variables",
         "credits": 3,
-        "desc": "Functions of a complex variable, Cauchy-Riemann equations, elementary functions, Cauchy's theorem and contour integration, Laurent series, poles and residues. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Functions of a complex variable, Cauchy-Riemann equations, elementary functions, Cauchy's theorem and contour integration, Laurent series, poles and residues. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\nCorequisite: One of MATH 217, MATH 227, MATH 254, MATH 317.",
         "prereqs": [
             "MATH 200",
@@ -1145,7 +1145,7 @@
         "name": "MATH 302",
         "title": "Introduction to Probability",
         "credits": 3,
-        "desc": "Basic notions of probability, random variables, expectation and conditional expectation, limit theorems.   Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Basic notions of probability, random variables, expectation and conditional expectation, limit theorems.   Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\nEquivalency: STAT 302.",
         "prereqs": [
             "MATH 200",
@@ -1170,7 +1170,7 @@
         "name": "MATH 303",
         "title": "Introduction to Stochastic Processes",
         "credits": 3,
-        "desc": "Discrete-time Markov chains, Poisson processes, continuous time Markov chains, renewal theory. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Discrete-time Markov chains, Poisson processes, continuous time Markov chains, renewal theory. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 302, STAT 302.",
         "prereqs": [
             "MATH 302",
@@ -1186,7 +1186,7 @@
         "name": "MATH 305",
         "title": "Applied Complex Analysis",
         "credits": 3,
-        "desc": "Functions of a complex variable, Cauchy-Riemann equations, contour integration, Laurent series, residues, integrals of multi-valued functions, Fourier transforms. See Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Functions of a complex variable, Cauchy-Riemann equations, contour integration, Laurent series, residues, integrals of multi-valued functions, Fourier transforms. See Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and one of MATH 215, MATH 255, MATH 256, MATH 258.\nCorequisite: One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.",
         "prereqs": [
             "MATH 200",
@@ -1285,7 +1285,7 @@
         "name": "MATH 310",
         "title": "Abstract Linear Algebra",
         "credits": 3,
-        "desc": "Linear spaces, duality, linear mappings, matrices, determinant and trace, spectral theory, Euclidean structure. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Linear spaces, duality, linear mappings, matrices, determinant and trace, spectral theory, Euclidean structure. Consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121.",
         "prereqs": [
             "MATH 152",
@@ -1306,7 +1306,7 @@
         "name": "MATH 312",
         "title": "Introduction to Number Theory",
         "credits": 3,
-        "desc": "Euclidean algorithm, congruences, Fermat's theorem, applications. Some diophantine equations. Distribution of the prime numbers. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  ",
+        "desc": "Euclidean algorithm, congruences, Fermat's theorem, applications. Some diophantine equations. Distribution of the prime numbers. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  ",
         "desc-prereqs": "Prerequisite: One of MATH 220, MATH 223, MATH 226, CPSC 121 and 9 additional credits of mathematics courses.",
         "prereqs": [
             "MATH 220",
@@ -1341,7 +1341,7 @@
         "name": "MATH 316",
         "title": "Elementary Differential Equations II",
         "credits": 3,
-        "desc": "Power series methods (ordinary and regular singular points, Bessel's equation); boundary value problems and separation of variables (Fourier series and other orthogonal series), applications to the vibrating string, heat flow, potentials. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Power series methods (ordinary and regular singular points, Bessel's equation); boundary value problems and separation of variables (Fourier series and other orthogonal series), applications to the vibrating string, heat flow, potentials. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 215, MATH 255, MATH 256, MATH 258.",
         "prereqs": [
             "MATH 215",
@@ -1368,7 +1368,7 @@
         "name": "MATH 317",
         "title": "Calculus IV",
         "credits": 3,
-        "desc": "Parametrizations, inverse and implicit functions, integrals with respect to length and area; grad, div, and curl, theorems of Green, Gauss, and Stokes. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Parametrizations, inverse and implicit functions, integrals with respect to length and area; grad, div, and curl, theorems of Green, Gauss, and Stokes. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 200, MATH 226, MATH 253. One of MATH 152, MATH 221, MATH 223 is recommended.",
         "prereqs": [
             "MATH 200",
@@ -1392,7 +1392,7 @@
         "name": "MATH 318",
         "title": "Probability with Physical Applications",
         "credits": 3,
-        "desc": "Random variables, discrete and continuous distributions. Random walk, Markov chains, Monte Carlo methods. Characteristic functions, limit laws. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Random variables, discrete and continuous distributions. Random walk, Markov chains, Monte Carlo methods. Characteristic functions, limit laws. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 152, MATH 221, MATH 223 and one of MATH 215, MATH 255, MATH 256, MATH 258.\nCorequisite: One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.",
         "prereqs": [
             "MATH 152",
@@ -1425,7 +1425,7 @@
         "name": "MATH 319",
         "title": "Introduction to Real Analysis",
         "credits": 3,
-        "desc": "Ideas and methods of real analysis and their application. Countability and topology of the reals; convergence, continuity and differentiability of functions; metric spaces. Please consult the Faculty of Science credit exclusion list: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Ideas and methods of real analysis and their application. Countability and topology of the reals; convergence, continuity and differentiability of functions; metric spaces. Please consult the Faculty of Science credit exclusion list: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: Either (a) a score of 68% or higher in MATH 220 or (b) a score of 55% or higher in one of MATH 223, MATH 226.",
         "prereqs": [
             "MATH 220",
@@ -1534,7 +1534,7 @@
         "name": "MATH 335",
         "title": "Introduction to Mathematics",
         "credits": 4,
-        "desc": "Intensive course with required tutorial. Combinatorics, probability, geometry and elementary number theory. Not for credit in the Faculty of Science. Students who obtain credit at UBC for any other mathematics course cannot in the same or later years obtain credit for MATH 335. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-2]",
+        "desc": "Intensive course with required tutorial. Combinatorics, probability, geometry and elementary number theory. Not for credit in the Faculty of Science. Students who obtain credit at UBC for any other mathematics course cannot in the same or later years obtain credit for MATH 335. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-2]",
         "prereqs": [],
         "coreqs": [],
         "postreqs": [],
@@ -1769,7 +1769,7 @@
         "name": "MATH 401",
         "title": "Green's Functions and Variational Methods",
         "credits": 3,
-        "desc": "Green's functions for partial differential equations. Calculus of variations. Eigenfunction expansions. Rayleigh-Ritz and finite element methods.  See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Green's functions for partial differential equations. Calculus of variations. Eigenfunction expansions. Rayleigh-Ritz and finite element methods.  See Faculty of Science credit exclusion list: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: Either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.",
         "prereqs": [
             "MATH 256",
@@ -1840,7 +1840,7 @@
         "name": "MATH 405",
         "title": "Numerical Methods for Differential Equations",
         "credits": 3,
-        "desc": "Interpolation, numerical integration, numerical solution of ordinary and partial differential equations. Practical computational methods emphasized and basic theory developed through simple models. See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.  [3-0-0]",
+        "desc": "Interpolation, numerical integration, numerical solution of ordinary and partial differential equations. Practical computational methods emphasized and basic theory developed through simple models. See Faculty of Science credit exclusion list: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists  [3-0-0]",
         "desc-prereqs": "Prerequisite: One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.",
         "prereqs": [
             "MATH 256",
@@ -5972,7 +5972,7 @@
         "title": "Transport Phenomena II",
         "credits": 4,
         "desc": "Heat and mass transfer; conduction and molecular diffusion; convective transfer; analogies among heat, mass and momentum transfer; heat exchanger design; mass transfer coefficients; interphase mass transfer. This course is not eligible for Credit/D/Fail grading. [4-0-2*]",
-        "desc-prereqs": "Prerequisite: Two of CHBE 251, MATH 253, MATH 256.",
+        "desc-prereqs": "Prerequisite: All of CHBE 251, MATH 253, MATH 256.",
         "prereqs": [
             "CHBE 251",
             "MATH 253",
@@ -20032,7 +20032,7 @@
         "title": "Principles of Physical Hydrogeology",
         "credits": 3,
         "desc": "Theories of storage and movement of water within groundwater systems; Groundwater-surface water interaction; Role of groundwater systems in watershed management and regulating the environmental impacts of global change; Groundwater sustainability; Impacts of climate & land use changes on groundwater resources This course is not eligible for Credit/D/Fail grading. [3-0-1]",
-        "desc-prereqs": "Prerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and 3rd year standing in Science, Land and Food Systems or Forestry",
+        "desc-prereqs": "Prerequisite: (a) 3rd year standing in Science, Land and Food Systems, or Forestry; and (b) One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.",
         "prereqs": [
             "MATH 101",
             "MATH 103",
@@ -21182,7 +21182,7 @@
         "name": "EOSC 534",
         "title": "Geological Engineering: Soils and Weak Rocks",
         "credits": 3,
-        "desc": "Consult the credit exclusion list in the Faculty of Science section of the Calendar.  http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414#4978 This course is not eligible for Credit/D/Fail grading. ",
+        "desc": "Consult the credit exclusion list in the Faculty of Science section of the Calendar.  https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists This course is not eligible for Credit/D/Fail grading. ",
         "prereqs": [],
         "coreqs": [],
         "postreqs": [],
@@ -21206,7 +21206,7 @@
         "name": "EOSC 536",
         "title": "Advanced Rock Engineering",
         "credits": 3,
-        "desc": "Consult the credit exclusion list in the Faculty of Science section of the Calendar.  http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414#4978 This course is not eligible for Credit/D/Fail grading. ",
+        "desc": "Consult the credit exclusion list in the Faculty of Science section of the Calendar.  https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/bachelor-science/credit-exclusion-lists This course is not eligible for Credit/D/Fail grading. ",
         "prereqs": [],
         "coreqs": [],
         "postreqs": [],

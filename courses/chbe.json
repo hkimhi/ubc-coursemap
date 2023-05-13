@@ -259,7 +259,7 @@
         "title": "Transport Phenomena II",
         "credits": 4,
         "desc": "Heat and mass transfer; conduction and molecular diffusion; convective transfer; analogies among heat, mass and momentum transfer; heat exchanger design; mass transfer coefficients; interphase mass transfer. This course is not eligible for Credit/D/Fail grading. [4-0-2*]",
-        "desc-prereqs": "Prerequisite: Two of CHBE 251, MATH 253, MATH 256.",
+        "desc-prereqs": "Prerequisite: All of CHBE 251, MATH 253, MATH 256.",
         "prereqs": [
             "CHBE 251",
             "MATH 253",

@@ -1,31 +1,21 @@
 from config import *
 
 from bs4 import BeautifulSoup
-from os.path import exists
+import os
 import requests
 import json
 import re
 import numpy as np
 
-def scrape(IGNORE_CACHE):
-    codes_subset = []
-
-    for code in CODES:
-        if (IGNORE_CACHE or not exists(FILEPATH.format(code.lower()))):
-            codes_subset.append(code)
-        else:
-            print(f"File already exists for code {code}, skipping.")
-
-    for j in range(len(codes_subset)):
-        code = codes_subset[j]
+def scrape():
+    # process each course code from the CODES list
+    for j in range(len(CODES)):
+        code = CODES[j]
         print(f"Processing {code} courses...")
 
-        filepath = FILEPATH.format(code.lower())
-
+        # get the UBC page for the given course code
         page = requests.get(BASE_LINK.format(code))
         soup = BeautifulSoup(page.text, 'html.parser')
-
-        # print(soup.prettify())
 
         # list to hold all course_info dictionaries for a given course code
         all_courses = []
@@ -93,11 +83,10 @@ def scrape(IGNORE_CACHE):
 
         # Serialize course to json
         courses_json = json.dumps(all_courses, indent=4)
+        
         # Save to file
+        filepath = os.path.join(os.path.dirname(__file__), COURSE_DIRECTORY, f"{code.lower()}.json")
         with open(filepath, "w") as outfile:
             outfile.write(courses_json)
 
     print("Finished processing!")
-
-if __name__ == '__main__':
-    scrape(IGNORE_CACHE)
