@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "web:watch": "cd web && npx reload"
+  },
+  "dependencies": {
+    "graphology": "^0.25.1",
+    "sigma": "^3.0.0-alpha3"
+  }
+}

@@ -2,6 +2,10 @@
 
 This project is intended to facilitate course planning by displaying an interactive graph of all courses at UBC and how they relate to one another by prerequisite, corequisite, and postrequisite relationships.
 
+## Setup
+
+This project uses `Sigma.js` which has a dependency of `graphology`. To install both, run `npm install graphology sigma` in the project directory.
+
 ## Running it locally
 
 To run this project locally, there are a couple of steps involved. Running the `main.py` file will do all of these for you:
