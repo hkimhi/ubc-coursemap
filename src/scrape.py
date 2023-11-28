@@ -7,14 +7,9 @@ import re
 from time import sleep
 from pathlib import Path
 
-# Define your database file and table name
-FILE_NAME = 'courses.db'
-TABLE_NAME = 'courses'
-FILEPATH = Path(__file__).parent.parent / FILE_NAME
-
 def scrape():
     # Create SQLite connection and cursor
-    connection = sqlite3.connect(FILEPATH)
+    connection = sqlite3.connect(FILE_PATH)
     cursor = connection.cursor()
 
     # Create table if it does not exist
@@ -111,3 +106,6 @@ def scrape():
 
     # Close the SQLite connection
     connection.close()
+
+if __name__ == '__main__':
+    scrape()

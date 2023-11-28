@@ -1,3 +1,5 @@
+from pathlib import Path
+
 # IGNORE_CACHE
 # Default: False
 # Only used for scraping
@@ -12,9 +14,17 @@ IGNORE_CACHE = False
 # If set to False, processing will happen on the current database file (if it exists)
 BUILD_DATABASE = True
 
-# COURSES DIRECTORY
-# The location where JSON files for data scraped from the UBC website for each course code is saved
-COURSE_DIRECTORY = "../courses"
+# FILE_NAME
+# Default: 'courses.db'
+# The name of the file that will contain the SQLite3 database of all the course information
+# FILEPATH is a constant which uses the pathlib library to get the OS-dependent full path to the file
+FILE_NAME = 'courses.sqlite3'
+FILE_PATH = Path(__file__).parent.parent / FILE_NAME
+
+# TABLE_NAME
+# Default: 'courses'
+# The name of the table in the SQLite3 database file
+TABLE_NAME = 'courses'
 
 # CODES
 # The course codes of the subjects we are interested in scraping from the UBC website
