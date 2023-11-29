@@ -6,11 +6,11 @@ import sqlite3
 # 3. Batch update back to database
 def fill_postreqs():
     # Create SQLite connection and cursor
-    connection = sqlite3.connect(FILE_PATH)
+    connection = sqlite3.connect(DATABASE_FILE_PATH)
     cursor = connection.cursor()
 
     # Fetch all courses
-    cursor.execute(f"SELECT name, prereqs FROM {TABLE_NAME}")
+    cursor.execute(f"SELECT name, prereqs FROM {DATABASE_TABLE_NAME}")
     all_courses = cursor.fetchall()
 
     # Dictionary to store postreqs for each course
@@ -28,7 +28,7 @@ def fill_postreqs():
     # Update the postreqs field in the database
     for course_name, postreqs in postreqs_dict.items():
         postreqs_str = ', '.join(postreqs)
-        cursor.execute(f"UPDATE {TABLE_NAME} SET postreqs = ? WHERE name = ?",
+        cursor.execute(f"UPDATE {DATABASE_TABLE_NAME} SET postreqs = ? WHERE name = ?",
                        (postreqs_str, course_name))
     
     # Commit postreqs to the database

@@ -9,11 +9,11 @@ from pathlib import Path
 
 def scrape():
     # Create SQLite connection and cursor
-    connection = sqlite3.connect(FILE_PATH)
+    connection = sqlite3.connect(DATABASE_FILE_PATH)
     cursor = connection.cursor()
 
     # Create table if it does not exist
-    cursor.execute(f'''CREATE TABLE IF NOT EXISTS {TABLE_NAME} (
+    cursor.execute(f'''CREATE TABLE IF NOT EXISTS {DATABASE_TABLE_NAME} (
                 name TEXT UNIQUE,
                 code TEXT,
                 title TEXT,
@@ -85,7 +85,7 @@ def scrape():
             course_info['postreqs'] = []
 
             # Insert course into SQLite table (if it does not already exist)
-            cursor.execute(f'''INSERT OR IGNORE INTO {TABLE_NAME} (
+            cursor.execute(f'''INSERT OR IGNORE INTO {DATABASE_TABLE_NAME} (
                            name, code, title, credits, desc,
                            desc_prereqs, prereqs, coreqs, postreqs
                            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)

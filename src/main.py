@@ -4,7 +4,7 @@ from fill_postreqs import fill_postreqs
 from build_graph import build_graph
 
 # Scrape course data from the UBC website
-if IGNORE_CACHE or not FILE_PATH.is_file():
+if IGNORE_CACHE or not DATABASE_FILE_PATH.is_file():
     scrape()
 
 # Compile all courses into one file and fill in prerequisite relationships
